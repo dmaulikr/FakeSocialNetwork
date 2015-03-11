@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FKBFeedCollectionViewLayout.h
 //  FakeSocialNetwork
 //
 //  Created by Renato Camilio on 2015-03-11.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FSNFeedCollectionViewLayout : UICollectionViewFlowLayout
 
 @end
-

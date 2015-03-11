@@ -7,13 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8891484C1AB100DA005FD32A /* FSNFeedCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8891484B1AB100DA005FD32A /* FSNFeedCollectionViewController.m */; };
+		8891484F1AB10188005FD32A /* FSNFeedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8891484E1AB10188005FD32A /* FSNFeedViewController.m */; };
 		88A549261AB0FE5100B27EB1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A549251AB0FE5100B27EB1 /* main.m */; };
 		88A549291AB0FE5100B27EB1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A549281AB0FE5100B27EB1 /* AppDelegate.m */; };
-		88A5492C1AB0FE5100B27EB1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A5492B1AB0FE5100B27EB1 /* ViewController.m */; };
-		88A5492F1AB0FE5100B27EB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88A5492D1AB0FE5100B27EB1 /* Main.storyboard */; };
 		88A549311AB0FE5100B27EB1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88A549301AB0FE5100B27EB1 /* Images.xcassets */; };
 		88A549341AB0FE5100B27EB1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88A549321AB0FE5100B27EB1 /* LaunchScreen.xib */; };
 		88A549401AB0FE5100B27EB1 /* FakeSocialNetworkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A5493F1AB0FE5100B27EB1 /* FakeSocialNetworkTests.m */; };
+		88A5494A1AB0FEAC00B27EB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88A549491AB0FEAC00B27EB1 /* Main.storyboard */; };
+		88A5494D1AB0FECA00B27EB1 /* FSNFeedCollectionViewLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A5494C1AB0FECA00B27EB1 /* FSNFeedCollectionViewLayout.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,19 +29,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8891484A1AB100DA005FD32A /* FSNFeedCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNFeedCollectionViewController.h; sourceTree = "<group>"; };
+		8891484B1AB100DA005FD32A /* FSNFeedCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNFeedCollectionViewController.m; sourceTree = "<group>"; };
+		8891484D1AB10188005FD32A /* FSNFeedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNFeedViewController.h; sourceTree = "<group>"; };
+		8891484E1AB10188005FD32A /* FSNFeedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNFeedViewController.m; sourceTree = "<group>"; };
 		88A549201AB0FE5100B27EB1 /* FakeSocialNetwork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FakeSocialNetwork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88A549241AB0FE5100B27EB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		88A549251AB0FE5100B27EB1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		88A549271AB0FE5100B27EB1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		88A549281AB0FE5100B27EB1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		88A5492A1AB0FE5100B27EB1 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		88A5492B1AB0FE5100B27EB1 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		88A5492E1AB0FE5100B27EB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		88A549301AB0FE5100B27EB1 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		88A549331AB0FE5100B27EB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		88A549391AB0FE5100B27EB1 /* FakeSocialNetworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FakeSocialNetworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		88A5493E1AB0FE5100B27EB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		88A5493F1AB0FE5100B27EB1 /* FakeSocialNetworkTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FakeSocialNetworkTests.m; sourceTree = "<group>"; };
+		88A549491AB0FEAC00B27EB1 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		88A5494B1AB0FECA00B27EB1 /* FSNFeedCollectionViewLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNFeedCollectionViewLayout.h; sourceTree = "<group>"; };
+		88A5494C1AB0FECA00B27EB1 /* FSNFeedCollectionViewLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNFeedCollectionViewLayout.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,11 +87,9 @@
 		88A549221AB0FE5100B27EB1 /* FakeSocialNetwork */ = {
 			isa = PBXGroup;
 			children = (
-				88A549271AB0FE5100B27EB1 /* AppDelegate.h */,
-				88A549281AB0FE5100B27EB1 /* AppDelegate.m */,
-				88A5492A1AB0FE5100B27EB1 /* ViewController.h */,
-				88A5492B1AB0FE5100B27EB1 /* ViewController.m */,
-				88A5492D1AB0FE5100B27EB1 /* Main.storyboard */,
+				88A549541AB0FF1800B27EB1 /* View */,
+				88A549551AB0FF2000B27EB1 /* Controller */,
+				88A549491AB0FEAC00B27EB1 /* Main.storyboard */,
 				88A549301AB0FE5100B27EB1 /* Images.xcassets */,
 				88A549321AB0FE5100B27EB1 /* LaunchScreen.xib */,
 				88A549231AB0FE5100B27EB1 /* Supporting Files */,
@@ -96,6 +100,8 @@
 		88A549231AB0FE5100B27EB1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				88A549271AB0FE5100B27EB1 /* AppDelegate.h */,
+				88A549281AB0FE5100B27EB1 /* AppDelegate.m */,
 				88A549241AB0FE5100B27EB1 /* Info.plist */,
 				88A549251AB0FE5100B27EB1 /* main.m */,
 			);
@@ -117,6 +123,26 @@
 				88A5493E1AB0FE5100B27EB1 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		88A549541AB0FF1800B27EB1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				88A5494B1AB0FECA00B27EB1 /* FSNFeedCollectionViewLayout.h */,
+				88A5494C1AB0FECA00B27EB1 /* FSNFeedCollectionViewLayout.m */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		88A549551AB0FF2000B27EB1 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				8891484A1AB100DA005FD32A /* FSNFeedCollectionViewController.h */,
+				8891484B1AB100DA005FD32A /* FSNFeedCollectionViewController.m */,
+				8891484D1AB10188005FD32A /* FSNFeedViewController.h */,
+				8891484E1AB10188005FD32A /* FSNFeedViewController.m */,
+			);
+			name = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +189,7 @@
 		88A549181AB0FE5100B27EB1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = FSN;
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = "Renato Camilio";
 				TargetAttributes = {
@@ -199,7 +226,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				88A5492F1AB0FE5100B27EB1 /* Main.storyboard in Resources */,
+				88A5494A1AB0FEAC00B27EB1 /* Main.storyboard in Resources */,
 				88A549341AB0FE5100B27EB1 /* LaunchScreen.xib in Resources */,
 				88A549311AB0FE5100B27EB1 /* Images.xcassets in Resources */,
 			);
@@ -219,9 +246,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				88A5492C1AB0FE5100B27EB1 /* ViewController.m in Sources */,
+				88A5494D1AB0FECA00B27EB1 /* FSNFeedCollectionViewLayout.m in Sources */,
 				88A549291AB0FE5100B27EB1 /* AppDelegate.m in Sources */,
+				8891484C1AB100DA005FD32A /* FSNFeedCollectionViewController.m in Sources */,
 				88A549261AB0FE5100B27EB1 /* main.m in Sources */,
+				8891484F1AB10188005FD32A /* FSNFeedViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,14 +273,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		88A5492D1AB0FE5100B27EB1 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				88A5492E1AB0FE5100B27EB1 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		88A549321AB0FE5100B27EB1 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -412,6 +433,7 @@
 				88A549451AB0FE5100B27EB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		88A549461AB0FE5100B27EB1 /* Build configuration list for PBXNativeTarget "FakeSocialNetworkTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +442,7 @@
 				88A549481AB0FE5100B27EB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
