@@ -1,5 +1,5 @@
 //
-//  FSNFeedViewController.h
+//  FSNTimelineViewController.h
 //  FakeSocialNetwork
 //
 //  Created by Renato Camilio on 2015-03-09.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FSNFeedViewController : UIViewController
+@interface FSNTimelineViewController : UITableViewController
 
 @end
