@@ -11,10 +11,10 @@
 		889148521AB10D93005FD32A /* FSNPostTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 889148511AB10D93005FD32A /* FSNPostTableViewCell.m */; };
 		889148551AB11931005FD32A /* FSNPost.m in Sources */ = {isa = PBXBuildFile; fileRef = 889148541AB11931005FD32A /* FSNPost.m */; };
 		889148591AB119D2005FD32A /* FSNUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 889148581AB119D2005FD32A /* FSNUser.m */; };
+		8891485C1AB161DB005FD32A /* UIColor+FSNColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 8891485B1AB161DB005FD32A /* UIColor+FSNColor.m */; };
 		88A549261AB0FE5100B27EB1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A549251AB0FE5100B27EB1 /* main.m */; };
 		88A549291AB0FE5100B27EB1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A549281AB0FE5100B27EB1 /* AppDelegate.m */; };
 		88A549311AB0FE5100B27EB1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88A549301AB0FE5100B27EB1 /* Images.xcassets */; };
-		88A549341AB0FE5100B27EB1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88A549321AB0FE5100B27EB1 /* LaunchScreen.xib */; };
 		88A549401AB0FE5100B27EB1 /* FakeSocialNetworkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A5493F1AB0FE5100B27EB1 /* FakeSocialNetworkTests.m */; };
 		88A5494A1AB0FEAC00B27EB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88A549491AB0FEAC00B27EB1 /* Main.storyboard */; };
 /* End PBXBuildFile section */
@@ -38,13 +38,14 @@
 		889148541AB11931005FD32A /* FSNPost.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNPost.m; sourceTree = "<group>"; };
 		889148571AB119D2005FD32A /* FSNUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNUser.h; sourceTree = "<group>"; };
 		889148581AB119D2005FD32A /* FSNUser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNUser.m; sourceTree = "<group>"; };
+		8891485A1AB161DB005FD32A /* UIColor+FSNColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+FSNColor.h"; sourceTree = "<group>"; };
+		8891485B1AB161DB005FD32A /* UIColor+FSNColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+FSNColor.m"; sourceTree = "<group>"; };
 		88A549201AB0FE5100B27EB1 /* FakeSocialNetwork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FakeSocialNetwork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88A549241AB0FE5100B27EB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		88A549251AB0FE5100B27EB1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		88A549271AB0FE5100B27EB1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		88A549281AB0FE5100B27EB1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		88A549301AB0FE5100B27EB1 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		88A549331AB0FE5100B27EB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		88A549391AB0FE5100B27EB1 /* FakeSocialNetworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FakeSocialNetworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		88A5493E1AB0FE5100B27EB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		88A5493F1AB0FE5100B27EB1 /* FakeSocialNetworkTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FakeSocialNetworkTests.m; sourceTree = "<group>"; };
@@ -101,12 +102,13 @@
 		88A549221AB0FE5100B27EB1 /* FakeSocialNetwork */ = {
 			isa = PBXGroup;
 			children = (
+				8891485A1AB161DB005FD32A /* UIColor+FSNColor.h */,
+				8891485B1AB161DB005FD32A /* UIColor+FSNColor.m */,
 				889148561AB11936005FD32A /* Model */,
 				88A549541AB0FF1800B27EB1 /* View */,
 				88A549551AB0FF2000B27EB1 /* Controller */,
 				88A549491AB0FEAC00B27EB1 /* Main.storyboard */,
 				88A549301AB0FE5100B27EB1 /* Images.xcassets */,
-				88A549321AB0FE5100B27EB1 /* LaunchScreen.xib */,
 				88A549231AB0FE5100B27EB1 /* Supporting Files */,
 			);
 			path = FakeSocialNetwork;
@@ -240,7 +242,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				88A5494A1AB0FEAC00B27EB1 /* Main.storyboard in Resources */,
-				88A549341AB0FE5100B27EB1 /* LaunchScreen.xib in Resources */,
 				88A549311AB0FE5100B27EB1 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8891485C1AB161DB005FD32A /* UIColor+FSNColor.m in Sources */,
 				88A549291AB0FE5100B27EB1 /* AppDelegate.m in Sources */,
 				889148521AB10D93005FD32A /* FSNPostTableViewCell.m in Sources */,
 				88A549261AB0FE5100B27EB1 /* main.m in Sources */,
@@ -285,17 +287,6 @@
 			targetProxy = 88A5493A1AB0FE5100B27EB1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		88A549321AB0FE5100B27EB1 /* LaunchScreen.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				88A549331AB0FE5100B27EB1 /* Base */,
-			);
-			name = LaunchScreen.xib;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		88A549411AB0FE5100B27EB1 /* Debug */ = {
@@ -378,6 +369,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = FakeSocialNetwork/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -388,6 +380,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = FakeSocialNetwork/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";

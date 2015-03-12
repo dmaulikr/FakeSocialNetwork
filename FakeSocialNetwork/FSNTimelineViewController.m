@@ -10,6 +10,7 @@
 #import "FSNPostTableViewCell.h"
 #import "FSNUser.h"
 #import "FSNPost.h"
+#import "UIColor+FSNColor.h"
 
 @interface FSNTimelineViewController ()
 @property (nonatomic, strong) NSMutableArray *posts;
@@ -20,12 +21,29 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    [self setupNavigationBarAppearance];
+    
     [self prepareMockPosts];
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+- (void)setupNavigationBarAppearance {
+    [self.navigationController.navigationBar setBarStyle:UIBarStyleBlack];
+    [self.navigationController.navigationBar setBarTintColor:[UIColor fsn_blueColor]];
+    [self.navigationController.navigationBar setTintColor:[UIColor whiteColor]];
+
+    self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemCompose target:self action:@selector(addPost)];
+    self.navigationItem.title = @"Home";
+    
+    [self.navigationController.navigationBar setTranslucent:NO];
+}
+
+- (void)addPost {
+    NSLog(@"adding post");
 }
 
 - (void)prepareMockPosts {
@@ -66,7 +84,6 @@
 }
 
 #pragma mark - TableView Delegate
-
 
 
 @end
