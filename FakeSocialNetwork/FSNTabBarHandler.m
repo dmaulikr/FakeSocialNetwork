@@ -24,6 +24,9 @@
 - (BOOL)tabBarController:(UITabBarController *)tabBarController shouldSelectViewController:(UIViewController *)viewController {
     // get the index to check later if we should animate right or left
     int controllerIndex = [tabBarController.viewControllers indexOfObject:viewController];
+    if (controllerIndex == tabBarController.selectedIndex) {
+        return YES;
+    }
     
     // Get the views.
     UIView *fromView = tabBarController.selectedViewController.view;
