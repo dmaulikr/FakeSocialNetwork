@@ -12,7 +12,8 @@
 @implementation FSNPostTableViewCell
 
 - (void)awakeFromNib {
-    // Initialization code
+    self.avatarImageView.layer.cornerRadius = 8.0;
+    self.avatarImageView.clipsToBounds = YES;
 }
 
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated {
