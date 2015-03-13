@@ -62,7 +62,10 @@
     FSNPost *dannyPost = [[FSNPost alloc] initWithContent:@"In this fake social network I'll get people laughing of my jokes, just loved it! So cooollll!!!" andAuthor:danny];
     FSNPost *coryPost = [[FSNPost alloc] initWithContent:@"Are you talking about me, guys? @recamilio @notSoFunny" andAuthor:cory];
     
-    self.posts = [[NSMutableArray alloc] initWithArray:@[dannyPost, renatoPost, coryPost]];
+    FSNPost *retweet = [[FSNPost alloc] initWithContent:@"I'm feeling very humid" andAuthor:cory];
+    retweet.originalAuthor = renato;
+    
+    self.posts = [[NSMutableArray alloc] initWithArray:@[retweet, dannyPost, renatoPost, coryPost]];
 }
 
 #pragma mark - TableView DataSource
