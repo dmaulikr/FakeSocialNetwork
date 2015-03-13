@@ -182,13 +182,13 @@
                                         <constraint firstItem="LE2-tU-fy1" firstAttribute="leading" secondItem="Mc4-NV-Zhz" secondAttribute="trailing" constant="8" id="8Oc-G8-U8b"/>
                                         <constraint firstAttribute="trailing" secondItem="bTb-ON-FC9" secondAttribute="trailing" constant="8" id="9eB-8X-cQF"/>
                                         <constraint firstItem="xg1-yD-6oy" firstAttribute="leading" secondItem="Mc4-NV-Zhz" secondAttribute="trailing" constant="8" id="DFg-Xd-DQL"/>
-                                        <constraint firstItem="jxf-b4-WwS" firstAttribute="top" secondItem="bTb-ON-FC9" secondAttribute="bottom" constant="9.5" id="Gxa-bE-srj"/>
                                         <constraint firstAttribute="bottomMargin" relation="greaterThanOrEqual" secondItem="Mc4-NV-Zhz" secondAttribute="bottom" constant="8" id="HLx-Mj-fOJ"/>
                                         <constraint firstItem="jxf-b4-WwS" firstAttribute="trailing" secondItem="GRi-5t-JjN" secondAttribute="trailingMargin" id="K2n-H9-s6N"/>
                                         <constraint firstItem="M5z-vh-34r" firstAttribute="leading" secondItem="xg1-yD-6oy" secondAttribute="trailing" constant="8" id="MQx-AV-fcd"/>
                                         <constraint firstItem="bTb-ON-FC9" firstAttribute="leading" secondItem="GRi-5t-JjN" secondAttribute="leading" constant="8" id="Ms9-cP-n0e"/>
-                                        <constraint firstItem="M5z-vh-34r" firstAttribute="top" secondItem="bTb-ON-FC9" secondAttribute="bottom" constant="9.5" id="QJI-mw-hsH"/>
+                                        <constraint firstItem="xg1-yD-6oy" firstAttribute="centerY" secondItem="M5z-vh-34r" secondAttribute="centerY" id="ScN-0N-Zxx"/>
                                         <constraint firstItem="LE2-tU-fy1" firstAttribute="top" secondItem="xg1-yD-6oy" secondAttribute="bottom" constant="3.5" id="VQd-gV-mc1"/>
+                                        <constraint firstItem="xg1-yD-6oy" firstAttribute="centerY" secondItem="jxf-b4-WwS" secondAttribute="centerY" id="Z5J-6d-CLd"/>
                                         <constraint firstItem="bTb-ON-FC9" firstAttribute="top" secondItem="GRi-5t-JjN" secondAttribute="top" constant="8" id="hfM-Je-0CW"/>
                                         <constraint firstItem="Mc4-NV-Zhz" firstAttribute="leading" secondItem="GRi-5t-JjN" secondAttribute="leadingMargin" id="k48-6Z-pvp"/>
                                         <constraint firstItem="Mc4-NV-Zhz" firstAttribute="top" secondItem="bTb-ON-FC9" secondAttribute="bottom" constant="8" id="l9D-xW-ZWo"/>
