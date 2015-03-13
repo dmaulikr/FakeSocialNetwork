@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="qEm-Ip-mhL">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--Compose View Controller-->
+        <scene sceneID="ivh-01-sOR">
+            <objects>
+                <tableViewController extendedLayoutIncludesOpaqueBars="YES" id="qEm-Ip-mhL" customClass="FSNComposeViewController" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="none" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="a5T-uR-g9Z">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <sections>
+                            <tableViewSection id="YLe-cs-sgn">
+                                <cells>
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="187" id="qE1-VA-Ls9">
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="qE1-VA-Ls9" id="Nss-XZ-ath">
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="Type your post here..." translatesAutoresizingMaskIntoConstraints="NO" id="HmS-oi-9DF">
+                                                    <rect key="frame" x="10" y="10" width="580" height="167"/>
+                                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                                </textView>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstItem="HmS-oi-9DF" firstAttribute="leading" secondItem="Nss-XZ-ath" secondAttribute="leading" constant="10" id="D8Q-hd-MxC"/>
+                                                <constraint firstItem="HmS-oi-9DF" firstAttribute="top" secondItem="Nss-XZ-ath" secondAttribute="top" constant="10" id="Dq5-1Y-7eg"/>
+                                                <constraint firstAttribute="bottom" secondItem="HmS-oi-9DF" secondAttribute="bottom" constant="10" id="KqB-3O-JhB"/>
+                                                <constraint firstAttribute="trailing" secondItem="HmS-oi-9DF" secondAttribute="trailing" constant="10" id="jLv-Ro-E2W"/>
+                                            </constraints>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="pnu-Fu-I0S">
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="pnu-Fu-I0S" id="srb-pq-cpP">
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="x79-7u-oaw">
+                                                    <rect key="frame" x="550" y="7" width="32" height="30"/>
+                                                    <state key="normal" title="Post">
+                                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                                    </state>
+                                                </button>
+                                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UbZ-1v-eT3">
+                                                    <rect key="frame" x="18" y="7" width="48" height="30"/>
+                                                    <state key="normal" title="Cancel">
+                                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                                    </state>
+                                                    <connections>
+                                                        <action selector="cancelButtonAction:" destination="qEm-Ip-mhL" eventType="touchUpInside" id="lNp-9z-ujG"/>
+                                                    </connections>
+                                                </button>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstAttribute="centerY" secondItem="x79-7u-oaw" secondAttribute="centerY" id="3ID-w5-QOK"/>
+                                                <constraint firstAttribute="trailingMargin" secondItem="x79-7u-oaw" secondAttribute="trailing" constant="10" id="BYQ-vs-sLs"/>
+                                                <constraint firstAttribute="centerY" secondItem="UbZ-1v-eT3" secondAttribute="centerY" id="sNH-LA-OF5"/>
+                                                <constraint firstItem="UbZ-1v-eT3" firstAttribute="leading" secondItem="srb-pq-cpP" secondAttribute="leadingMargin" constant="10" id="z9H-uN-Hys"/>
+                                            </constraints>
+                                        </tableViewCellContentView>
+                                        <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.02" colorSpace="calibratedRGB"/>
+                                    </tableViewCell>
+                                </cells>
+                            </tableViewSection>
+                        </sections>
+                        <connections>
+                            <outlet property="dataSource" destination="qEm-Ip-mhL" id="bzh-xb-lqV"/>
+                            <outlet property="delegate" destination="qEm-Ip-mhL" id="LlM-7D-fhj"/>
+                        </connections>
+                    </tableView>
+                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
+                    <connections>
+                        <outlet property="composeTextView" destination="HmS-oi-9DF" id="R8Q-iy-YMi"/>
+                    </connections>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="q3B-HI-TEM" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="282" y="269"/>
+        </scene>
+    </scenes>
+</document>

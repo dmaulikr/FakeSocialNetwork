@@ -14,6 +14,8 @@
 #import "UIColor+FSNColor.h"
 #import "FSNTabBarHandler.h"
 
+#import "FSNComposeViewController.h"
+
 
 @interface FSNTimelineViewController ()
 @property (nonatomic, strong) NSMutableArray *posts;
@@ -50,7 +52,10 @@
 }
 
 - (void)addPost {
-    NSLog(@"adding post");
+    UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Compose" bundle:nil];
+    FSNComposeViewController *composeViewController = (FSNComposeViewController *)[storyboard instantiateInitialViewController];
+    
+    [self presentViewController:composeViewController animated:YES completion:nil];
 }
 
 - (void)prepareMockPosts {
