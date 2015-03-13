@@ -6,11 +6,13 @@
 //  Copyright (c) 2015 Renato Camilio. All rights reserved.
 //
 
+
 #import "FSNTimelineViewController.h"
 #import "FSNPostTableViewCell.h"
 #import "FSNUser.h"
 #import "FSNPost.h"
 #import "UIColor+FSNColor.h"
+
 
 @interface FSNTimelineViewController ()
 @property (nonatomic, strong) NSMutableArray *posts;
@@ -21,9 +23,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [self setupNavigationBarAppearance];
-    
+    [self setupNavigationBar];
     [self prepareMockPosts];
+    [self prepareTableViewAppearance];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -31,15 +33,14 @@
     // Dispose of any resources that can be recreated.
 }
 
-- (void)setupNavigationBarAppearance {
-    [self.navigationController.navigationBar setBarStyle:UIBarStyleBlack];
-    [self.navigationController.navigationBar setBarTintColor:[UIColor fsn_blueColor]];
-    [self.navigationController.navigationBar setTintColor:[UIColor whiteColor]];
+- (void)prepareTableViewAppearance {
+    self.tableView.estimatedRowHeight = 70.f;
+    self.tableView.rowHeight = UITableViewAutomaticDimension;
+}
 
-    self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemCompose target:self action:@selector(addPost)];
+- (void)setupNavigationBar {
+    self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithImage:[UIImage imageNamed:@"create_new-75"] style:UIBarButtonItemStylePlain target:self action:@selector(addPost)];
     self.navigationItem.title = @"Home";
-    
-    [self.navigationController.navigationBar setTranslucent:NO];
 }
 
 - (void)addPost {
@@ -65,7 +66,6 @@
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    
     FSNPostTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:NSStringFromClass([FSNPostTableViewCell class]) forIndexPath:indexPath];
     
     // do something with the cell
