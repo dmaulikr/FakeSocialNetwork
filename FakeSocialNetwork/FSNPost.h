@@ -15,6 +15,7 @@
 @property (nonatomic, strong) NSDate *postedDate;
 @property (nonatomic, strong) NSString *content;
 @property (nonatomic, strong) FSNUser *author;
+@property (nonatomic, strong) FSNUser *originalAuthor; // denotes a "retweet" type post
 
 - (instancetype)initWithContent:(NSString *)content andAuthor:(FSNUser *)author;
 

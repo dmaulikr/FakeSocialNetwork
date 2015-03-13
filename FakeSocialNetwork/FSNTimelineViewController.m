@@ -76,15 +76,8 @@
     
     // do something with the cell
     FSNPost *post = [self.posts objectAtIndex:indexPath.row];
-    cell.avatarImageView.image = post.author.avatar;
     
-    NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
-    [dateFormatter setDateFormat:@"MMM, dd"];
-    cell.postDate.text = [dateFormatter stringFromDate:post.postedDate];
-    
-    cell.postText.text = post.content;
-    cell.userName.text = post.author.name;
-    cell.userID.text = post.author.userID;
+    [cell configureWithPost:post];
     
     return cell;
 }

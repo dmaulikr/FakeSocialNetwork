@@ -7,6 +7,7 @@
 //
 
 #import "FSNPostTableViewCell.h"
+#import "FSNPost.h"
 
 @implementation FSNPostTableViewCell
 
@@ -18,6 +19,27 @@
     [super setSelected:selected animated:animated];
 
     // Configure the view for the selected state
+}
+
+-(void)configureWithPost:(FSNPost *)post {
+    
+    FSNUser *poster = (post.originalAuthor ? post.originalAuthor : post.author);
+    
+    self.avatarImageView.image = poster.avatar;
+    
+    NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
+    [dateFormatter setDateFormat:@"MMM, dd"];
+    self.postDate.text = [dateFormatter stringFromDate:post.postedDate];
+    
+    self.postText.text = post.content;
+    self.userName.text = poster.name;
+    self.userID.text = poster.userID;
+    
+    if (post.originalAuthor == nil) {
+        self.annotationBanner.text = nil;
+    } else {
+        self.annotationBanner.text = [NSString stringWithFormat:@"Retweeted by %@", post.author.userID];
+    }
 }
 
 @end
