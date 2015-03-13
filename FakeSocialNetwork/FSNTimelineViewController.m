@@ -12,6 +12,7 @@
 #import "FSNUser.h"
 #import "FSNPost.h"
 #import "UIColor+FSNColor.h"
+#import "FSNTabBarHandler.h"
 
 
 @interface FSNTimelineViewController ()
@@ -24,6 +25,7 @@
     [super viewDidLoad];
     
     [self setupNavigationBar];
+    [self setupTabBar];
     [self prepareMockPosts];
     [self prepareTableViewAppearance];
 }
@@ -41,6 +43,10 @@
 - (void)setupNavigationBar {
     self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithImage:[UIImage imageNamed:@"create_new-75"] style:UIBarButtonItemStylePlain target:self action:@selector(addPost)];
     self.navigationItem.title = @"Home";
+}
+
+- (void)setupTabBar {
+    self.tabBarController.delegate = [FSNTabBarHandler sharedInstance];
 }
 
 - (void)addPost {

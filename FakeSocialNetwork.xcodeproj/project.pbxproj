@@ -17,6 +17,7 @@
 		88A549311AB0FE5100B27EB1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88A549301AB0FE5100B27EB1 /* Images.xcassets */; };
 		88A549401AB0FE5100B27EB1 /* FakeSocialNetworkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A5493F1AB0FE5100B27EB1 /* FakeSocialNetworkTests.m */; };
 		88A5494A1AB0FEAC00B27EB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88A549491AB0FEAC00B27EB1 /* Main.storyboard */; };
+		88E61B881AB2CFE8000C3B8A /* FSNTabBarHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 88E61B871AB2CFE8000C3B8A /* FSNTabBarHandler.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,8 @@
 		88A5493E1AB0FE5100B27EB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		88A5493F1AB0FE5100B27EB1 /* FakeSocialNetworkTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FakeSocialNetworkTests.m; sourceTree = "<group>"; };
 		88A549491AB0FEAC00B27EB1 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		88E61B861AB2CFE8000C3B8A /* FSNTabBarHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNTabBarHandler.h; sourceTree = "<group>"; };
+		88E61B871AB2CFE8000C3B8A /* FSNTabBarHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNTabBarHandler.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +150,8 @@
 			children = (
 				889148501AB10D93005FD32A /* FSNPostTableViewCell.h */,
 				889148511AB10D93005FD32A /* FSNPostTableViewCell.m */,
+				88E61B861AB2CFE8000C3B8A /* FSNTabBarHandler.h */,
+				88E61B871AB2CFE8000C3B8A /* FSNTabBarHandler.m */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -266,6 +271,7 @@
 				88A549261AB0FE5100B27EB1 /* main.m in Sources */,
 				8891484F1AB10188005FD32A /* FSNTimelineViewController.m in Sources */,
 				889148591AB119D2005FD32A /* FSNUser.m in Sources */,
+				88E61B881AB2CFE8000C3B8A /* FSNTabBarHandler.m in Sources */,
 				889148551AB11931005FD32A /* FSNPost.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

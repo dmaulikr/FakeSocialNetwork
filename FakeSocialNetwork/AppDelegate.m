@@ -8,6 +8,7 @@
 
 #import "AppDelegate.h"
 #import "UIColor+FSNColor.h"
+#import "FSNTabBarHandler.h"
 
 @interface AppDelegate ()
 
@@ -23,9 +24,11 @@
     [[UINavigationBar appearance] setBarStyle:UIBarStyleBlack];
     [[UINavigationBar appearance] setTintColor:[UIColor whiteColor]];
     [[UINavigationBar appearance] setBarTintColor:[UIColor fsn_blueColor]];
+    [[UINavigationBar appearance] setTranslucent:NO];
     
     //Tab bar appearance
     [[UITabBar appearance] setTintColor:[UIColor fsn_blueColor]];
+    [[UITabBar appearance] setTranslucent:NO];
     
     return YES;
 }
