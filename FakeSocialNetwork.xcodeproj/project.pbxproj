@@ -18,6 +18,11 @@
 		88A549401AB0FE5100B27EB1 /* FakeSocialNetworkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A5493F1AB0FE5100B27EB1 /* FakeSocialNetworkTests.m */; };
 		88A5494A1AB0FEAC00B27EB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88A549491AB0FEAC00B27EB1 /* Main.storyboard */; };
 		88E61B881AB2CFE8000C3B8A /* FSNTabBarHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 88E61B871AB2CFE8000C3B8A /* FSNTabBarHandler.m */; };
+		8B2F40991AB39EE9001C2758 /* FSNComposeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B2F40981AB39EE9001C2758 /* FSNComposeViewController.m */; };
+		8B2F409B1AB39F18001C2758 /* Compose.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B2F409A1AB39F18001C2758 /* Compose.storyboard */; };
+		8B2F409E1AB3A58A001C2758 /* FSNNotificationCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B2F409D1AB3A58A001C2758 /* FSNNotificationCell.m */; };
+		8B2F40A11AB3A59C001C2758 /* FSNNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B2F40A01AB3A59C001C2758 /* FSNNotification.m */; };
+		8B2F40A41AB3AAB8001C2758 /* FSNNotificationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B2F40A31AB3AAB8001C2758 /* FSNNotificationViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +58,15 @@
 		88A549491AB0FEAC00B27EB1 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		88E61B861AB2CFE8000C3B8A /* FSNTabBarHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNTabBarHandler.h; sourceTree = "<group>"; };
 		88E61B871AB2CFE8000C3B8A /* FSNTabBarHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNTabBarHandler.m; sourceTree = "<group>"; };
+		8B2F40971AB39EE9001C2758 /* FSNComposeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNComposeViewController.h; sourceTree = "<group>"; };
+		8B2F40981AB39EE9001C2758 /* FSNComposeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNComposeViewController.m; sourceTree = "<group>"; };
+		8B2F409A1AB39F18001C2758 /* Compose.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Compose.storyboard; sourceTree = "<group>"; };
+		8B2F409C1AB3A58A001C2758 /* FSNNotificationCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNNotificationCell.h; sourceTree = "<group>"; };
+		8B2F409D1AB3A58A001C2758 /* FSNNotificationCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNNotificationCell.m; sourceTree = "<group>"; };
+		8B2F409F1AB3A59C001C2758 /* FSNNotification.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNNotification.h; sourceTree = "<group>"; };
+		8B2F40A01AB3A59C001C2758 /* FSNNotification.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNNotification.m; sourceTree = "<group>"; };
+		8B2F40A21AB3AAB8001C2758 /* FSNNotificationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNNotificationViewController.h; sourceTree = "<group>"; };
+		8B2F40A31AB3AAB8001C2758 /* FSNNotificationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNNotificationViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +94,8 @@
 				889148541AB11931005FD32A /* FSNPost.m */,
 				889148571AB119D2005FD32A /* FSNUser.h */,
 				889148581AB119D2005FD32A /* FSNUser.m */,
+				8B2F409F1AB3A59C001C2758 /* FSNNotification.h */,
+				8B2F40A01AB3A59C001C2758 /* FSNNotification.m */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -111,6 +127,7 @@
 				88A549541AB0FF1800B27EB1 /* View */,
 				88A549551AB0FF2000B27EB1 /* Controller */,
 				88A549491AB0FEAC00B27EB1 /* Main.storyboard */,
+				8B2F409A1AB39F18001C2758 /* Compose.storyboard */,
 				88A549301AB0FE5100B27EB1 /* Images.xcassets */,
 				88A549231AB0FE5100B27EB1 /* Supporting Files */,
 			);
@@ -150,6 +167,8 @@
 			children = (
 				889148501AB10D93005FD32A /* FSNPostTableViewCell.h */,
 				889148511AB10D93005FD32A /* FSNPostTableViewCell.m */,
+				8B2F409C1AB3A58A001C2758 /* FSNNotificationCell.h */,
+				8B2F409D1AB3A58A001C2758 /* FSNNotificationCell.m */,
 				88E61B861AB2CFE8000C3B8A /* FSNTabBarHandler.h */,
 				88E61B871AB2CFE8000C3B8A /* FSNTabBarHandler.m */,
 			);
@@ -161,6 +180,10 @@
 			children = (
 				8891484D1AB10188005FD32A /* FSNTimelineViewController.h */,
 				8891484E1AB10188005FD32A /* FSNTimelineViewController.m */,
+				8B2F40971AB39EE9001C2758 /* FSNComposeViewController.h */,
+				8B2F40981AB39EE9001C2758 /* FSNComposeViewController.m */,
+				8B2F40A21AB3AAB8001C2758 /* FSNNotificationViewController.h */,
+				8B2F40A31AB3AAB8001C2758 /* FSNNotificationViewController.m */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -247,6 +270,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				88A5494A1AB0FEAC00B27EB1 /* Main.storyboard in Resources */,
+				8B2F409B1AB39F18001C2758 /* Compose.storyboard in Resources */,
 				88A549311AB0FE5100B27EB1 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,8 +294,12 @@
 				889148521AB10D93005FD32A /* FSNPostTableViewCell.m in Sources */,
 				88A549261AB0FE5100B27EB1 /* main.m in Sources */,
 				8891484F1AB10188005FD32A /* FSNTimelineViewController.m in Sources */,
+				8B2F40A11AB3A59C001C2758 /* FSNNotification.m in Sources */,
 				889148591AB119D2005FD32A /* FSNUser.m in Sources */,
+				8B2F40A41AB3AAB8001C2758 /* FSNNotificationViewController.m in Sources */,
+				8B2F40991AB39EE9001C2758 /* FSNComposeViewController.m in Sources */,
 				88E61B881AB2CFE8000C3B8A /* FSNTabBarHandler.m in Sources */,
+				8B2F409E1AB3A58A001C2758 /* FSNNotificationCell.m in Sources */,
 				889148551AB11931005FD32A /* FSNPost.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
