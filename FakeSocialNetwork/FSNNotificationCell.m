@@ -8,6 +8,8 @@
 
 #import "FSNNotificationCell.h"
 #import "FSNNotification.h"
+#import "FSNUser.h"
+#import "FSNPost.h"
 
 @implementation FSNNotificationCell
 
@@ -20,16 +22,15 @@
     NSString *typeStr = nil;
     
     if (note.type == FSNNotificationTypeFollow) {
-        typeStr = [NSString stringWithFormat:@"%@ started following you", note.user];
+        typeStr = [NSString stringWithFormat:@"%@ started following you", note.user.userID];
     } else if (note.type == FSNNotificationTypeLike) {
-        typeStr = [NSString stringWithFormat:@"%@ liked your post (%@)", note.user, note.post];
+        typeStr = [NSString stringWithFormat:@"%@ liked your post (%@)", note.user.userID, note.post.content];
     } else if (note.type == FSNNotificationTypeRepost) {
-        typeStr = [NSString stringWithFormat:@"%@ reposted your post (%@)", note.user, note.post];
+        typeStr = [NSString stringWithFormat:@"%@ reposted your post (%@)", note.user.userID, note.post.content];
     }
     
-    
-    self.textLabel.text = typeStr;
-    self.detailTextLabel.text = [NSString stringWithFormat:@"Mar 20"];
+    self.notificationLabel.text = typeStr;
+    self.notificationDateLabel.text = [NSString stringWithFormat:@"Mar 20"];
 }
 
 @end

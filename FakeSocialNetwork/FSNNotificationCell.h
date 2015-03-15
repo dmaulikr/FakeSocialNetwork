@@ -12,6 +12,9 @@
 
 @interface FSNNotificationCell : UITableViewCell
 
+@property (weak, nonatomic) IBOutlet UILabel *notificationLabel;
+@property (weak, nonatomic) IBOutlet UILabel *notificationDateLabel;
+
 -(void)configureWithNotification:(FSNNotification *)note;
 
 @end

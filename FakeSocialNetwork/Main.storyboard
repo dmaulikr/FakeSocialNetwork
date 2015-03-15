@@ -24,34 +24,46 @@
             </objects>
             <point key="canvasLocation" x="-398" y="327"/>
         </scene>
-        <!--Root View Controller-->
+        <!--Notification View Controller-->
         <scene sceneID="qgo-wR-vnD">
             <objects>
-                <tableViewController id="5Lb-Vj-2G5" customClass="FSNNotificationViewController" sceneMemberID="viewController">
-                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="72" sectionHeaderHeight="22" sectionFooterHeight="22" id="Fqs-0K-VNj">
+                <tableViewController id="5Lb-Vj-2G5" userLabel="Notification View Controller" customClass="FSNNotificationViewController" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="45" sectionHeaderHeight="22" sectionFooterHeight="22" id="Fqs-0K-VNj">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
-                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="FSNNotificationCell" textLabel="ft4-k5-GER" detailTextLabel="lzn-XS-1XG" rowHeight="72" style="IBUITableViewCellStyleValue1" id="hcm-iv-umu" customClass="FSNNotificationCell">
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="FSNNotificationCell" id="hcm-iv-umu" customClass="FSNNotificationCell">
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="hcm-iv-umu" id="a7w-Vb-le0">
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
-                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="ft4-k5-GER">
-                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" horizontalCompressionResistancePriority="751" text="Mar 20" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dRc-DZ-OnF">
+                                            <rect key="frame" x="537.5" y="8" width="54" height="20.5"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="0.78890469159999999" green="0.78890469159999999" blue="0.78890469159999999" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="@danny started following you" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="atG-dG-CPS">
+                                            <rect key="frame" x="8" y="8" width="225.5" height="20.5"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                             <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                             <nil key="highlightedColor"/>
                                         </label>
-                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="Detail" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="lzn-XS-1XG">
-                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
-                                            <color key="textColor" red="0.55686274509803924" green="0.55686274509803924" blue="0.57647058823529407" alpha="1" colorSpace="calibratedRGB"/>
-                                            <nil key="highlightedColor"/>
-                                        </label>
                                     </subviews>
+                                    <constraints>
+                                        <constraint firstItem="atG-dG-CPS" firstAttribute="leading" secondItem="a7w-Vb-le0" secondAttribute="leading" constant="8" id="9ND-j6-dm1"/>
+                                        <constraint firstAttribute="trailing" secondItem="dRc-DZ-OnF" secondAttribute="trailing" constant="8" id="I0j-Wh-6HJ"/>
+                                        <constraint firstAttribute="bottomMargin" secondItem="atG-dG-CPS" secondAttribute="bottom" constant="8" id="LrQ-q3-Zie"/>
+                                        <constraint firstItem="atG-dG-CPS" firstAttribute="top" secondItem="a7w-Vb-le0" secondAttribute="top" constant="8" id="TNt-L6-uA5"/>
+                                        <constraint firstItem="dRc-DZ-OnF" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="atG-dG-CPS" secondAttribute="trailing" constant="8" id="oMK-Rv-Ixu"/>
+                                        <constraint firstItem="dRc-DZ-OnF" firstAttribute="top" secondItem="a7w-Vb-le0" secondAttribute="top" constant="8" id="rOw-Ce-Wh8"/>
+                                    </constraints>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="notificationDateLabel" destination="dRc-DZ-OnF" id="FNU-uR-OUX"/>
+                                    <outlet property="notificationLabel" destination="atG-dG-CPS" id="Vii-VT-KQQ"/>
+                                </connections>
                             </tableViewCell>
                         </prototypes>
                         <connections>
@@ -59,11 +71,11 @@
                             <outlet property="delegate" destination="5Lb-Vj-2G5" id="nb9-DV-RZz"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Root View Controller" id="Boj-cC-te3"/>
+                    <navigationItem key="navigationItem" title="Notifications" id="Boj-cC-te3"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ua7-Ls-lIl" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="422" y="1157"/>
+            <point key="canvasLocation" x="422.5" y="1157"/>
         </scene>
         <!--Notification Navigation-->
         <scene sceneID="ZeZ-7I-Dpy">
