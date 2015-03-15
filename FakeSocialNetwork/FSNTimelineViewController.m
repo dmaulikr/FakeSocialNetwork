@@ -13,6 +13,7 @@
 #import "FSNPost.h"
 #import "UIColor+FSNColor.h"
 #import "FSNTabBarHandler.h"
+#import "FSNSentiment.h"
 
 
 @interface FSNTimelineViewController ()
@@ -61,6 +62,12 @@
     FSNPost *renatoPost = [[FSNPost alloc] initWithContent:@"How cool is that?" andAuthor:renato];
     FSNPost *dannyPost = [[FSNPost alloc] initWithContent:@"In this fake social network I'll get people laughing of my jokes, just loved it! So cooollll!!!" andAuthor:danny];
     FSNPost *coryPost = [[FSNPost alloc] initWithContent:@"Are you talking about me, guys? @recamilio @notSoFunny" andAuthor:cory];
+    
+    FSNSentiment *sentimentAnalyzer = [[FSNSentiment alloc] init];
+    FSNPost *renatoPost2 = [[FSNPost alloc] initWithContent:@"I am happy" andAuthor:renato];
+    FSNPost *renatoPost3 = [[FSNPost alloc] initWithContent:@"I am very happy" andAuthor:renato];
+    FSNPost *renatoPost4 = [[FSNPost alloc] initWithContent:@"I am not very happy" andAuthor:renato];
+    [sentimentAnalyzer scoreForPost:renatoPost4];
     
     self.posts = [[NSMutableArray alloc] initWithArray:@[dannyPost, renatoPost, coryPost]];
 }

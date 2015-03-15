@@ -18,6 +18,8 @@
 		88A549401AB0FE5100B27EB1 /* FakeSocialNetworkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A5493F1AB0FE5100B27EB1 /* FakeSocialNetworkTests.m */; };
 		88A5494A1AB0FEAC00B27EB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88A549491AB0FEAC00B27EB1 /* Main.storyboard */; };
 		88E61B881AB2CFE8000C3B8A /* FSNTabBarHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 88E61B871AB2CFE8000C3B8A /* FSNTabBarHandler.m */; };
+		AFEE5DD21AB620FD00B700E8 /* sentiment.json in Resources */ = {isa = PBXBuildFile; fileRef = AFEE5DD11AB620FD00B700E8 /* sentiment.json */; };
+		AFEE5DD51AB6218400B700E8 /* FSNSentiment.m in Sources */ = {isa = PBXBuildFile; fileRef = AFEE5DD41AB6218400B700E8 /* FSNSentiment.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,9 @@
 		88A549491AB0FEAC00B27EB1 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		88E61B861AB2CFE8000C3B8A /* FSNTabBarHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNTabBarHandler.h; sourceTree = "<group>"; };
 		88E61B871AB2CFE8000C3B8A /* FSNTabBarHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNTabBarHandler.m; sourceTree = "<group>"; };
+		AFEE5DD11AB620FD00B700E8 /* sentiment.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentiment.json; sourceTree = "<group>"; };
+		AFEE5DD31AB6218400B700E8 /* FSNSentiment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNSentiment.h; sourceTree = "<group>"; };
+		AFEE5DD41AB6218400B700E8 /* FSNSentiment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNSentiment.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +81,8 @@
 		889148561AB11936005FD32A /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				AFEE5DD31AB6218400B700E8 /* FSNSentiment.h */,
+				AFEE5DD41AB6218400B700E8 /* FSNSentiment.m */,
 				889148531AB11931005FD32A /* FSNPost.h */,
 				889148541AB11931005FD32A /* FSNPost.m */,
 				889148571AB119D2005FD32A /* FSNUser.h */,
@@ -120,6 +127,7 @@
 		88A549231AB0FE5100B27EB1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AFEE5DD11AB620FD00B700E8 /* sentiment.json */,
 				88A549271AB0FE5100B27EB1 /* AppDelegate.h */,
 				88A549281AB0FE5100B27EB1 /* AppDelegate.m */,
 				88A549241AB0FE5100B27EB1 /* Info.plist */,
@@ -246,6 +254,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFEE5DD21AB620FD00B700E8 /* sentiment.json in Resources */,
 				88A5494A1AB0FEAC00B27EB1 /* Main.storyboard in Resources */,
 				88A549311AB0FE5100B27EB1 /* Images.xcassets in Resources */,
 			);
@@ -273,6 +282,7 @@
 				889148591AB119D2005FD32A /* FSNUser.m in Sources */,
 				88E61B881AB2CFE8000C3B8A /* FSNTabBarHandler.m in Sources */,
 				889148551AB11931005FD32A /* FSNPost.m in Sources */,
+				AFEE5DD51AB6218400B700E8 /* FSNSentiment.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
