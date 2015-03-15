@@ -26,4 +26,15 @@
 - (IBAction)cancelButtonAction:(id)sender {
     [self dismissViewControllerAnimated:YES completion:nil];
 }
+
+- (IBAction)postButtonAction:(id)sender {
+    FSNUser *cory = [[FSNUser alloc] initWithName:@"Cory CoolKid" andUserID:@"@deCooler" andAvatar:[UIImage imageNamed:@"cory"]];
+    FSNPost *post = [[FSNPost alloc] initWithContent:self.composeTextView.text andAuthor:cory];
+
+    [self.delegate didCreatePost:post];
+    
+    [self dismissViewControllerAnimated:YES completion:nil];
+}
+
+
 @end

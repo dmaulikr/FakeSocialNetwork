@@ -39,11 +39,8 @@
     return [self.notifications count];
 }
 
-
-
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-
-    FSNNotificationCell *cell = [tableView dequeueReusableCellWithIdentifier:@"NotificationCell" forIndexPath:indexPath];
+    FSNNotificationCell *cell = [tableView dequeueReusableCellWithIdentifier:NSStringFromClass([FSNNotificationCell class]) forIndexPath:indexPath];
     
     [cell configureWithNotification:self.notifications[indexPath.row]];
     

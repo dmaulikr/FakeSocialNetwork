@@ -7,7 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "FSNPostTableViewCell.h"
+#import "FSNUser.h"
+#import "FSNPost.h"
+#import "UIColor+FSNColor.h"
+#import "FSNTabBarHandler.h"
+#import "FSNComposeViewController.h"
 
-@interface FSNTimelineViewController : UITableViewController
+@interface FSNTimelineViewController : UITableViewController <FSNPostDelegate>
 
 @end

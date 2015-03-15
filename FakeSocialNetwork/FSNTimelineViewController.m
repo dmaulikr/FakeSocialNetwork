@@ -8,18 +8,14 @@
 
 
 #import "FSNTimelineViewController.h"
-#import "FSNPostTableViewCell.h"
-#import "FSNUser.h"
-#import "FSNPost.h"
-#import "UIColor+FSNColor.h"
-#import "FSNTabBarHandler.h"
-
-#import "FSNComposeViewController.h"
 
 
 @interface FSNTimelineViewController ()
+
 @property (nonatomic, strong) NSMutableArray *posts;
+
 @end
+
 
 @implementation FSNTimelineViewController
 
@@ -54,6 +50,7 @@
 - (void)addPost {
     UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Compose" bundle:nil];
     FSNComposeViewController *composeViewController = (FSNComposeViewController *)[storyboard instantiateInitialViewController];
+    composeViewController.delegate = self;
     
     [self presentViewController:composeViewController animated:YES completion:nil];
 }
@@ -71,6 +68,15 @@
     retweet.originalAuthor = renato;
     
     self.posts = [[NSMutableArray alloc] initWithArray:@[retweet, dannyPost, renatoPost, coryPost]];
+}
+
+#pragma mark - Post Delegate
+
+- (void)didCreatePost:(FSNPost *)post {
+    [self.posts insertObject:post atIndex:0];
+    
+    // I believe there's a better way to reload only the new indexPath
+    [self.tableView reloadData];
 }
 
 #pragma mark - TableView DataSource

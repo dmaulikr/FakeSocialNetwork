@@ -20,3 +20,10 @@
 - (instancetype)initWithContent:(NSString *)content andAuthor:(FSNUser *)author;
 
 @end
+
+@protocol FSNPostDelegate <NSObject>
+
+@required
+- (void)didCreatePost:(FSNPost *)post;
+
+@end

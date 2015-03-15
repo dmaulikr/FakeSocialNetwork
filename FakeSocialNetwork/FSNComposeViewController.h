@@ -7,9 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "FSNPost.h"
+
 
 @interface FSNComposeViewController : UITableViewController
+
 @property (weak, nonatomic) IBOutlet UITextView *composeTextView;
+@property (weak, nonatomic) id<FSNPostDelegate> delegate;
 
 - (IBAction)cancelButtonAction:(id)sender;
 
