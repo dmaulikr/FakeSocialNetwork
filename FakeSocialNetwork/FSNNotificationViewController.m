@@ -26,6 +26,12 @@
     self.tableView.rowHeight = UITableViewAutomaticDimension;
 }
 
+- (void)viewDidAppear:(BOOL)animated {
+    [super viewDidAppear:animated];
+
+    [self updateNotificationsBadge:nil];
+}
+
 #pragma mark - Mock data
 
 - (void)prepareMockData {
@@ -47,6 +53,10 @@
     FSNNotification *n5 = [FSNNotification likeNotificationWithPost:coryPost andUser:danny];
     
     self.notifications = @[n1, n2, n3, n4, n5];
+}
+
+- (void)updateNotificationsBadge:(NSString *)badgeValue {
+    [[self.tabBarController.tabBar.items objectAtIndex:self.tabBarController.selectedIndex] setBadgeValue:badgeValue];
 }
 
 #pragma mark - Table view data source
