@@ -11,12 +11,26 @@
 @implementation FSNNotification
 
 
--(instancetype)initWithType:(FSNNotificationType)noteType {
+- (instancetype)initWithType:(FSNNotificationType)noteType andPost:(FSNPost *)post andUser:(FSNUser *)user {
     if ((self = [super init])) {
         _type = noteType;
+        _post = post;
+        _user = user;
     }
+
     return self;
 }
 
++ (instancetype)likeNotificationWithPost:(FSNPost *)post andUser:(FSNUser *)user {
+    return [[FSNNotification alloc] initWithType:FSNNotificationTypeLike andPost:post andUser:user];
+}
+
++ (instancetype)followNotificationWithUser:(FSNUser *)user {
+    return [[FSNNotification alloc] initWithType:FSNNotificationTypeFollow andPost:nil andUser:user];
+}
+
++ (instancetype)repostNotificationWithPost:(FSNPost *)post andUser:(FSNUser *)user {
+    return [[FSNNotification alloc] initWithType:FSNNotificationTypeFollow andPost:post andUser:user];
+}
 
 @end
