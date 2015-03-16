@@ -24,6 +24,8 @@
 		8B2F409E1AB3A58A001C2758 /* FSNNotificationCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B2F409D1AB3A58A001C2758 /* FSNNotificationCell.m */; };
 		8B2F40A11AB3A59C001C2758 /* FSNNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B2F40A01AB3A59C001C2758 /* FSNNotification.m */; };
 		8B2F40A41AB3AAB8001C2758 /* FSNNotificationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B2F40A31AB3AAB8001C2758 /* FSNNotificationViewController.m */; };
+		AFEE5DD21AB620FD00B700E8 /* sentiment.json in Resources */ = {isa = PBXBuildFile; fileRef = AFEE5DD11AB620FD00B700E8 /* sentiment.json */; };
+		AFEE5DD51AB6218400B700E8 /* FSNSentiment.m in Sources */ = {isa = PBXBuildFile; fileRef = AFEE5DD41AB6218400B700E8 /* FSNSentiment.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +72,9 @@
 		8B2F40A01AB3A59C001C2758 /* FSNNotification.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNNotification.m; sourceTree = "<group>"; };
 		8B2F40A21AB3AAB8001C2758 /* FSNNotificationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNNotificationViewController.h; sourceTree = "<group>"; };
 		8B2F40A31AB3AAB8001C2758 /* FSNNotificationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNNotificationViewController.m; sourceTree = "<group>"; };
+		AFEE5DD11AB620FD00B700E8 /* sentiment.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentiment.json; sourceTree = "<group>"; };
+		AFEE5DD31AB6218400B700E8 /* FSNSentiment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSNSentiment.h; sourceTree = "<group>"; };
+		AFEE5DD41AB6218400B700E8 /* FSNSentiment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSNSentiment.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +98,8 @@
 		889148561AB11936005FD32A /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				AFEE5DD31AB6218400B700E8 /* FSNSentiment.h */,
+				AFEE5DD41AB6218400B700E8 /* FSNSentiment.m */,
 				889148531AB11931005FD32A /* FSNPost.h */,
 				889148541AB11931005FD32A /* FSNPost.m */,
 				889148571AB119D2005FD32A /* FSNUser.h */,
@@ -140,6 +147,7 @@
 		88A549231AB0FE5100B27EB1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AFEE5DD11AB620FD00B700E8 /* sentiment.json */,
 				88A549271AB0FE5100B27EB1 /* AppDelegate.h */,
 				88A549281AB0FE5100B27EB1 /* AppDelegate.m */,
 				88A549241AB0FE5100B27EB1 /* Info.plist */,
@@ -274,6 +282,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFEE5DD21AB620FD00B700E8 /* sentiment.json in Resources */,
 				88A5494A1AB0FEAC00B27EB1 /* Main.storyboard in Resources */,
 				8B2F409B1AB39F18001C2758 /* Compose.storyboard in Resources */,
 				88A549311AB0FE5100B27EB1 /* Images.xcassets in Resources */,
@@ -307,6 +316,7 @@
 				88E61B881AB2CFE8000C3B8A /* FSNTabBarHandler.m in Sources */,
 				8B2F409E1AB3A58A001C2758 /* FSNNotificationCell.m in Sources */,
 				889148551AB11931005FD32A /* FSNPost.m in Sources */,
+				AFEE5DD51AB6218400B700E8 /* FSNSentiment.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

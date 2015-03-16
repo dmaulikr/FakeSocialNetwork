@@ -8,6 +8,12 @@
 
 
 #import "FSNTimelineViewController.h"
+#import "FSNPostTableViewCell.h"
+#import "FSNUser.h"
+#import "FSNPost.h"
+#import "UIColor+FSNColor.h"
+#import "FSNTabBarHandler.h"
+#import "FSNSentiment.h"
 
 
 @interface FSNTimelineViewController ()
@@ -66,7 +72,10 @@
     
     FSNPost *retweet = [[FSNPost alloc] initWithContent:@"I'm feeling very humid" andAuthor:cory];
     retweet.originalAuthor = renato;
-    
+
+    FSNSentiment *sentimentAnalyzer = [[FSNSentiment alloc] init];
+    [sentimentAnalyzer scoreForPost:renatoPost];
+
     self.posts = [[NSMutableArray alloc] initWithArray:@[retweet, dannyPost, renatoPost, coryPost]];
 }
 
@@ -74,7 +83,7 @@
 
 - (void)didCreatePost:(FSNPost *)post {
     [self.posts insertObject:post atIndex:0];
-    
+
     // I believe there's a better way to reload only the new indexPath
     [self.tableView reloadData];
 }

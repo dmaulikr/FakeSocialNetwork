@@ -1,0 +1,7411 @@
+{ "words" : [ { "Score" : "-2",
+        "Word" : "abandon"
+      },
+      { "Score" : "-2",
+        "Word" : "abandoned"
+      },
+      { "Score" : "-2",
+        "Word" : "abandons"
+      },
+      { "Score" : "-2",
+        "Word" : "abducted"
+      },
+      { "Score" : "-2",
+        "Word" : "abduction"
+      },
+      { "Score" : "-2",
+        "Word" : "abductions"
+      },
+      { "Score" : "-3",
+        "Word" : "abhor"
+      },
+      { "Score" : "-3",
+        "Word" : "abhorred"
+      },
+      { "Score" : "-3",
+        "Word" : "abhorrent"
+      },
+      { "Score" : "-3",
+        "Word" : "abhors"
+      },
+      { "Score" : "2",
+        "Word" : "abilities"
+      },
+      { "Score" : "2",
+        "Word" : "ability"
+      },
+      { "Score" : "1",
+        "Word" : "aboard"
+      },
+      { "Score" : "-1",
+        "Word" : "absentee"
+      },
+      { "Score" : "-1",
+        "Word" : "absentees"
+      },
+      { "Score" : "2",
+        "Word" : "absolve"
+      },
+      { "Score" : "2",
+        "Word" : "absolved"
+      },
+      { "Score" : "2",
+        "Word" : "absolves"
+      },
+      { "Score" : "2",
+        "Word" : "absolving"
+      },
+      { "Score" : "1",
+        "Word" : "absorbed"
+      },
+      { "Score" : "-3",
+        "Word" : "abuse"
+      },
+      { "Score" : "-3",
+        "Word" : "abused"
+      },
+      { "Score" : "-3",
+        "Word" : "abuses"
+      },
+      { "Score" : "-3",
+        "Word" : "abusive"
+      },
+      { "Score" : "1",
+        "Word" : "accept"
+      },
+      { "Score" : "1",
+        "Word" : "accepted"
+      },
+      { "Score" : "1",
+        "Word" : "accepting"
+      },
+      { "Score" : "1",
+        "Word" : "accepts"
+      },
+      { "Score" : "-2",
+        "Word" : "accident"
+      },
+      { "Score" : "-2",
+        "Word" : "accidental"
+      },
+      { "Score" : "-2",
+        "Word" : "accidentally"
+      },
+      { "Score" : "-2",
+        "Word" : "accidents"
+      },
+      { "Score" : "2",
+        "Word" : "accomplish"
+      },
+      { "Score" : "2",
+        "Word" : "accomplished"
+      },
+      { "Score" : "2",
+        "Word" : "accomplishes"
+      },
+      { "Score" : "-2",
+        "Word" : "accusation"
+      },
+      { "Score" : "-2",
+        "Word" : "accusations"
+      },
+      { "Score" : "-2",
+        "Word" : "accuse"
+      },
+      { "Score" : "-2",
+        "Word" : "accused"
+      },
+      { "Score" : "-2",
+        "Word" : "accuses"
+      },
+      { "Score" : "-2",
+        "Word" : "accusing"
+      },
+      { "Score" : "-2",
+        "Word" : "ache"
+      },
+      { "Score" : "1",
+        "Word" : "achievable"
+      },
+      { "Score" : "-2",
+        "Word" : "aching"
+      },
+      { "Score" : "2",
+        "Word" : "acquit"
+      },
+      { "Score" : "2",
+        "Word" : "acquits"
+      },
+      { "Score" : "2",
+        "Word" : "acquitted"
+      },
+      { "Score" : "2",
+        "Word" : "acquitting"
+      },
+      { "Score" : "-3",
+        "Word" : "acrimonious"
+      },
+      { "Score" : "1",
+        "Word" : "active"
+      },
+      { "Score" : "1",
+        "Word" : "adequate"
+      },
+      { "Score" : "3",
+        "Word" : "admire"
+      },
+      { "Score" : "3",
+        "Word" : "admired"
+      },
+      { "Score" : "3",
+        "Word" : "admires"
+      },
+      { "Score" : "3",
+        "Word" : "admiring"
+      },
+      { "Score" : "-1",
+        "Word" : "admit"
+      },
+      { "Score" : "-1",
+        "Word" : "admits"
+      },
+      { "Score" : "-1",
+        "Word" : "admitted"
+      },
+      { "Score" : "-2",
+        "Word" : "admonish"
+      },
+      { "Score" : "-2",
+        "Word" : "admonished"
+      },
+      { "Score" : "1",
+        "Word" : "adopt"
+      },
+      { "Score" : "1",
+        "Word" : "adopts"
+      },
+      { "Score" : "3",
+        "Word" : "adorable"
+      },
+      { "Score" : "3",
+        "Word" : "adore"
+      },
+      { "Score" : "3",
+        "Word" : "adored"
+      },
+      { "Score" : "3",
+        "Word" : "adores"
+      },
+      { "Score" : "1",
+        "Word" : "advanced"
+      },
+      { "Score" : "2",
+        "Word" : "advantage"
+      },
+      { "Score" : "2",
+        "Word" : "advantages"
+      },
+      { "Score" : "2",
+        "Word" : "adventure"
+      },
+      { "Score" : "2",
+        "Word" : "adventures"
+      },
+      { "Score" : "2",
+        "Word" : "adventurous"
+      },
+      { "Score" : "-1",
+        "Word" : "affected"
+      },
+      { "Score" : "3",
+        "Word" : "affection"
+      },
+      { "Score" : "3",
+        "Word" : "affectionate"
+      },
+      { "Score" : "-1",
+        "Word" : "afflicted"
+      },
+      { "Score" : "-1",
+        "Word" : "affronted"
+      },
+      { "Score" : "-2",
+        "Word" : "afraid"
+      },
+      { "Score" : "-2",
+        "Word" : "aggravate"
+      },
+      { "Score" : "-2",
+        "Word" : "aggravated"
+      },
+      { "Score" : "-2",
+        "Word" : "aggravates"
+      },
+      { "Score" : "-2",
+        "Word" : "aggravating"
+      },
+      { "Score" : "-2",
+        "Word" : "aggression"
+      },
+      { "Score" : "-2",
+        "Word" : "aggressions"
+      },
+      { "Score" : "-2",
+        "Word" : "aggressive"
+      },
+      { "Score" : "-2",
+        "Word" : "aghast"
+      },
+      { "Score" : "2",
+        "Word" : "agog"
+      },
+      { "Score" : "-3",
+        "Word" : "agonise"
+      },
+      { "Score" : "-3",
+        "Word" : "agonised"
+      },
+      { "Score" : "-3",
+        "Word" : "agonises"
+      },
+      { "Score" : "-3",
+        "Word" : "agonising"
+      },
+      { "Score" : "-3",
+        "Word" : "agonize"
+      },
+      { "Score" : "-3",
+        "Word" : "agonized"
+      },
+      { "Score" : "-3",
+        "Word" : "agonizes"
+      },
+      { "Score" : "-3",
+        "Word" : "agonizing"
+      },
+      { "Score" : "1",
+        "Word" : "agree"
+      },
+      { "Score" : "2",
+        "Word" : "agreeable"
+      },
+      { "Score" : "1",
+        "Word" : "agreed"
+      },
+      { "Score" : "1",
+        "Word" : "agreement"
+      },
+      { "Score" : "1",
+        "Word" : "agrees"
+      },
+      { "Score" : "-2",
+        "Word" : "alarm"
+      },
+      { "Score" : "-2",
+        "Word" : "alarmed"
+      },
+      { "Score" : "-2",
+        "Word" : "alarmist"
+      },
+      { "Score" : "-2",
+        "Word" : "alarmists"
+      },
+      { "Score" : "-1",
+        "Word" : "alas"
+      },
+      { "Score" : "-1",
+        "Word" : "alert"
+      },
+      { "Score" : "-2",
+        "Word" : "alienation"
+      },
+      { "Score" : "1",
+        "Word" : "alive"
+      },
+      { "Score" : "-2",
+        "Word" : "allergic"
+      },
+      { "Score" : "1",
+        "Word" : "allow"
+      },
+      { "Score" : "-2",
+        "Word" : "alone"
+      },
+      { "Score" : "2",
+        "Word" : "amaze"
+      },
+      { "Score" : "2",
+        "Word" : "amazed"
+      },
+      { "Score" : "2",
+        "Word" : "amazes"
+      },
+      { "Score" : "4",
+        "Word" : "amazing"
+      },
+      { "Score" : "2",
+        "Word" : "ambitious"
+      },
+      { "Score" : "-1",
+        "Word" : "ambivalent"
+      },
+      { "Score" : "3",
+        "Word" : "amuse"
+      },
+      { "Score" : "3",
+        "Word" : "amused"
+      },
+      { "Score" : "3",
+        "Word" : "amusement"
+      },
+      { "Score" : "3",
+        "Word" : "amusements"
+      },
+      { "Score" : "-3",
+        "Word" : "anger"
+      },
+      { "Score" : "-3",
+        "Word" : "angers"
+      },
+      { "Score" : "-3",
+        "Word" : "angry"
+      },
+      { "Score" : "-3",
+        "Word" : "anguish"
+      },
+      { "Score" : "-3",
+        "Word" : "anguished"
+      },
+      { "Score" : "-2",
+        "Word" : "animosity"
+      },
+      { "Score" : "-2",
+        "Word" : "annoy"
+      },
+      { "Score" : "-2",
+        "Word" : "annoyance"
+      },
+      { "Score" : "-2",
+        "Word" : "annoyed"
+      },
+      { "Score" : "-2",
+        "Word" : "annoying"
+      },
+      { "Score" : "-2",
+        "Word" : "annoys"
+      },
+      { "Score" : "-2",
+        "Word" : "antagonistic"
+      },
+      { "Score" : "-1",
+        "Word" : "anti"
+      },
+      { "Score" : "1",
+        "Word" : "anticipation"
+      },
+      { "Score" : "-2",
+        "Word" : "anxiety"
+      },
+      { "Score" : "-2",
+        "Word" : "anxious"
+      },
+      { "Score" : "-3",
+        "Word" : "apathetic"
+      },
+      { "Score" : "-3",
+        "Word" : "apathy"
+      },
+      { "Score" : "-3",
+        "Word" : "apeshit"
+      },
+      { "Score" : "-2",
+        "Word" : "apocalyptic"
+      },
+      { "Score" : "-1",
+        "Word" : "apologise"
+      },
+      { "Score" : "-1",
+        "Word" : "apologised"
+      },
+      { "Score" : "-1",
+        "Word" : "apologises"
+      },
+      { "Score" : "-1",
+        "Word" : "apologising"
+      },
+      { "Score" : "-1",
+        "Word" : "apologize"
+      },
+      { "Score" : "-1",
+        "Word" : "apologized"
+      },
+      { "Score" : "-1",
+        "Word" : "apologizes"
+      },
+      { "Score" : "-1",
+        "Word" : "apologizing"
+      },
+      { "Score" : "-1",
+        "Word" : "apology"
+      },
+      { "Score" : "-2",
+        "Word" : "appalled"
+      },
+      { "Score" : "-2",
+        "Word" : "appalling"
+      },
+      { "Score" : "2",
+        "Word" : "appease"
+      },
+      { "Score" : "2",
+        "Word" : "appeased"
+      },
+      { "Score" : "2",
+        "Word" : "appeases"
+      },
+      { "Score" : "2",
+        "Word" : "appeasing"
+      },
+      { "Score" : "2",
+        "Word" : "applaud"
+      },
+      { "Score" : "2",
+        "Word" : "applauded"
+      },
+      { "Score" : "2",
+        "Word" : "applauding"
+      },
+      { "Score" : "2",
+        "Word" : "applauds"
+      },
+      { "Score" : "2",
+        "Word" : "applause"
+      },
+      { "Score" : "2",
+        "Word" : "appreciate"
+      },
+      { "Score" : "2",
+        "Word" : "appreciated"
+      },
+      { "Score" : "2",
+        "Word" : "appreciates"
+      },
+      { "Score" : "2",
+        "Word" : "appreciating"
+      },
+      { "Score" : "2",
+        "Word" : "appreciation"
+      },
+      { "Score" : "-2",
+        "Word" : "apprehensive"
+      },
+      { "Score" : "2",
+        "Word" : "approval"
+      },
+      { "Score" : "2",
+        "Word" : "approved"
+      },
+      { "Score" : "2",
+        "Word" : "approves"
+      },
+      { "Score" : "1",
+        "Word" : "ardent"
+      },
+      { "Score" : "-2",
+        "Word" : "arrest"
+      },
+      { "Score" : "-3",
+        "Word" : "arrested"
+      },
+      { "Score" : "-2",
+        "Word" : "arrests"
+      },
+      { "Score" : "-2",
+        "Word" : "arrogant"
+      },
+      { "Score" : "-2",
+        "Word" : "ashame"
+      },
+      { "Score" : "-2",
+        "Word" : "ashamed"
+      },
+      { "Score" : "-4",
+        "Word" : "ass"
+      },
+      { "Score" : "-3",
+        "Word" : "assassination"
+      },
+      { "Score" : "-3",
+        "Word" : "assassinations"
+      },
+      { "Score" : "2",
+        "Word" : "asset"
+      },
+      { "Score" : "2",
+        "Word" : "assets"
+      },
+      { "Score" : "-4",
+        "Word" : "assfucking"
+      },
+      { "Score" : "-4",
+        "Word" : "asshole"
+      },
+      { "Score" : "2",
+        "Word" : "astonished"
+      },
+      { "Score" : "3",
+        "Word" : "astound"
+      },
+      { "Score" : "3",
+        "Word" : "astounded"
+      },
+      { "Score" : "3",
+        "Word" : "astounding"
+      },
+      { "Score" : "3",
+        "Word" : "astoundingly"
+      },
+      { "Score" : "3",
+        "Word" : "astounds"
+      },
+      { "Score" : "-1",
+        "Word" : "attack"
+      },
+      { "Score" : "-1",
+        "Word" : "attacked"
+      },
+      { "Score" : "-1",
+        "Word" : "attacking"
+      },
+      { "Score" : "-1",
+        "Word" : "attacks"
+      },
+      { "Score" : "1",
+        "Word" : "attract"
+      },
+      { "Score" : "1",
+        "Word" : "attracted"
+      },
+      { "Score" : "2",
+        "Word" : "attracting"
+      },
+      { "Score" : "2",
+        "Word" : "attraction"
+      },
+      { "Score" : "2",
+        "Word" : "attractions"
+      },
+      { "Score" : "1",
+        "Word" : "attracts"
+      },
+      { "Score" : "3",
+        "Word" : "audacious"
+      },
+      { "Score" : "1",
+        "Word" : "authority"
+      },
+      { "Score" : "-1",
+        "Word" : "avert"
+      },
+      { "Score" : "-1",
+        "Word" : "averted"
+      },
+      { "Score" : "-1",
+        "Word" : "averts"
+      },
+      { "Score" : "2",
+        "Word" : "avid"
+      },
+      { "Score" : "-1",
+        "Word" : "avoid"
+      },
+      { "Score" : "-1",
+        "Word" : "avoided"
+      },
+      { "Score" : "-1",
+        "Word" : "avoids"
+      },
+      { "Score" : "-1",
+        "Word" : "await"
+      },
+      { "Score" : "-1",
+        "Word" : "awaited"
+      },
+      { "Score" : "-1",
+        "Word" : "awaits"
+      },
+      { "Score" : "3",
+        "Word" : "award"
+      },
+      { "Score" : "3",
+        "Word" : "awarded"
+      },
+      { "Score" : "3",
+        "Word" : "awards"
+      },
+      { "Score" : "4",
+        "Word" : "awesome"
+      },
+      { "Score" : "-3",
+        "Word" : "awful"
+      },
+      { "Score" : "-2",
+        "Word" : "awkward"
+      },
+      { "Score" : "-1",
+        "Word" : "axe"
+      },
+      { "Score" : "-1",
+        "Word" : "axed"
+      },
+      { "Score" : "1",
+        "Word" : "backed"
+      },
+      { "Score" : "2",
+        "Word" : "backing"
+      },
+      { "Score" : "1",
+        "Word" : "backs"
+      },
+      { "Score" : "-3",
+        "Word" : "bad"
+      },
+      { "Score" : "-3",
+        "Word" : "badass"
+      },
+      { "Score" : "-3",
+        "Word" : "badly"
+      },
+      { "Score" : "-2",
+        "Word" : "bailout"
+      },
+      { "Score" : "-2",
+        "Word" : "bamboozle"
+      },
+      { "Score" : "-2",
+        "Word" : "bamboozled"
+      },
+      { "Score" : "-2",
+        "Word" : "bamboozles"
+      },
+      { "Score" : "-2",
+        "Word" : "ban"
+      },
+      { "Score" : "-1",
+        "Word" : "banish"
+      },
+      { "Score" : "-3",
+        "Word" : "bankrupt"
+      },
+      { "Score" : "-3",
+        "Word" : "bankster"
+      },
+      { "Score" : "-2",
+        "Word" : "banned"
+      },
+      { "Score" : "2",
+        "Word" : "bargain"
+      },
+      { "Score" : "-2",
+        "Word" : "barrier"
+      },
+      { "Score" : "-5",
+        "Word" : "bastard"
+      },
+      { "Score" : "-5",
+        "Word" : "bastards"
+      },
+      { "Score" : "-1",
+        "Word" : "battle"
+      },
+      { "Score" : "-1",
+        "Word" : "battles"
+      },
+      { "Score" : "-2",
+        "Word" : "beaten"
+      },
+      { "Score" : "3",
+        "Word" : "beatific"
+      },
+      { "Score" : "-1",
+        "Word" : "beating"
+      },
+      { "Score" : "3",
+        "Word" : "beauties"
+      },
+      { "Score" : "3",
+        "Word" : "beautiful"
+      },
+      { "Score" : "3",
+        "Word" : "beautifully"
+      },
+      { "Score" : "3",
+        "Word" : "beautify"
+      },
+      { "Score" : "-2",
+        "Word" : "belittle"
+      },
+      { "Score" : "-2",
+        "Word" : "belittled"
+      },
+      { "Score" : "3",
+        "Word" : "beloved"
+      },
+      { "Score" : "2",
+        "Word" : "benefit"
+      },
+      { "Score" : "2",
+        "Word" : "benefits"
+      },
+      { "Score" : "2",
+        "Word" : "benefitted"
+      },
+      { "Score" : "2",
+        "Word" : "benefitting"
+      },
+      { "Score" : "-2",
+        "Word" : "bereave"
+      },
+      { "Score" : "-2",
+        "Word" : "bereaved"
+      },
+      { "Score" : "-2",
+        "Word" : "bereaves"
+      },
+      { "Score" : "-2",
+        "Word" : "bereaving"
+      },
+      { "Score" : "3",
+        "Word" : "best"
+      },
+      { "Score" : "-3",
+        "Word" : "betray"
+      },
+      { "Score" : "-3",
+        "Word" : "betrayal"
+      },
+      { "Score" : "-3",
+        "Word" : "betrayed"
+      },
+      { "Score" : "-3",
+        "Word" : "betraying"
+      },
+      { "Score" : "-3",
+        "Word" : "betrays"
+      },
+      { "Score" : "2",
+        "Word" : "better"
+      },
+      { "Score" : "-1",
+        "Word" : "bias"
+      },
+      { "Score" : "-2",
+        "Word" : "biased"
+      },
+      { "Score" : "1",
+        "Word" : "big"
+      },
+      { "Score" : "-5",
+        "Word" : "bitch"
+      },
+      { "Score" : "-5",
+        "Word" : "bitches"
+      },
+      { "Score" : "-2",
+        "Word" : "bitter"
+      },
+      { "Score" : "-2",
+        "Word" : "bitterly"
+      },
+      { "Score" : "-2",
+        "Word" : "bizarre"
+      },
+      { "Score" : "-2",
+        "Word" : "blah"
+      },
+      { "Score" : "-2",
+        "Word" : "blame"
+      },
+      { "Score" : "-2",
+        "Word" : "blamed"
+      },
+      { "Score" : "-2",
+        "Word" : "blames"
+      },
+      { "Score" : "-2",
+        "Word" : "blaming"
+      },
+      { "Score" : "2",
+        "Word" : "bless"
+      },
+      { "Score" : "2",
+        "Word" : "blesses"
+      },
+      { "Score" : "3",
+        "Word" : "blessing"
+      },
+      { "Score" : "-1",
+        "Word" : "blind"
+      },
+      { "Score" : "3",
+        "Word" : "bliss"
+      },
+      { "Score" : "3",
+        "Word" : "blissful"
+      },
+      { "Score" : "2",
+        "Word" : "blithe"
+      },
+      { "Score" : "-1",
+        "Word" : "block"
+      },
+      { "Score" : "3",
+        "Word" : "blockbuster"
+      },
+      { "Score" : "-1",
+        "Word" : "blocked"
+      },
+      { "Score" : "-1",
+        "Word" : "blocking"
+      },
+      { "Score" : "-1",
+        "Word" : "blocks"
+      },
+      { "Score" : "-2",
+        "Word" : "blurry"
+      },
+      { "Score" : "-2",
+        "Word" : "boastful"
+      },
+      { "Score" : "2",
+        "Word" : "bold"
+      },
+      { "Score" : "2",
+        "Word" : "boldly"
+      },
+      { "Score" : "-1",
+        "Word" : "bomb"
+      },
+      { "Score" : "1",
+        "Word" : "boost"
+      },
+      { "Score" : "1",
+        "Word" : "boosted"
+      },
+      { "Score" : "1",
+        "Word" : "boosting"
+      },
+      { "Score" : "1",
+        "Word" : "boosts"
+      },
+      { "Score" : "-2",
+        "Word" : "bore"
+      },
+      { "Score" : "-2",
+        "Word" : "bored"
+      },
+      { "Score" : "-3",
+        "Word" : "boring"
+      },
+      { "Score" : "-2",
+        "Word" : "bother"
+      },
+      { "Score" : "-2",
+        "Word" : "bothered"
+      },
+      { "Score" : "-2",
+        "Word" : "bothers"
+      },
+      { "Score" : "-2",
+        "Word" : "bothersome"
+      },
+      { "Score" : "-2",
+        "Word" : "boycott"
+      },
+      { "Score" : "-2",
+        "Word" : "boycotted"
+      },
+      { "Score" : "-2",
+        "Word" : "boycotting"
+      },
+      { "Score" : "-2",
+        "Word" : "boycotts"
+      },
+      { "Score" : "-3",
+        "Word" : "brainwashing"
+      },
+      { "Score" : "2",
+        "Word" : "brave"
+      },
+      { "Score" : "3",
+        "Word" : "breakthrough"
+      },
+      { "Score" : "5",
+        "Word" : "breathtaking"
+      },
+      { "Score" : "-3",
+        "Word" : "bribe"
+      },
+      { "Score" : "1",
+        "Word" : "bright"
+      },
+      { "Score" : "2",
+        "Word" : "brightest"
+      },
+      { "Score" : "1",
+        "Word" : "brightness"
+      },
+      { "Score" : "4",
+        "Word" : "brilliant"
+      },
+      { "Score" : "2",
+        "Word" : "brisk"
+      },
+      { "Score" : "-1",
+        "Word" : "broke"
+      },
+      { "Score" : "-1",
+        "Word" : "broken"
+      },
+      { "Score" : "-2",
+        "Word" : "brooding"
+      },
+      { "Score" : "-2",
+        "Word" : "bullied"
+      },
+      { "Score" : "-4",
+        "Word" : "bullshit"
+      },
+      { "Score" : "-2",
+        "Word" : "bully"
+      },
+      { "Score" : "-2",
+        "Word" : "bullying"
+      },
+      { "Score" : "-2",
+        "Word" : "bummer"
+      },
+      { "Score" : "2",
+        "Word" : "buoyant"
+      },
+      { "Score" : "-2",
+        "Word" : "burden"
+      },
+      { "Score" : "-2",
+        "Word" : "burdened"
+      },
+      { "Score" : "-2",
+        "Word" : "burdening"
+      },
+      { "Score" : "-2",
+        "Word" : "burdens"
+      },
+      { "Score" : "2",
+        "Word" : "calm"
+      },
+      { "Score" : "2",
+        "Word" : "calmed"
+      },
+      { "Score" : "2",
+        "Word" : "calming"
+      },
+      { "Score" : "2",
+        "Word" : "calms"
+      },
+      { "Score" : "-3",
+        "Word" : "can't stand"
+      },
+      { "Score" : "-1",
+        "Word" : "cancel"
+      },
+      { "Score" : "-1",
+        "Word" : "cancelled"
+      },
+      { "Score" : "-1",
+        "Word" : "cancelling"
+      },
+      { "Score" : "-1",
+        "Word" : "cancels"
+      },
+      { "Score" : "-1",
+        "Word" : "cancer"
+      },
+      { "Score" : "1",
+        "Word" : "capable"
+      },
+      { "Score" : "3",
+        "Word" : "captivated"
+      },
+      { "Score" : "2",
+        "Word" : "care"
+      },
+      { "Score" : "1",
+        "Word" : "carefree"
+      },
+      { "Score" : "2",
+        "Word" : "careful"
+      },
+      { "Score" : "2",
+        "Word" : "carefully"
+      },
+      { "Score" : "-2",
+        "Word" : "careless"
+      },
+      { "Score" : "2",
+        "Word" : "cares"
+      },
+      { "Score" : "-2",
+        "Word" : "cashing in"
+      },
+      { "Score" : "-2",
+        "Word" : "casualty"
+      },
+      { "Score" : "-3",
+        "Word" : "catastrophe"
+      },
+      { "Score" : "-4",
+        "Word" : "catastrophic"
+      },
+      { "Score" : "-1",
+        "Word" : "cautious"
+      },
+      { "Score" : "3",
+        "Word" : "celebrate"
+      },
+      { "Score" : "3",
+        "Word" : "celebrated"
+      },
+      { "Score" : "3",
+        "Word" : "celebrates"
+      },
+      { "Score" : "3",
+        "Word" : "celebrating"
+      },
+      { "Score" : "-2",
+        "Word" : "censor"
+      },
+      { "Score" : "-2",
+        "Word" : "censored"
+      },
+      { "Score" : "-2",
+        "Word" : "censors"
+      },
+      { "Score" : "1",
+        "Word" : "certain"
+      },
+      { "Score" : "-2",
+        "Word" : "chagrin"
+      },
+      { "Score" : "-2",
+        "Word" : "chagrined"
+      },
+      { "Score" : "-1",
+        "Word" : "challenge"
+      },
+      { "Score" : "2",
+        "Word" : "chance"
+      },
+      { "Score" : "2",
+        "Word" : "chances"
+      },
+      { "Score" : "-2",
+        "Word" : "chaos"
+      },
+      { "Score" : "-2",
+        "Word" : "chaotic"
+      },
+      { "Score" : "-3",
+        "Word" : "charged"
+      },
+      { "Score" : "-2",
+        "Word" : "charges"
+      },
+      { "Score" : "3",
+        "Word" : "charm"
+      },
+      { "Score" : "3",
+        "Word" : "charming"
+      },
+      { "Score" : "-3",
+        "Word" : "charmless"
+      },
+      { "Score" : "-3",
+        "Word" : "chastise"
+      },
+      { "Score" : "-3",
+        "Word" : "chastised"
+      },
+      { "Score" : "-3",
+        "Word" : "chastises"
+      },
+      { "Score" : "-3",
+        "Word" : "chastising"
+      },
+      { "Score" : "-3",
+        "Word" : "cheat"
+      },
+      { "Score" : "-3",
+        "Word" : "cheated"
+      },
+      { "Score" : "-3",
+        "Word" : "cheater"
+      },
+      { "Score" : "-3",
+        "Word" : "cheaters"
+      },
+      { "Score" : "-3",
+        "Word" : "cheats"
+      },
+      { "Score" : "2",
+        "Word" : "cheer"
+      },
+      { "Score" : "2",
+        "Word" : "cheered"
+      },
+      { "Score" : "2",
+        "Word" : "cheerful"
+      },
+      { "Score" : "2",
+        "Word" : "cheering"
+      },
+      { "Score" : "-2",
+        "Word" : "cheerless"
+      },
+      { "Score" : "2",
+        "Word" : "cheers"
+      },
+      { "Score" : "3",
+        "Word" : "cheery"
+      },
+      { "Score" : "2",
+        "Word" : "cherish"
+      },
+      { "Score" : "2",
+        "Word" : "cherished"
+      },
+      { "Score" : "2",
+        "Word" : "cherishes"
+      },
+      { "Score" : "2",
+        "Word" : "cherishing"
+      },
+      { "Score" : "2",
+        "Word" : "chic"
+      },
+      { "Score" : "-2",
+        "Word" : "childish"
+      },
+      { "Score" : "-1",
+        "Word" : "chilling"
+      },
+      { "Score" : "-2",
+        "Word" : "choke"
+      },
+      { "Score" : "-2",
+        "Word" : "choked"
+      },
+      { "Score" : "-2",
+        "Word" : "chokes"
+      },
+      { "Score" : "-2",
+        "Word" : "choking"
+      },
+      { "Score" : "2",
+        "Word" : "clarifies"
+      },
+      { "Score" : "2",
+        "Word" : "clarity"
+      },
+      { "Score" : "-2",
+        "Word" : "clash"
+      },
+      { "Score" : "3",
+        "Word" : "classy"
+      },
+      { "Score" : "2",
+        "Word" : "clean"
+      },
+      { "Score" : "2",
+        "Word" : "cleaner"
+      },
+      { "Score" : "1",
+        "Word" : "clear"
+      },
+      { "Score" : "1",
+        "Word" : "cleared"
+      },
+      { "Score" : "1",
+        "Word" : "clears"
+      },
+      { "Score" : "2",
+        "Word" : "clever"
+      },
+      { "Score" : "-1",
+        "Word" : "clouded"
+      },
+      { "Score" : "-2",
+        "Word" : "clueless"
+      },
+      { "Score" : "-5",
+        "Word" : "cock"
+      },
+      { "Score" : "-5",
+        "Word" : "cocksucker"
+      },
+      { "Score" : "-5",
+        "Word" : "cocksuckers"
+      },
+      { "Score" : "-2",
+        "Word" : "cocky"
+      },
+      { "Score" : "-2",
+        "Word" : "coerced"
+      },
+      { "Score" : "-2",
+        "Word" : "collapse"
+      },
+      { "Score" : "-2",
+        "Word" : "collapsed"
+      },
+      { "Score" : "-2",
+        "Word" : "collapses"
+      },
+      { "Score" : "-2",
+        "Word" : "collapsing"
+      },
+      { "Score" : "-1",
+        "Word" : "collide"
+      },
+      { "Score" : "-1",
+        "Word" : "collides"
+      },
+      { "Score" : "-1",
+        "Word" : "colliding"
+      },
+      { "Score" : "-2",
+        "Word" : "collision"
+      },
+      { "Score" : "-2",
+        "Word" : "collisions"
+      },
+      { "Score" : "-3",
+        "Word" : "colluding"
+      },
+      { "Score" : "-1",
+        "Word" : "combat"
+      },
+      { "Score" : "-1",
+        "Word" : "combats"
+      },
+      { "Score" : "1",
+        "Word" : "comedy"
+      },
+      { "Score" : "2",
+        "Word" : "comfort"
+      },
+      { "Score" : "2",
+        "Word" : "comfortable"
+      },
+      { "Score" : "2",
+        "Word" : "comforting"
+      },
+      { "Score" : "2",
+        "Word" : "comforts"
+      },
+      { "Score" : "2",
+        "Word" : "commend"
+      },
+      { "Score" : "2",
+        "Word" : "commended"
+      },
+      { "Score" : "1",
+        "Word" : "commit"
+      },
+      { "Score" : "2",
+        "Word" : "commitment"
+      },
+      { "Score" : "1",
+        "Word" : "commits"
+      },
+      { "Score" : "1",
+        "Word" : "committed"
+      },
+      { "Score" : "1",
+        "Word" : "committing"
+      },
+      { "Score" : "2",
+        "Word" : "compassionate"
+      },
+      { "Score" : "1",
+        "Word" : "compelled"
+      },
+      { "Score" : "2",
+        "Word" : "competent"
+      },
+      { "Score" : "2",
+        "Word" : "competitive"
+      },
+      { "Score" : "-2",
+        "Word" : "complacent"
+      },
+      { "Score" : "-2",
+        "Word" : "complain"
+      },
+      { "Score" : "-2",
+        "Word" : "complained"
+      },
+      { "Score" : "-2",
+        "Word" : "complains"
+      },
+      { "Score" : "2",
+        "Word" : "comprehensive"
+      },
+      { "Score" : "2",
+        "Word" : "conciliate"
+      },
+      { "Score" : "2",
+        "Word" : "conciliated"
+      },
+      { "Score" : "2",
+        "Word" : "conciliates"
+      },
+      { "Score" : "2",
+        "Word" : "conciliating"
+      },
+      { "Score" : "-2",
+        "Word" : "condemn"
+      },
+      { "Score" : "-2",
+        "Word" : "condemnation"
+      },
+      { "Score" : "-2",
+        "Word" : "condemned"
+      },
+      { "Score" : "-2",
+        "Word" : "condemns"
+      },
+      { "Score" : "2",
+        "Word" : "confidence"
+      },
+      { "Score" : "2",
+        "Word" : "confident"
+      },
+      { "Score" : "-2",
+        "Word" : "conflict"
+      },
+      { "Score" : "-2",
+        "Word" : "conflicting"
+      },
+      { "Score" : "-2",
+        "Word" : "conflictive"
+      },
+      { "Score" : "-2",
+        "Word" : "conflicts"
+      },
+      { "Score" : "-2",
+        "Word" : "confuse"
+      },
+      { "Score" : "-2",
+        "Word" : "confused"
+      },
+      { "Score" : "-2",
+        "Word" : "confusing"
+      },
+      { "Score" : "2",
+        "Word" : "congrats"
+      },
+      { "Score" : "2",
+        "Word" : "congratulate"
+      },
+      { "Score" : "2",
+        "Word" : "congratulation"
+      },
+      { "Score" : "2",
+        "Word" : "congratulations"
+      },
+      { "Score" : "2",
+        "Word" : "consent"
+      },
+      { "Score" : "2",
+        "Word" : "consents"
+      },
+      { "Score" : "2",
+        "Word" : "consolable"
+      },
+      { "Score" : "-3",
+        "Word" : "conspiracy"
+      },
+      { "Score" : "-2",
+        "Word" : "constrained"
+      },
+      { "Score" : "-2",
+        "Word" : "contagion"
+      },
+      { "Score" : "-2",
+        "Word" : "contagions"
+      },
+      { "Score" : "-1",
+        "Word" : "contagious"
+      },
+      { "Score" : "-2",
+        "Word" : "contempt"
+      },
+      { "Score" : "-2",
+        "Word" : "contemptuous"
+      },
+      { "Score" : "-2",
+        "Word" : "contemptuously"
+      },
+      { "Score" : "-1",
+        "Word" : "contend"
+      },
+      { "Score" : "-1",
+        "Word" : "contender"
+      },
+      { "Score" : "-1",
+        "Word" : "contending"
+      },
+      { "Score" : "-2",
+        "Word" : "contentious"
+      },
+      { "Score" : "-2",
+        "Word" : "contestable"
+      },
+      { "Score" : "-2",
+        "Word" : "controversial"
+      },
+      { "Score" : "-2",
+        "Word" : "controversially"
+      },
+      { "Score" : "1",
+        "Word" : "convince"
+      },
+      { "Score" : "1",
+        "Word" : "convinced"
+      },
+      { "Score" : "1",
+        "Word" : "convinces"
+      },
+      { "Score" : "2",
+        "Word" : "convivial"
+      },
+      { "Score" : "1",
+        "Word" : "cool"
+      },
+      { "Score" : "3",
+        "Word" : "cool stuff"
+      },
+      { "Score" : "-2",
+        "Word" : "cornered"
+      },
+      { "Score" : "-1",
+        "Word" : "corpse"
+      },
+      { "Score" : "-2",
+        "Word" : "costly"
+      },
+      { "Score" : "2",
+        "Word" : "courage"
+      },
+      { "Score" : "2",
+        "Word" : "courageous"
+      },
+      { "Score" : "2",
+        "Word" : "courteous"
+      },
+      { "Score" : "2",
+        "Word" : "courtesy"
+      },
+      { "Score" : "-3",
+        "Word" : "cover-up"
+      },
+      { "Score" : "-2",
+        "Word" : "coward"
+      },
+      { "Score" : "-2",
+        "Word" : "cowardly"
+      },
+      { "Score" : "2",
+        "Word" : "coziness"
+      },
+      { "Score" : "-1",
+        "Word" : "cramp"
+      },
+      { "Score" : "-3",
+        "Word" : "crap"
+      },
+      { "Score" : "-2",
+        "Word" : "crash"
+      },
+      { "Score" : "-2",
+        "Word" : "crazier"
+      },
+      { "Score" : "-2",
+        "Word" : "craziest"
+      },
+      { "Score" : "-2",
+        "Word" : "crazy"
+      },
+      { "Score" : "2",
+        "Word" : "creative"
+      },
+      { "Score" : "-2",
+        "Word" : "crestfallen"
+      },
+      { "Score" : "-2",
+        "Word" : "cried"
+      },
+      { "Score" : "-2",
+        "Word" : "cries"
+      },
+      { "Score" : "-3",
+        "Word" : "crime"
+      },
+      { "Score" : "-3",
+        "Word" : "criminal"
+      },
+      { "Score" : "-3",
+        "Word" : "criminals"
+      },
+      { "Score" : "-3",
+        "Word" : "crisis"
+      },
+      { "Score" : "-2",
+        "Word" : "critic"
+      },
+      { "Score" : "-2",
+        "Word" : "criticism"
+      },
+      { "Score" : "-2",
+        "Word" : "criticize"
+      },
+      { "Score" : "-2",
+        "Word" : "criticized"
+      },
+      { "Score" : "-2",
+        "Word" : "criticizes"
+      },
+      { "Score" : "-2",
+        "Word" : "criticizing"
+      },
+      { "Score" : "-2",
+        "Word" : "critics"
+      },
+      { "Score" : "-3",
+        "Word" : "cruel"
+      },
+      { "Score" : "-3",
+        "Word" : "cruelty"
+      },
+      { "Score" : "-1",
+        "Word" : "crush"
+      },
+      { "Score" : "-2",
+        "Word" : "crushed"
+      },
+      { "Score" : "-1",
+        "Word" : "crushes"
+      },
+      { "Score" : "-1",
+        "Word" : "crushing"
+      },
+      { "Score" : "-1",
+        "Word" : "cry"
+      },
+      { "Score" : "-2",
+        "Word" : "crying"
+      },
+      { "Score" : "-5",
+        "Word" : "cunt"
+      },
+      { "Score" : "1",
+        "Word" : "curious"
+      },
+      { "Score" : "-1",
+        "Word" : "curse"
+      },
+      { "Score" : "-1",
+        "Word" : "cut"
+      },
+      { "Score" : "2",
+        "Word" : "cute"
+      },
+      { "Score" : "-1",
+        "Word" : "cuts"
+      },
+      { "Score" : "-1",
+        "Word" : "cutting"
+      },
+      { "Score" : "-2",
+        "Word" : "cynic"
+      },
+      { "Score" : "-2",
+        "Word" : "cynical"
+      },
+      { "Score" : "-2",
+        "Word" : "cynicism"
+      },
+      { "Score" : "-3",
+        "Word" : "damage"
+      },
+      { "Score" : "-3",
+        "Word" : "damages"
+      },
+      { "Score" : "-4",
+        "Word" : "damn"
+      },
+      { "Score" : "-4",
+        "Word" : "damned"
+      },
+      { "Score" : "-4",
+        "Word" : "damnit"
+      },
+      { "Score" : "-2",
+        "Word" : "danger"
+      },
+      { "Score" : "2",
+        "Word" : "daredevil"
+      },
+      { "Score" : "2",
+        "Word" : "daring"
+      },
+      { "Score" : "-2",
+        "Word" : "darkest"
+      },
+      { "Score" : "-1",
+        "Word" : "darkness"
+      },
+      { "Score" : "2",
+        "Word" : "dauntless"
+      },
+      { "Score" : "-3",
+        "Word" : "dead"
+      },
+      { "Score" : "-2",
+        "Word" : "deadlock"
+      },
+      { "Score" : "-1",
+        "Word" : "deafening"
+      },
+      { "Score" : "2",
+        "Word" : "dear"
+      },
+      { "Score" : "3",
+        "Word" : "dearly"
+      },
+      { "Score" : "-2",
+        "Word" : "death"
+      },
+      { "Score" : "2",
+        "Word" : "debonair"
+      },
+      { "Score" : "-2",
+        "Word" : "debt"
+      },
+      { "Score" : "-3",
+        "Word" : "deceit"
+      },
+      { "Score" : "-3",
+        "Word" : "deceitful"
+      },
+      { "Score" : "-3",
+        "Word" : "deceive"
+      },
+      { "Score" : "-3",
+        "Word" : "deceived"
+      },
+      { "Score" : "-3",
+        "Word" : "deceives"
+      },
+      { "Score" : "-3",
+        "Word" : "deceiving"
+      },
+      { "Score" : "-3",
+        "Word" : "deception"
+      },
+      { "Score" : "1",
+        "Word" : "decisive"
+      },
+      { "Score" : "2",
+        "Word" : "dedicated"
+      },
+      { "Score" : "-2",
+        "Word" : "defeated"
+      },
+      { "Score" : "-3",
+        "Word" : "defect"
+      },
+      { "Score" : "-3",
+        "Word" : "defects"
+      },
+      { "Score" : "2",
+        "Word" : "defender"
+      },
+      { "Score" : "2",
+        "Word" : "defenders"
+      },
+      { "Score" : "-2",
+        "Word" : "defenseless"
+      },
+      { "Score" : "-1",
+        "Word" : "defer"
+      },
+      { "Score" : "-1",
+        "Word" : "deferring"
+      },
+      { "Score" : "-1",
+        "Word" : "defiant"
+      },
+      { "Score" : "-2",
+        "Word" : "deficit"
+      },
+      { "Score" : "-2",
+        "Word" : "degrade"
+      },
+      { "Score" : "-2",
+        "Word" : "degraded"
+      },
+      { "Score" : "-2",
+        "Word" : "degrades"
+      },
+      { "Score" : "-2",
+        "Word" : "dehumanize"
+      },
+      { "Score" : "-2",
+        "Word" : "dehumanized"
+      },
+      { "Score" : "-2",
+        "Word" : "dehumanizes"
+      },
+      { "Score" : "-2",
+        "Word" : "dehumanizing"
+      },
+      { "Score" : "-2",
+        "Word" : "deject"
+      },
+      { "Score" : "-2",
+        "Word" : "dejected"
+      },
+      { "Score" : "-2",
+        "Word" : "dejecting"
+      },
+      { "Score" : "-2",
+        "Word" : "dejects"
+      },
+      { "Score" : "-1",
+        "Word" : "delay"
+      },
+      { "Score" : "-1",
+        "Word" : "delayed"
+      },
+      { "Score" : "3",
+        "Word" : "delight"
+      },
+      { "Score" : "3",
+        "Word" : "delighted"
+      },
+      { "Score" : "3",
+        "Word" : "delighting"
+      },
+      { "Score" : "3",
+        "Word" : "delights"
+      },
+      { "Score" : "-1",
+        "Word" : "demand"
+      },
+      { "Score" : "-1",
+        "Word" : "demanded"
+      },
+      { "Score" : "-1",
+        "Word" : "demanding"
+      },
+      { "Score" : "-1",
+        "Word" : "demands"
+      },
+      { "Score" : "-1",
+        "Word" : "demonstration"
+      },
+      { "Score" : "-2",
+        "Word" : "demoralized"
+      },
+      { "Score" : "-2",
+        "Word" : "denied"
+      },
+      { "Score" : "-2",
+        "Word" : "denier"
+      },
+      { "Score" : "-2",
+        "Word" : "deniers"
+      },
+      { "Score" : "-2",
+        "Word" : "denies"
+      },
+      { "Score" : "-2",
+        "Word" : "denounce"
+      },
+      { "Score" : "-2",
+        "Word" : "denounces"
+      },
+      { "Score" : "-2",
+        "Word" : "deny"
+      },
+      { "Score" : "-2",
+        "Word" : "denying"
+      },
+      { "Score" : "-2",
+        "Word" : "depressed"
+      },
+      { "Score" : "-2",
+        "Word" : "depressing"
+      },
+      { "Score" : "-2",
+        "Word" : "derail"
+      },
+      { "Score" : "-2",
+        "Word" : "derailed"
+      },
+      { "Score" : "-2",
+        "Word" : "derails"
+      },
+      { "Score" : "-2",
+        "Word" : "deride"
+      },
+      { "Score" : "-2",
+        "Word" : "derided"
+      },
+      { "Score" : "-2",
+        "Word" : "derides"
+      },
+      { "Score" : "-2",
+        "Word" : "deriding"
+      },
+      { "Score" : "-2",
+        "Word" : "derision"
+      },
+      { "Score" : "2",
+        "Word" : "desirable"
+      },
+      { "Score" : "1",
+        "Word" : "desire"
+      },
+      { "Score" : "2",
+        "Word" : "desired"
+      },
+      { "Score" : "2",
+        "Word" : "desirous"
+      },
+      { "Score" : "-3",
+        "Word" : "despair"
+      },
+      { "Score" : "-3",
+        "Word" : "despairing"
+      },
+      { "Score" : "-3",
+        "Word" : "despairs"
+      },
+      { "Score" : "-3",
+        "Word" : "desperate"
+      },
+      { "Score" : "-3",
+        "Word" : "desperately"
+      },
+      { "Score" : "-3",
+        "Word" : "despondent"
+      },
+      { "Score" : "-3",
+        "Word" : "destroy"
+      },
+      { "Score" : "-3",
+        "Word" : "destroyed"
+      },
+      { "Score" : "-3",
+        "Word" : "destroying"
+      },
+      { "Score" : "-3",
+        "Word" : "destroys"
+      },
+      { "Score" : "-3",
+        "Word" : "destruction"
+      },
+      { "Score" : "-3",
+        "Word" : "destructive"
+      },
+      { "Score" : "-1",
+        "Word" : "detached"
+      },
+      { "Score" : "-2",
+        "Word" : "detain"
+      },
+      { "Score" : "-2",
+        "Word" : "detained"
+      },
+      { "Score" : "-2",
+        "Word" : "detention"
+      },
+      { "Score" : "2",
+        "Word" : "determined"
+      },
+      { "Score" : "-2",
+        "Word" : "devastate"
+      },
+      { "Score" : "-2",
+        "Word" : "devastated"
+      },
+      { "Score" : "-2",
+        "Word" : "devastating"
+      },
+      { "Score" : "3",
+        "Word" : "devoted"
+      },
+      { "Score" : "1",
+        "Word" : "diamond"
+      },
+      { "Score" : "-4",
+        "Word" : "dick"
+      },
+      { "Score" : "-4",
+        "Word" : "dickhead"
+      },
+      { "Score" : "-3",
+        "Word" : "die"
+      },
+      { "Score" : "-3",
+        "Word" : "died"
+      },
+      { "Score" : "-1",
+        "Word" : "difficult"
+      },
+      { "Score" : "-2",
+        "Word" : "diffident"
+      },
+      { "Score" : "-1",
+        "Word" : "dilemma"
+      },
+      { "Score" : "-3",
+        "Word" : "dipshit"
+      },
+      { "Score" : "-3",
+        "Word" : "dire"
+      },
+      { "Score" : "-3",
+        "Word" : "direful"
+      },
+      { "Score" : "-2",
+        "Word" : "dirt"
+      },
+      { "Score" : "-2",
+        "Word" : "dirtier"
+      },
+      { "Score" : "-2",
+        "Word" : "dirtiest"
+      },
+      { "Score" : "-2",
+        "Word" : "dirty"
+      },
+      { "Score" : "-1",
+        "Word" : "disabling"
+      },
+      { "Score" : "-2",
+        "Word" : "disadvantage"
+      },
+      { "Score" : "-2",
+        "Word" : "disadvantaged"
+      },
+      { "Score" : "-1",
+        "Word" : "disappear"
+      },
+      { "Score" : "-1",
+        "Word" : "disappeared"
+      },
+      { "Score" : "-1",
+        "Word" : "disappears"
+      },
+      { "Score" : "-2",
+        "Word" : "disappoint"
+      },
+      { "Score" : "-2",
+        "Word" : "disappointed"
+      },
+      { "Score" : "-2",
+        "Word" : "disappointing"
+      },
+      { "Score" : "-2",
+        "Word" : "disappointment"
+      },
+      { "Score" : "-2",
+        "Word" : "disappointments"
+      },
+      { "Score" : "-2",
+        "Word" : "disappoints"
+      },
+      { "Score" : "-2",
+        "Word" : "disaster"
+      },
+      { "Score" : "-2",
+        "Word" : "disasters"
+      },
+      { "Score" : "-3",
+        "Word" : "disastrous"
+      },
+      { "Score" : "-2",
+        "Word" : "disbelieve"
+      },
+      { "Score" : "-1",
+        "Word" : "discard"
+      },
+      { "Score" : "-1",
+        "Word" : "discarded"
+      },
+      { "Score" : "-1",
+        "Word" : "discarding"
+      },
+      { "Score" : "-1",
+        "Word" : "discards"
+      },
+      { "Score" : "-2",
+        "Word" : "disconsolate"
+      },
+      { "Score" : "-2",
+        "Word" : "disconsolation"
+      },
+      { "Score" : "-2",
+        "Word" : "discontented"
+      },
+      { "Score" : "-2",
+        "Word" : "discord"
+      },
+      { "Score" : "-1",
+        "Word" : "discounted"
+      },
+      { "Score" : "-2",
+        "Word" : "discouraged"
+      },
+      { "Score" : "-2",
+        "Word" : "discredited"
+      },
+      { "Score" : "-2",
+        "Word" : "disdain"
+      },
+      { "Score" : "-2",
+        "Word" : "disgrace"
+      },
+      { "Score" : "-2",
+        "Word" : "disgraced"
+      },
+      { "Score" : "-1",
+        "Word" : "disguise"
+      },
+      { "Score" : "-1",
+        "Word" : "disguised"
+      },
+      { "Score" : "-1",
+        "Word" : "disguises"
+      },
+      { "Score" : "-1",
+        "Word" : "disguising"
+      },
+      { "Score" : "-3",
+        "Word" : "disgust"
+      },
+      { "Score" : "-3",
+        "Word" : "disgusted"
+      },
+      { "Score" : "-3",
+        "Word" : "disgusting"
+      },
+      { "Score" : "-2",
+        "Word" : "disheartened"
+      },
+      { "Score" : "-2",
+        "Word" : "dishonest"
+      },
+      { "Score" : "-2",
+        "Word" : "disillusioned"
+      },
+      { "Score" : "-2",
+        "Word" : "disinclined"
+      },
+      { "Score" : "-2",
+        "Word" : "disjointed"
+      },
+      { "Score" : "-2",
+        "Word" : "dislike"
+      },
+      { "Score" : "-2",
+        "Word" : "dismal"
+      },
+      { "Score" : "-2",
+        "Word" : "dismayed"
+      },
+      { "Score" : "-2",
+        "Word" : "disorder"
+      },
+      { "Score" : "-2",
+        "Word" : "disorganized"
+      },
+      { "Score" : "-2",
+        "Word" : "disoriented"
+      },
+      { "Score" : "-2",
+        "Word" : "disparage"
+      },
+      { "Score" : "-2",
+        "Word" : "disparaged"
+      },
+      { "Score" : "-2",
+        "Word" : "disparages"
+      },
+      { "Score" : "-2",
+        "Word" : "disparaging"
+      },
+      { "Score" : "-2",
+        "Word" : "displeased"
+      },
+      { "Score" : "-2",
+        "Word" : "dispute"
+      },
+      { "Score" : "-2",
+        "Word" : "disputed"
+      },
+      { "Score" : "-2",
+        "Word" : "disputes"
+      },
+      { "Score" : "-2",
+        "Word" : "disputing"
+      },
+      { "Score" : "-2",
+        "Word" : "disqualified"
+      },
+      { "Score" : "-2",
+        "Word" : "disquiet"
+      },
+      { "Score" : "-2",
+        "Word" : "disregard"
+      },
+      { "Score" : "-2",
+        "Word" : "disregarded"
+      },
+      { "Score" : "-2",
+        "Word" : "disregarding"
+      },
+      { "Score" : "-2",
+        "Word" : "disregards"
+      },
+      { "Score" : "-2",
+        "Word" : "disrespect"
+      },
+      { "Score" : "-2",
+        "Word" : "disrespected"
+      },
+      { "Score" : "-2",
+        "Word" : "disruption"
+      },
+      { "Score" : "-2",
+        "Word" : "disruptions"
+      },
+      { "Score" : "-2",
+        "Word" : "disruptive"
+      },
+      { "Score" : "-2",
+        "Word" : "dissatisfied"
+      },
+      { "Score" : "-2",
+        "Word" : "distort"
+      },
+      { "Score" : "-2",
+        "Word" : "distorted"
+      },
+      { "Score" : "-2",
+        "Word" : "distorting"
+      },
+      { "Score" : "-2",
+        "Word" : "distorts"
+      },
+      { "Score" : "-2",
+        "Word" : "distract"
+      },
+      { "Score" : "-2",
+        "Word" : "distracted"
+      },
+      { "Score" : "-2",
+        "Word" : "distraction"
+      },
+      { "Score" : "-2",
+        "Word" : "distracts"
+      },
+      { "Score" : "-2",
+        "Word" : "distress"
+      },
+      { "Score" : "-2",
+        "Word" : "distressed"
+      },
+      { "Score" : "-2",
+        "Word" : "distresses"
+      },
+      { "Score" : "-2",
+        "Word" : "distressing"
+      },
+      { "Score" : "-3",
+        "Word" : "distrust"
+      },
+      { "Score" : "-3",
+        "Word" : "distrustful"
+      },
+      { "Score" : "-2",
+        "Word" : "disturb"
+      },
+      { "Score" : "-2",
+        "Word" : "disturbed"
+      },
+      { "Score" : "-2",
+        "Word" : "disturbing"
+      },
+      { "Score" : "-2",
+        "Word" : "disturbs"
+      },
+      { "Score" : "-2",
+        "Word" : "dithering"
+      },
+      { "Score" : "-1",
+        "Word" : "dizzy"
+      },
+      { "Score" : "-2",
+        "Word" : "dodging"
+      },
+      { "Score" : "-2",
+        "Word" : "dodgy"
+      },
+      { "Score" : "-3",
+        "Word" : "does not work"
+      },
+      { "Score" : "-2",
+        "Word" : "dolorous"
+      },
+      { "Score" : "-2",
+        "Word" : "dont like"
+      },
+      { "Score" : "-2",
+        "Word" : "doom"
+      },
+      { "Score" : "-2",
+        "Word" : "doomed"
+      },
+      { "Score" : "-1",
+        "Word" : "doubt"
+      },
+      { "Score" : "-1",
+        "Word" : "doubted"
+      },
+      { "Score" : "-1",
+        "Word" : "doubtful"
+      },
+      { "Score" : "-1",
+        "Word" : "doubting"
+      },
+      { "Score" : "-1",
+        "Word" : "doubts"
+      },
+      { "Score" : "-3",
+        "Word" : "douche"
+      },
+      { "Score" : "-3",
+        "Word" : "douchebag"
+      },
+      { "Score" : "-2",
+        "Word" : "downcast"
+      },
+      { "Score" : "-2",
+        "Word" : "downhearted"
+      },
+      { "Score" : "-2",
+        "Word" : "downside"
+      },
+      { "Score" : "-1",
+        "Word" : "drag"
+      },
+      { "Score" : "-1",
+        "Word" : "dragged"
+      },
+      { "Score" : "-1",
+        "Word" : "drags"
+      },
+      { "Score" : "-2",
+        "Word" : "drained"
+      },
+      { "Score" : "-2",
+        "Word" : "dread"
+      },
+      { "Score" : "-2",
+        "Word" : "dreaded"
+      },
+      { "Score" : "-3",
+        "Word" : "dreadful"
+      },
+      { "Score" : "-2",
+        "Word" : "dreading"
+      },
+      { "Score" : "1",
+        "Word" : "dream"
+      },
+      { "Score" : "1",
+        "Word" : "dreams"
+      },
+      { "Score" : "-2",
+        "Word" : "dreary"
+      },
+      { "Score" : "-2",
+        "Word" : "droopy"
+      },
+      { "Score" : "-1",
+        "Word" : "drop"
+      },
+      { "Score" : "-2",
+        "Word" : "drown"
+      },
+      { "Score" : "-2",
+        "Word" : "drowned"
+      },
+      { "Score" : "-2",
+        "Word" : "drowns"
+      },
+      { "Score" : "-2",
+        "Word" : "drunk"
+      },
+      { "Score" : "-2",
+        "Word" : "dubious"
+      },
+      { "Score" : "-2",
+        "Word" : "dud"
+      },
+      { "Score" : "-2",
+        "Word" : "dull"
+      },
+      { "Score" : "-3",
+        "Word" : "dumb"
+      },
+      { "Score" : "-3",
+        "Word" : "dumbass"
+      },
+      { "Score" : "-1",
+        "Word" : "dump"
+      },
+      { "Score" : "-2",
+        "Word" : "dumped"
+      },
+      { "Score" : "-1",
+        "Word" : "dumps"
+      },
+      { "Score" : "-2",
+        "Word" : "dupe"
+      },
+      { "Score" : "-2",
+        "Word" : "duped"
+      },
+      { "Score" : "-2",
+        "Word" : "dysfunction"
+      },
+      { "Score" : "2",
+        "Word" : "eager"
+      },
+      { "Score" : "2",
+        "Word" : "earnest"
+      },
+      { "Score" : "2",
+        "Word" : "ease"
+      },
+      { "Score" : "1",
+        "Word" : "easy"
+      },
+      { "Score" : "4",
+        "Word" : "ecstatic"
+      },
+      { "Score" : "-2",
+        "Word" : "eerie"
+      },
+      { "Score" : "-2",
+        "Word" : "eery"
+      },
+      { "Score" : "2",
+        "Word" : "effective"
+      },
+      { "Score" : "2",
+        "Word" : "effectively"
+      },
+      { "Score" : "3",
+        "Word" : "elated"
+      },
+      { "Score" : "3",
+        "Word" : "elation"
+      },
+      { "Score" : "2",
+        "Word" : "elegant"
+      },
+      { "Score" : "2",
+        "Word" : "elegantly"
+      },
+      { "Score" : "-2",
+        "Word" : "embarrass"
+      },
+      { "Score" : "-2",
+        "Word" : "embarrassed"
+      },
+      { "Score" : "-2",
+        "Word" : "embarrasses"
+      },
+      { "Score" : "-2",
+        "Word" : "embarrassing"
+      },
+      { "Score" : "-2",
+        "Word" : "embarrassment"
+      },
+      { "Score" : "-2",
+        "Word" : "embittered"
+      },
+      { "Score" : "1",
+        "Word" : "embrace"
+      },
+      { "Score" : "-2",
+        "Word" : "emergency"
+      },
+      { "Score" : "2",
+        "Word" : "empathetic"
+      },
+      { "Score" : "-1",
+        "Word" : "emptiness"
+      },
+      { "Score" : "-1",
+        "Word" : "empty"
+      },
+      { "Score" : "2",
+        "Word" : "enchanted"
+      },
+      { "Score" : "2",
+        "Word" : "encourage"
+      },
+      { "Score" : "2",
+        "Word" : "encouraged"
+      },
+      { "Score" : "2",
+        "Word" : "encouragement"
+      },
+      { "Score" : "2",
+        "Word" : "encourages"
+      },
+      { "Score" : "2",
+        "Word" : "endorse"
+      },
+      { "Score" : "2",
+        "Word" : "endorsed"
+      },
+      { "Score" : "2",
+        "Word" : "endorsement"
+      },
+      { "Score" : "2",
+        "Word" : "endorses"
+      },
+      { "Score" : "-2",
+        "Word" : "enemies"
+      },
+      { "Score" : "-2",
+        "Word" : "enemy"
+      },
+      { "Score" : "2",
+        "Word" : "energetic"
+      },
+      { "Score" : "1",
+        "Word" : "engage"
+      },
+      { "Score" : "1",
+        "Word" : "engages"
+      },
+      { "Score" : "1",
+        "Word" : "engrossed"
+      },
+      { "Score" : "2",
+        "Word" : "enjoy"
+      },
+      { "Score" : "2",
+        "Word" : "enjoying"
+      },
+      { "Score" : "2",
+        "Word" : "enjoys"
+      },
+      { "Score" : "2",
+        "Word" : "enlighten"
+      },
+      { "Score" : "2",
+        "Word" : "enlightened"
+      },
+      { "Score" : "2",
+        "Word" : "enlightening"
+      },
+      { "Score" : "2",
+        "Word" : "enlightens"
+      },
+      { "Score" : "-2",
+        "Word" : "ennui"
+      },
+      { "Score" : "-2",
+        "Word" : "enrage"
+      },
+      { "Score" : "-2",
+        "Word" : "enraged"
+      },
+      { "Score" : "-2",
+        "Word" : "enrages"
+      },
+      { "Score" : "-2",
+        "Word" : "enraging"
+      },
+      { "Score" : "3",
+        "Word" : "enrapture"
+      },
+      { "Score" : "-2",
+        "Word" : "enslave"
+      },
+      { "Score" : "-2",
+        "Word" : "enslaved"
+      },
+      { "Score" : "-2",
+        "Word" : "enslaves"
+      },
+      { "Score" : "1",
+        "Word" : "ensure"
+      },
+      { "Score" : "1",
+        "Word" : "ensuring"
+      },
+      { "Score" : "1",
+        "Word" : "enterprising"
+      },
+      { "Score" : "2",
+        "Word" : "entertaining"
+      },
+      { "Score" : "3",
+        "Word" : "enthral"
+      },
+      { "Score" : "3",
+        "Word" : "enthusiastic"
+      },
+      { "Score" : "1",
+        "Word" : "entitled"
+      },
+      { "Score" : "2",
+        "Word" : "entrusted"
+      },
+      { "Score" : "-1",
+        "Word" : "envies"
+      },
+      { "Score" : "-2",
+        "Word" : "envious"
+      },
+      { "Score" : "-1",
+        "Word" : "envy"
+      },
+      { "Score" : "-1",
+        "Word" : "envying"
+      },
+      { "Score" : "-2",
+        "Word" : "erroneous"
+      },
+      { "Score" : "-2",
+        "Word" : "error"
+      },
+      { "Score" : "-2",
+        "Word" : "errors"
+      },
+      { "Score" : "-1",
+        "Word" : "escape"
+      },
+      { "Score" : "-1",
+        "Word" : "escapes"
+      },
+      { "Score" : "-1",
+        "Word" : "escaping"
+      },
+      { "Score" : "2",
+        "Word" : "esteemed"
+      },
+      { "Score" : "2",
+        "Word" : "ethical"
+      },
+      { "Score" : "3",
+        "Word" : "euphoria"
+      },
+      { "Score" : "4",
+        "Word" : "euphoric"
+      },
+      { "Score" : "-1",
+        "Word" : "eviction"
+      },
+      { "Score" : "-3",
+        "Word" : "evil"
+      },
+      { "Score" : "-2",
+        "Word" : "exaggerate"
+      },
+      { "Score" : "-2",
+        "Word" : "exaggerated"
+      },
+      { "Score" : "-2",
+        "Word" : "exaggerates"
+      },
+      { "Score" : "-2",
+        "Word" : "exaggerating"
+      },
+      { "Score" : "2",
+        "Word" : "exasperated"
+      },
+      { "Score" : "3",
+        "Word" : "excellence"
+      },
+      { "Score" : "3",
+        "Word" : "excellent"
+      },
+      { "Score" : "3",
+        "Word" : "excite"
+      },
+      { "Score" : "3",
+        "Word" : "excited"
+      },
+      { "Score" : "3",
+        "Word" : "excitement"
+      },
+      { "Score" : "3",
+        "Word" : "exciting"
+      },
+      { "Score" : "-1",
+        "Word" : "exclude"
+      },
+      { "Score" : "-2",
+        "Word" : "excluded"
+      },
+      { "Score" : "-1",
+        "Word" : "exclusion"
+      },
+      { "Score" : "2",
+        "Word" : "exclusive"
+      },
+      { "Score" : "-1",
+        "Word" : "excuse"
+      },
+      { "Score" : "-1",
+        "Word" : "exempt"
+      },
+      { "Score" : "-2",
+        "Word" : "exhausted"
+      },
+      { "Score" : "3",
+        "Word" : "exhilarated"
+      },
+      { "Score" : "3",
+        "Word" : "exhilarates"
+      },
+      { "Score" : "3",
+        "Word" : "exhilarating"
+      },
+      { "Score" : "2",
+        "Word" : "exonerate"
+      },
+      { "Score" : "2",
+        "Word" : "exonerated"
+      },
+      { "Score" : "2",
+        "Word" : "exonerates"
+      },
+      { "Score" : "2",
+        "Word" : "exonerating"
+      },
+      { "Score" : "1",
+        "Word" : "expand"
+      },
+      { "Score" : "1",
+        "Word" : "expands"
+      },
+      { "Score" : "-2",
+        "Word" : "expel"
+      },
+      { "Score" : "-2",
+        "Word" : "expelled"
+      },
+      { "Score" : "-2",
+        "Word" : "expelling"
+      },
+      { "Score" : "-2",
+        "Word" : "expels"
+      },
+      { "Score" : "-2",
+        "Word" : "exploit"
+      },
+      { "Score" : "-2",
+        "Word" : "exploited"
+      },
+      { "Score" : "-2",
+        "Word" : "exploiting"
+      },
+      { "Score" : "-2",
+        "Word" : "exploits"
+      },
+      { "Score" : "1",
+        "Word" : "exploration"
+      },
+      { "Score" : "1",
+        "Word" : "explorations"
+      },
+      { "Score" : "-1",
+        "Word" : "expose"
+      },
+      { "Score" : "-1",
+        "Word" : "exposed"
+      },
+      { "Score" : "-1",
+        "Word" : "exposes"
+      },
+      { "Score" : "-1",
+        "Word" : "exposing"
+      },
+      { "Score" : "1",
+        "Word" : "extend"
+      },
+      { "Score" : "1",
+        "Word" : "extends"
+      },
+      { "Score" : "4",
+        "Word" : "exuberant"
+      },
+      { "Score" : "3",
+        "Word" : "exultant"
+      },
+      { "Score" : "3",
+        "Word" : "exultantly"
+      },
+      { "Score" : "4",
+        "Word" : "fabulous"
+      },
+      { "Score" : "-2",
+        "Word" : "fad"
+      },
+      { "Score" : "-3",
+        "Word" : "fag"
+      },
+      { "Score" : "-3",
+        "Word" : "faggot"
+      },
+      { "Score" : "-3",
+        "Word" : "faggots"
+      },
+      { "Score" : "-2",
+        "Word" : "fail"
+      },
+      { "Score" : "-2",
+        "Word" : "failed"
+      },
+      { "Score" : "-2",
+        "Word" : "failing"
+      },
+      { "Score" : "-2",
+        "Word" : "fails"
+      },
+      { "Score" : "-2",
+        "Word" : "failure"
+      },
+      { "Score" : "-2",
+        "Word" : "failures"
+      },
+      { "Score" : "-2",
+        "Word" : "fainthearted"
+      },
+      { "Score" : "2",
+        "Word" : "fair"
+      },
+      { "Score" : "1",
+        "Word" : "faith"
+      },
+      { "Score" : "3",
+        "Word" : "faithful"
+      },
+      { "Score" : "-3",
+        "Word" : "fake"
+      },
+      { "Score" : "-3",
+        "Word" : "fakes"
+      },
+      { "Score" : "-3",
+        "Word" : "faking"
+      },
+      { "Score" : "-2",
+        "Word" : "fallen"
+      },
+      { "Score" : "-1",
+        "Word" : "falling"
+      },
+      { "Score" : "-3",
+        "Word" : "falsified"
+      },
+      { "Score" : "-3",
+        "Word" : "falsify"
+      },
+      { "Score" : "1",
+        "Word" : "fame"
+      },
+      { "Score" : "3",
+        "Word" : "fan"
+      },
+      { "Score" : "4",
+        "Word" : "fantastic"
+      },
+      { "Score" : "-1",
+        "Word" : "farce"
+      },
+      { "Score" : "3",
+        "Word" : "fascinate"
+      },
+      { "Score" : "3",
+        "Word" : "fascinated"
+      },
+      { "Score" : "3",
+        "Word" : "fascinates"
+      },
+      { "Score" : "3",
+        "Word" : "fascinating"
+      },
+      { "Score" : "-2",
+        "Word" : "fascist"
+      },
+      { "Score" : "-2",
+        "Word" : "fascists"
+      },
+      { "Score" : "-3",
+        "Word" : "fatalities"
+      },
+      { "Score" : "-3",
+        "Word" : "fatality"
+      },
+      { "Score" : "-2",
+        "Word" : "fatigue"
+      },
+      { "Score" : "-2",
+        "Word" : "fatigued"
+      },
+      { "Score" : "-2",
+        "Word" : "fatigues"
+      },
+      { "Score" : "-2",
+        "Word" : "fatiguing"
+      },
+      { "Score" : "2",
+        "Word" : "favor"
+      },
+      { "Score" : "2",
+        "Word" : "favored"
+      },
+      { "Score" : "2",
+        "Word" : "favorite"
+      },
+      { "Score" : "2",
+        "Word" : "favorited"
+      },
+      { "Score" : "2",
+        "Word" : "favorites"
+      },
+      { "Score" : "2",
+        "Word" : "favors"
+      },
+      { "Score" : "-2",
+        "Word" : "fear"
+      },
+      { "Score" : "-2",
+        "Word" : "fearful"
+      },
+      { "Score" : "-2",
+        "Word" : "fearing"
+      },
+      { "Score" : "2",
+        "Word" : "fearless"
+      },
+      { "Score" : "-2",
+        "Word" : "fearsome"
+      },
+      { "Score" : "-3",
+        "Word" : "fed up"
+      },
+      { "Score" : "-2",
+        "Word" : "feeble"
+      },
+      { "Score" : "1",
+        "Word" : "feeling"
+      },
+      { "Score" : "-3",
+        "Word" : "felonies"
+      },
+      { "Score" : "-3",
+        "Word" : "felony"
+      },
+      { "Score" : "2",
+        "Word" : "fervent"
+      },
+      { "Score" : "2",
+        "Word" : "fervid"
+      },
+      { "Score" : "2",
+        "Word" : "festive"
+      },
+      { "Score" : "-3",
+        "Word" : "fiasco"
+      },
+      { "Score" : "-2",
+        "Word" : "fidgety"
+      },
+      { "Score" : "-1",
+        "Word" : "fight"
+      },
+      { "Score" : "2",
+        "Word" : "fine"
+      },
+      { "Score" : "-2",
+        "Word" : "fire"
+      },
+      { "Score" : "-2",
+        "Word" : "fired"
+      },
+      { "Score" : "-2",
+        "Word" : "firing"
+      },
+      { "Score" : "1",
+        "Word" : "fit"
+      },
+      { "Score" : "1",
+        "Word" : "fitness"
+      },
+      { "Score" : "2",
+        "Word" : "flagship"
+      },
+      { "Score" : "-1",
+        "Word" : "flees"
+      },
+      { "Score" : "-2",
+        "Word" : "flop"
+      },
+      { "Score" : "-2",
+        "Word" : "flops"
+      },
+      { "Score" : "-2",
+        "Word" : "flu"
+      },
+      { "Score" : "-2",
+        "Word" : "flustered"
+      },
+      { "Score" : "2",
+        "Word" : "focused"
+      },
+      { "Score" : "2",
+        "Word" : "fond"
+      },
+      { "Score" : "2",
+        "Word" : "fondness"
+      },
+      { "Score" : "-2",
+        "Word" : "fool"
+      },
+      { "Score" : "-2",
+        "Word" : "foolish"
+      },
+      { "Score" : "-2",
+        "Word" : "fools"
+      },
+      { "Score" : "-1",
+        "Word" : "forced"
+      },
+      { "Score" : "-2",
+        "Word" : "foreclosure"
+      },
+      { "Score" : "-2",
+        "Word" : "foreclosures"
+      },
+      { "Score" : "-1",
+        "Word" : "forget"
+      },
+      { "Score" : "-2",
+        "Word" : "forgetful"
+      },
+      { "Score" : "1",
+        "Word" : "forgive"
+      },
+      { "Score" : "1",
+        "Word" : "forgiving"
+      },
+      { "Score" : "-1",
+        "Word" : "forgotten"
+      },
+      { "Score" : "2",
+        "Word" : "fortunate"
+      },
+      { "Score" : "-1",
+        "Word" : "frantic"
+      },
+      { "Score" : "-4",
+        "Word" : "fraud"
+      },
+      { "Score" : "-4",
+        "Word" : "frauds"
+      },
+      { "Score" : "-4",
+        "Word" : "fraudster"
+      },
+      { "Score" : "-4",
+        "Word" : "fraudsters"
+      },
+      { "Score" : "-4",
+        "Word" : "fraudulence"
+      },
+      { "Score" : "-4",
+        "Word" : "fraudulent"
+      },
+      { "Score" : "1",
+        "Word" : "free"
+      },
+      { "Score" : "2",
+        "Word" : "freedom"
+      },
+      { "Score" : "-3",
+        "Word" : "frenzy"
+      },
+      { "Score" : "1",
+        "Word" : "fresh"
+      },
+      { "Score" : "2",
+        "Word" : "friendly"
+      },
+      { "Score" : "-2",
+        "Word" : "fright"
+      },
+      { "Score" : "-2",
+        "Word" : "frightened"
+      },
+      { "Score" : "-3",
+        "Word" : "frightening"
+      },
+      { "Score" : "-2",
+        "Word" : "frikin"
+      },
+      { "Score" : "2",
+        "Word" : "frisky"
+      },
+      { "Score" : "-1",
+        "Word" : "frowning"
+      },
+      { "Score" : "-2",
+        "Word" : "frustrate"
+      },
+      { "Score" : "-2",
+        "Word" : "frustrated"
+      },
+      { "Score" : "-2",
+        "Word" : "frustrates"
+      },
+      { "Score" : "-2",
+        "Word" : "frustrating"
+      },
+      { "Score" : "-2",
+        "Word" : "frustration"
+      },
+      { "Score" : "3",
+        "Word" : "ftw"
+      },
+      { "Score" : "-4",
+        "Word" : "fuck"
+      },
+      { "Score" : "-4",
+        "Word" : "fucked"
+      },
+      { "Score" : "-4",
+        "Word" : "fucker"
+      },
+      { "Score" : "-4",
+        "Word" : "fuckers"
+      },
+      { "Score" : "-4",
+        "Word" : "fuckface"
+      },
+      { "Score" : "-4",
+        "Word" : "fuckhead"
+      },
+      { "Score" : "-4",
+        "Word" : "fucktard"
+      },
+      { "Score" : "-3",
+        "Word" : "fud"
+      },
+      { "Score" : "-4",
+        "Word" : "fuked"
+      },
+      { "Score" : "-4",
+        "Word" : "fuking"
+      },
+      { "Score" : "2",
+        "Word" : "fulfill"
+      },
+      { "Score" : "2",
+        "Word" : "fulfilled"
+      },
+      { "Score" : "2",
+        "Word" : "fulfills"
+      },
+      { "Score" : "-2",
+        "Word" : "fuming"
+      },
+      { "Score" : "4",
+        "Word" : "fun"
+      },
+      { "Score" : "-1",
+        "Word" : "funeral"
+      },
+      { "Score" : "-1",
+        "Word" : "funerals"
+      },
+      { "Score" : "2",
+        "Word" : "funky"
+      },
+      { "Score" : "4",
+        "Word" : "funnier"
+      },
+      { "Score" : "4",
+        "Word" : "funny"
+      },
+      { "Score" : "-3",
+        "Word" : "furious"
+      },
+      { "Score" : "2",
+        "Word" : "futile"
+      },
+      { "Score" : "-2",
+        "Word" : "gag"
+      },
+      { "Score" : "-2",
+        "Word" : "gagged"
+      },
+      { "Score" : "2",
+        "Word" : "gain"
+      },
+      { "Score" : "2",
+        "Word" : "gained"
+      },
+      { "Score" : "2",
+        "Word" : "gaining"
+      },
+      { "Score" : "2",
+        "Word" : "gains"
+      },
+      { "Score" : "3",
+        "Word" : "gallant"
+      },
+      { "Score" : "3",
+        "Word" : "gallantly"
+      },
+      { "Score" : "3",
+        "Word" : "gallantry"
+      },
+      { "Score" : "2",
+        "Word" : "generous"
+      },
+      { "Score" : "3",
+        "Word" : "genial"
+      },
+      { "Score" : "-1",
+        "Word" : "ghost"
+      },
+      { "Score" : "-2",
+        "Word" : "giddy"
+      },
+      { "Score" : "2",
+        "Word" : "gift"
+      },
+      { "Score" : "3",
+        "Word" : "glad"
+      },
+      { "Score" : "3",
+        "Word" : "glamorous"
+      },
+      { "Score" : "3",
+        "Word" : "glamourous"
+      },
+      { "Score" : "3",
+        "Word" : "glee"
+      },
+      { "Score" : "3",
+        "Word" : "gleeful"
+      },
+      { "Score" : "-1",
+        "Word" : "gloom"
+      },
+      { "Score" : "-2",
+        "Word" : "gloomy"
+      },
+      { "Score" : "2",
+        "Word" : "glorious"
+      },
+      { "Score" : "2",
+        "Word" : "glory"
+      },
+      { "Score" : "-2",
+        "Word" : "glum"
+      },
+      { "Score" : "1",
+        "Word" : "god"
+      },
+      { "Score" : "4",
+        "Word" : "godsend"
+      },
+      { "Score" : "3",
+        "Word" : "good"
+      },
+      { "Score" : "3",
+        "Word" : "goodness"
+      },
+      { "Score" : "1",
+        "Word" : "grace"
+      },
+      { "Score" : "3",
+        "Word" : "gracious"
+      },
+      { "Score" : "3",
+        "Word" : "grand"
+      },
+      { "Score" : "1",
+        "Word" : "grant"
+      },
+      { "Score" : "1",
+        "Word" : "granted"
+      },
+      { "Score" : "1",
+        "Word" : "granting"
+      },
+      { "Score" : "1",
+        "Word" : "grants"
+      },
+      { "Score" : "3",
+        "Word" : "grateful"
+      },
+      { "Score" : "2",
+        "Word" : "gratification"
+      },
+      { "Score" : "-2",
+        "Word" : "grave"
+      },
+      { "Score" : "-1",
+        "Word" : "gray"
+      },
+      { "Score" : "3",
+        "Word" : "great"
+      },
+      { "Score" : "3",
+        "Word" : "greater"
+      },
+      { "Score" : "3",
+        "Word" : "greatest"
+      },
+      { "Score" : "-3",
+        "Word" : "greed"
+      },
+      { "Score" : "-2",
+        "Word" : "greedy"
+      },
+      { "Score" : "-3",
+        "Word" : "green wash"
+      },
+      { "Score" : "-3",
+        "Word" : "green washing"
+      },
+      { "Score" : "-3",
+        "Word" : "greenwash"
+      },
+      { "Score" : "-3",
+        "Word" : "greenwasher"
+      },
+      { "Score" : "-3",
+        "Word" : "greenwashers"
+      },
+      { "Score" : "-3",
+        "Word" : "greenwashing"
+      },
+      { "Score" : "1",
+        "Word" : "greet"
+      },
+      { "Score" : "1",
+        "Word" : "greeted"
+      },
+      { "Score" : "1",
+        "Word" : "greeting"
+      },
+      { "Score" : "2",
+        "Word" : "greetings"
+      },
+      { "Score" : "1",
+        "Word" : "greets"
+      },
+      { "Score" : "-1",
+        "Word" : "grey"
+      },
+      { "Score" : "-2",
+        "Word" : "grief"
+      },
+      { "Score" : "-2",
+        "Word" : "grieved"
+      },
+      { "Score" : "-2",
+        "Word" : "gross"
+      },
+      { "Score" : "1",
+        "Word" : "growing"
+      },
+      { "Score" : "2",
+        "Word" : "growth"
+      },
+      { "Score" : "1",
+        "Word" : "guarantee"
+      },
+      { "Score" : "-3",
+        "Word" : "guilt"
+      },
+      { "Score" : "-3",
+        "Word" : "guilty"
+      },
+      { "Score" : "-2",
+        "Word" : "gullibility"
+      },
+      { "Score" : "-2",
+        "Word" : "gullible"
+      },
+      { "Score" : "-1",
+        "Word" : "gun"
+      },
+      { "Score" : "2",
+        "Word" : "ha"
+      },
+      { "Score" : "-1",
+        "Word" : "hacked"
+      },
+      { "Score" : "3",
+        "Word" : "haha"
+      },
+      { "Score" : "3",
+        "Word" : "hahaha"
+      },
+      { "Score" : "3",
+        "Word" : "hahahah"
+      },
+      { "Score" : "2",
+        "Word" : "hail"
+      },
+      { "Score" : "2",
+        "Word" : "hailed"
+      },
+      { "Score" : "-2",
+        "Word" : "hapless"
+      },
+      { "Score" : "-2",
+        "Word" : "haplessness"
+      },
+      { "Score" : "3",
+        "Word" : "happiness"
+      },
+      { "Score" : "3",
+        "Word" : "happy"
+      },
+      { "Score" : "-1",
+        "Word" : "hard"
+      },
+      { "Score" : "2",
+        "Word" : "hardier"
+      },
+      { "Score" : "-2",
+        "Word" : "hardship"
+      },
+      { "Score" : "2",
+        "Word" : "hardy"
+      },
+      { "Score" : "-2",
+        "Word" : "harm"
+      },
+      { "Score" : "-2",
+        "Word" : "harmed"
+      },
+      { "Score" : "-2",
+        "Word" : "harmful"
+      },
+      { "Score" : "-2",
+        "Word" : "harming"
+      },
+      { "Score" : "-2",
+        "Word" : "harms"
+      },
+      { "Score" : "-2",
+        "Word" : "harried"
+      },
+      { "Score" : "-2",
+        "Word" : "harsh"
+      },
+      { "Score" : "-2",
+        "Word" : "harsher"
+      },
+      { "Score" : "-2",
+        "Word" : "harshest"
+      },
+      { "Score" : "-3",
+        "Word" : "hate"
+      },
+      { "Score" : "-3",
+        "Word" : "hated"
+      },
+      { "Score" : "-3",
+        "Word" : "haters"
+      },
+      { "Score" : "-3",
+        "Word" : "hates"
+      },
+      { "Score" : "-3",
+        "Word" : "hating"
+      },
+      { "Score" : "-1",
+        "Word" : "haunt"
+      },
+      { "Score" : "-2",
+        "Word" : "haunted"
+      },
+      { "Score" : "1",
+        "Word" : "haunting"
+      },
+      { "Score" : "-1",
+        "Word" : "haunts"
+      },
+      { "Score" : "-2",
+        "Word" : "havoc"
+      },
+      { "Score" : "2",
+        "Word" : "healthy"
+      },
+      { "Score" : "-3",
+        "Word" : "heartbreaking"
+      },
+      { "Score" : "-3",
+        "Word" : "heartbroken"
+      },
+      { "Score" : "3",
+        "Word" : "heartfelt"
+      },
+      { "Score" : "2",
+        "Word" : "heaven"
+      },
+      { "Score" : "4",
+        "Word" : "heavenly"
+      },
+      { "Score" : "-2",
+        "Word" : "heavyhearted"
+      },
+      { "Score" : "-4",
+        "Word" : "hell"
+      },
+      { "Score" : "2",
+        "Word" : "help"
+      },
+      { "Score" : "2",
+        "Word" : "helpful"
+      },
+      { "Score" : "2",
+        "Word" : "helping"
+      },
+      { "Score" : "-2",
+        "Word" : "helpless"
+      },
+      { "Score" : "2",
+        "Word" : "helps"
+      },
+      { "Score" : "2",
+        "Word" : "hero"
+      },
+      { "Score" : "2",
+        "Word" : "heroes"
+      },
+      { "Score" : "3",
+        "Word" : "heroic"
+      },
+      { "Score" : "-2",
+        "Word" : "hesitant"
+      },
+      { "Score" : "-2",
+        "Word" : "hesitate"
+      },
+      { "Score" : "-1",
+        "Word" : "hid"
+      },
+      { "Score" : "-1",
+        "Word" : "hide"
+      },
+      { "Score" : "-1",
+        "Word" : "hides"
+      },
+      { "Score" : "-1",
+        "Word" : "hiding"
+      },
+      { "Score" : "2",
+        "Word" : "highlight"
+      },
+      { "Score" : "2",
+        "Word" : "hilarious"
+      },
+      { "Score" : "-2",
+        "Word" : "hindrance"
+      },
+      { "Score" : "-2",
+        "Word" : "hoax"
+      },
+      { "Score" : "-2",
+        "Word" : "homesick"
+      },
+      { "Score" : "2",
+        "Word" : "honest"
+      },
+      { "Score" : "2",
+        "Word" : "honor"
+      },
+      { "Score" : "2",
+        "Word" : "honored"
+      },
+      { "Score" : "2",
+        "Word" : "honoring"
+      },
+      { "Score" : "2",
+        "Word" : "honour"
+      },
+      { "Score" : "2",
+        "Word" : "honoured"
+      },
+      { "Score" : "2",
+        "Word" : "honouring"
+      },
+      { "Score" : "-2",
+        "Word" : "hooligan"
+      },
+      { "Score" : "-2",
+        "Word" : "hooliganism"
+      },
+      { "Score" : "-2",
+        "Word" : "hooligans"
+      },
+      { "Score" : "2",
+        "Word" : "hope"
+      },
+      { "Score" : "2",
+        "Word" : "hopeful"
+      },
+      { "Score" : "2",
+        "Word" : "hopefully"
+      },
+      { "Score" : "-2",
+        "Word" : "hopeless"
+      },
+      { "Score" : "-2",
+        "Word" : "hopelessness"
+      },
+      { "Score" : "2",
+        "Word" : "hopes"
+      },
+      { "Score" : "2",
+        "Word" : "hoping"
+      },
+      { "Score" : "-3",
+        "Word" : "horrendous"
+      },
+      { "Score" : "-3",
+        "Word" : "horrible"
+      },
+      { "Score" : "-3",
+        "Word" : "horrific"
+      },
+      { "Score" : "-3",
+        "Word" : "horrified"
+      },
+      { "Score" : "-2",
+        "Word" : "hostile"
+      },
+      { "Score" : "-2",
+        "Word" : "huckster"
+      },
+      { "Score" : "2",
+        "Word" : "hug"
+      },
+      { "Score" : "1",
+        "Word" : "huge"
+      },
+      { "Score" : "2",
+        "Word" : "hugs"
+      },
+      { "Score" : "3",
+        "Word" : "humerous"
+      },
+      { "Score" : "-3",
+        "Word" : "humiliated"
+      },
+      { "Score" : "-3",
+        "Word" : "humiliation"
+      },
+      { "Score" : "2",
+        "Word" : "humor"
+      },
+      { "Score" : "2",
+        "Word" : "humorous"
+      },
+      { "Score" : "2",
+        "Word" : "humour"
+      },
+      { "Score" : "2",
+        "Word" : "humourous"
+      },
+      { "Score" : "-2",
+        "Word" : "hunger"
+      },
+      { "Score" : "5",
+        "Word" : "hurrah"
+      },
+      { "Score" : "-2",
+        "Word" : "hurt"
+      },
+      { "Score" : "-2",
+        "Word" : "hurting"
+      },
+      { "Score" : "-2",
+        "Word" : "hurts"
+      },
+      { "Score" : "-2",
+        "Word" : "hypocritical"
+      },
+      { "Score" : "-3",
+        "Word" : "hysteria"
+      },
+      { "Score" : "-3",
+        "Word" : "hysterical"
+      },
+      { "Score" : "-3",
+        "Word" : "hysterics"
+      },
+      { "Score" : "-3",
+        "Word" : "idiot"
+      },
+      { "Score" : "-3",
+        "Word" : "idiotic"
+      },
+      { "Score" : "-2",
+        "Word" : "ignorance"
+      },
+      { "Score" : "-2",
+        "Word" : "ignorant"
+      },
+      { "Score" : "-1",
+        "Word" : "ignore"
+      },
+      { "Score" : "-2",
+        "Word" : "ignored"
+      },
+      { "Score" : "-1",
+        "Word" : "ignores"
+      },
+      { "Score" : "-2",
+        "Word" : "ill"
+      },
+      { "Score" : "-3",
+        "Word" : "illegal"
+      },
+      { "Score" : "-2",
+        "Word" : "illiteracy"
+      },
+      { "Score" : "-2",
+        "Word" : "illness"
+      },
+      { "Score" : "-2",
+        "Word" : "illnesses"
+      },
+      { "Score" : "-3",
+        "Word" : "imbecile"
+      },
+      { "Score" : "-1",
+        "Word" : "immobilized"
+      },
+      { "Score" : "2",
+        "Word" : "immortal"
+      },
+      { "Score" : "1",
+        "Word" : "immune"
+      },
+      { "Score" : "-2",
+        "Word" : "impatient"
+      },
+      { "Score" : "-2",
+        "Word" : "imperfect"
+      },
+      { "Score" : "2",
+        "Word" : "importance"
+      },
+      { "Score" : "2",
+        "Word" : "important"
+      },
+      { "Score" : "-1",
+        "Word" : "impose"
+      },
+      { "Score" : "-1",
+        "Word" : "imposed"
+      },
+      { "Score" : "-1",
+        "Word" : "imposes"
+      },
+      { "Score" : "-1",
+        "Word" : "imposing"
+      },
+      { "Score" : "-2",
+        "Word" : "impotent"
+      },
+      { "Score" : "3",
+        "Word" : "impress"
+      },
+      { "Score" : "3",
+        "Word" : "impressed"
+      },
+      { "Score" : "3",
+        "Word" : "impresses"
+      },
+      { "Score" : "3",
+        "Word" : "impressive"
+      },
+      { "Score" : "-2",
+        "Word" : "imprisoned"
+      },
+      { "Score" : "2",
+        "Word" : "improve"
+      },
+      { "Score" : "2",
+        "Word" : "improved"
+      },
+      { "Score" : "2",
+        "Word" : "improvement"
+      },
+      { "Score" : "2",
+        "Word" : "improves"
+      },
+      { "Score" : "2",
+        "Word" : "improving"
+      },
+      { "Score" : "-2",
+        "Word" : "inability"
+      },
+      { "Score" : "-2",
+        "Word" : "inaction"
+      },
+      { "Score" : "-2",
+        "Word" : "inadequate"
+      },
+      { "Score" : "-2",
+        "Word" : "incapable"
+      },
+      { "Score" : "-2",
+        "Word" : "incapacitated"
+      },
+      { "Score" : "-2",
+        "Word" : "incensed"
+      },
+      { "Score" : "-2",
+        "Word" : "incompetence"
+      },
+      { "Score" : "-2",
+        "Word" : "incompetent"
+      },
+      { "Score" : "-2",
+        "Word" : "inconsiderate"
+      },
+      { "Score" : "-2",
+        "Word" : "inconvenience"
+      },
+      { "Score" : "-2",
+        "Word" : "inconvenient"
+      },
+      { "Score" : "1",
+        "Word" : "increase"
+      },
+      { "Score" : "1",
+        "Word" : "increased"
+      },
+      { "Score" : "-2",
+        "Word" : "indecisive"
+      },
+      { "Score" : "2",
+        "Word" : "indestructible"
+      },
+      { "Score" : "-2",
+        "Word" : "indifference"
+      },
+      { "Score" : "-2",
+        "Word" : "indifferent"
+      },
+      { "Score" : "-2",
+        "Word" : "indignant"
+      },
+      { "Score" : "-2",
+        "Word" : "indignation"
+      },
+      { "Score" : "-2",
+        "Word" : "indoctrinate"
+      },
+      { "Score" : "-2",
+        "Word" : "indoctrinated"
+      },
+      { "Score" : "-2",
+        "Word" : "indoctrinates"
+      },
+      { "Score" : "-2",
+        "Word" : "indoctrinating"
+      },
+      { "Score" : "-2",
+        "Word" : "ineffective"
+      },
+      { "Score" : "-2",
+        "Word" : "ineffectively"
+      },
+      { "Score" : "2",
+        "Word" : "infatuated"
+      },
+      { "Score" : "2",
+        "Word" : "infatuation"
+      },
+      { "Score" : "-2",
+        "Word" : "infected"
+      },
+      { "Score" : "-2",
+        "Word" : "inferior"
+      },
+      { "Score" : "-2",
+        "Word" : "inflamed"
+      },
+      { "Score" : "2",
+        "Word" : "influential"
+      },
+      { "Score" : "-2",
+        "Word" : "infringement"
+      },
+      { "Score" : "-2",
+        "Word" : "infuriate"
+      },
+      { "Score" : "-2",
+        "Word" : "infuriated"
+      },
+      { "Score" : "-2",
+        "Word" : "infuriates"
+      },
+      { "Score" : "-2",
+        "Word" : "infuriating"
+      },
+      { "Score" : "-1",
+        "Word" : "inhibit"
+      },
+      { "Score" : "-2",
+        "Word" : "injured"
+      },
+      { "Score" : "-2",
+        "Word" : "injury"
+      },
+      { "Score" : "-2",
+        "Word" : "injustice"
+      },
+      { "Score" : "1",
+        "Word" : "innovate"
+      },
+      { "Score" : "1",
+        "Word" : "innovates"
+      },
+      { "Score" : "1",
+        "Word" : "innovation"
+      },
+      { "Score" : "2",
+        "Word" : "innovative"
+      },
+      { "Score" : "-2",
+        "Word" : "inquisition"
+      },
+      { "Score" : "2",
+        "Word" : "inquisitive"
+      },
+      { "Score" : "-2",
+        "Word" : "insane"
+      },
+      { "Score" : "-2",
+        "Word" : "insanity"
+      },
+      { "Score" : "-2",
+        "Word" : "insecure"
+      },
+      { "Score" : "-2",
+        "Word" : "insensitive"
+      },
+      { "Score" : "-2",
+        "Word" : "insensitivity"
+      },
+      { "Score" : "-2",
+        "Word" : "insignificant"
+      },
+      { "Score" : "-2",
+        "Word" : "insipid"
+      },
+      { "Score" : "2",
+        "Word" : "inspiration"
+      },
+      { "Score" : "2",
+        "Word" : "inspirational"
+      },
+      { "Score" : "2",
+        "Word" : "inspire"
+      },
+      { "Score" : "2",
+        "Word" : "inspired"
+      },
+      { "Score" : "2",
+        "Word" : "inspires"
+      },
+      { "Score" : "3",
+        "Word" : "inspiring"
+      },
+      { "Score" : "-2",
+        "Word" : "insult"
+      },
+      { "Score" : "-2",
+        "Word" : "insulted"
+      },
+      { "Score" : "-2",
+        "Word" : "insulting"
+      },
+      { "Score" : "-2",
+        "Word" : "insults"
+      },
+      { "Score" : "2",
+        "Word" : "intact"
+      },
+      { "Score" : "2",
+        "Word" : "integrity"
+      },
+      { "Score" : "2",
+        "Word" : "intelligent"
+      },
+      { "Score" : "1",
+        "Word" : "intense"
+      },
+      { "Score" : "1",
+        "Word" : "interest"
+      },
+      { "Score" : "2",
+        "Word" : "interested"
+      },
+      { "Score" : "2",
+        "Word" : "interesting"
+      },
+      { "Score" : "1",
+        "Word" : "interests"
+      },
+      { "Score" : "-2",
+        "Word" : "interrogated"
+      },
+      { "Score" : "-2",
+        "Word" : "interrupt"
+      },
+      { "Score" : "-2",
+        "Word" : "interrupted"
+      },
+      { "Score" : "-2",
+        "Word" : "interrupting"
+      },
+      { "Score" : "-2",
+        "Word" : "interruption"
+      },
+      { "Score" : "-2",
+        "Word" : "interrupts"
+      },
+      { "Score" : "-2",
+        "Word" : "intimidate"
+      },
+      { "Score" : "-2",
+        "Word" : "intimidated"
+      },
+      { "Score" : "-2",
+        "Word" : "intimidates"
+      },
+      { "Score" : "-2",
+        "Word" : "intimidating"
+      },
+      { "Score" : "-2",
+        "Word" : "intimidation"
+      },
+      { "Score" : "2",
+        "Word" : "intricate"
+      },
+      { "Score" : "1",
+        "Word" : "intrigues"
+      },
+      { "Score" : "2",
+        "Word" : "invincible"
+      },
+      { "Score" : "1",
+        "Word" : "invite"
+      },
+      { "Score" : "1",
+        "Word" : "inviting"
+      },
+      { "Score" : "2",
+        "Word" : "invulnerable"
+      },
+      { "Score" : "-3",
+        "Word" : "irate"
+      },
+      { "Score" : "-1",
+        "Word" : "ironic"
+      },
+      { "Score" : "-1",
+        "Word" : "irony"
+      },
+      { "Score" : "-1",
+        "Word" : "irrational"
+      },
+      { "Score" : "2",
+        "Word" : "irresistible"
+      },
+      { "Score" : "-2",
+        "Word" : "irresolute"
+      },
+      { "Score" : "2",
+        "Word" : "irresponsible"
+      },
+      { "Score" : "-1",
+        "Word" : "irreversible"
+      },
+      { "Score" : "-3",
+        "Word" : "irritate"
+      },
+      { "Score" : "-3",
+        "Word" : "irritated"
+      },
+      { "Score" : "-3",
+        "Word" : "irritating"
+      },
+      { "Score" : "-1",
+        "Word" : "isolated"
+      },
+      { "Score" : "-2",
+        "Word" : "itchy"
+      },
+      { "Score" : "-4",
+        "Word" : "jackass"
+      },
+      { "Score" : "-4",
+        "Word" : "jackasses"
+      },
+      { "Score" : "-2",
+        "Word" : "jailed"
+      },
+      { "Score" : "2",
+        "Word" : "jaunty"
+      },
+      { "Score" : "-2",
+        "Word" : "jealous"
+      },
+      { "Score" : "-2",
+        "Word" : "jeopardy"
+      },
+      { "Score" : "-3",
+        "Word" : "jerk"
+      },
+      { "Score" : "1",
+        "Word" : "jesus"
+      },
+      { "Score" : "1",
+        "Word" : "jewel"
+      },
+      { "Score" : "1",
+        "Word" : "jewels"
+      },
+      { "Score" : "2",
+        "Word" : "jocular"
+      },
+      { "Score" : "1",
+        "Word" : "join"
+      },
+      { "Score" : "2",
+        "Word" : "joke"
+      },
+      { "Score" : "2",
+        "Word" : "jokes"
+      },
+      { "Score" : "2",
+        "Word" : "jolly"
+      },
+      { "Score" : "2",
+        "Word" : "jovial"
+      },
+      { "Score" : "3",
+        "Word" : "joy"
+      },
+      { "Score" : "3",
+        "Word" : "joyful"
+      },
+      { "Score" : "3",
+        "Word" : "joyfully"
+      },
+      { "Score" : "-2",
+        "Word" : "joyless"
+      },
+      { "Score" : "3",
+        "Word" : "joyous"
+      },
+      { "Score" : "3",
+        "Word" : "jubilant"
+      },
+      { "Score" : "-1",
+        "Word" : "jumpy"
+      },
+      { "Score" : "2",
+        "Word" : "justice"
+      },
+      { "Score" : "2",
+        "Word" : "justifiably"
+      },
+      { "Score" : "2",
+        "Word" : "justified"
+      },
+      { "Score" : "1",
+        "Word" : "keen"
+      },
+      { "Score" : "-3",
+        "Word" : "kill"
+      },
+      { "Score" : "-3",
+        "Word" : "killed"
+      },
+      { "Score" : "-3",
+        "Word" : "killing"
+      },
+      { "Score" : "-3",
+        "Word" : "kills"
+      },
+      { "Score" : "2",
+        "Word" : "kind"
+      },
+      { "Score" : "2",
+        "Word" : "kinder"
+      },
+      { "Score" : "2",
+        "Word" : "kiss"
+      },
+      { "Score" : "3",
+        "Word" : "kudos"
+      },
+      { "Score" : "-2",
+        "Word" : "lack"
+      },
+      { "Score" : "-2",
+        "Word" : "lackadaisical"
+      },
+      { "Score" : "-1",
+        "Word" : "lag"
+      },
+      { "Score" : "-2",
+        "Word" : "lagged"
+      },
+      { "Score" : "-2",
+        "Word" : "lagging"
+      },
+      { "Score" : "-2",
+        "Word" : "lags"
+      },
+      { "Score" : "-2",
+        "Word" : "lame"
+      },
+      { "Score" : "2",
+        "Word" : "landmark"
+      },
+      { "Score" : "1",
+        "Word" : "laugh"
+      },
+      { "Score" : "1",
+        "Word" : "laughed"
+      },
+      { "Score" : "1",
+        "Word" : "laughing"
+      },
+      { "Score" : "1",
+        "Word" : "laughs"
+      },
+      { "Score" : "1",
+        "Word" : "laughting"
+      },
+      { "Score" : "1",
+        "Word" : "launched"
+      },
+      { "Score" : "3",
+        "Word" : "lawl"
+      },
+      { "Score" : "-2",
+        "Word" : "lawsuit"
+      },
+      { "Score" : "-2",
+        "Word" : "lawsuits"
+      },
+      { "Score" : "-1",
+        "Word" : "lazy"
+      },
+      { "Score" : "-1",
+        "Word" : "leak"
+      },
+      { "Score" : "-1",
+        "Word" : "leaked"
+      },
+      { "Score" : "-1",
+        "Word" : "leave"
+      },
+      { "Score" : "1",
+        "Word" : "legal"
+      },
+      { "Score" : "1",
+        "Word" : "legally"
+      },
+      { "Score" : "1",
+        "Word" : "lenient"
+      },
+      { "Score" : "-2",
+        "Word" : "lethargic"
+      },
+      { "Score" : "-2",
+        "Word" : "lethargy"
+      },
+      { "Score" : "-3",
+        "Word" : "liar"
+      },
+      { "Score" : "-3",
+        "Word" : "liars"
+      },
+      { "Score" : "-2",
+        "Word" : "libelous"
+      },
+      { "Score" : "-2",
+        "Word" : "lied"
+      },
+      { "Score" : "4",
+        "Word" : "lifesaver"
+      },
+      { "Score" : "1",
+        "Word" : "lighthearted"
+      },
+      { "Score" : "2",
+        "Word" : "like"
+      },
+      { "Score" : "2",
+        "Word" : "liked"
+      },
+      { "Score" : "2",
+        "Word" : "likes"
+      },
+      { "Score" : "-1",
+        "Word" : "limitation"
+      },
+      { "Score" : "-1",
+        "Word" : "limited"
+      },
+      { "Score" : "-1",
+        "Word" : "limits"
+      },
+      { "Score" : "-1",
+        "Word" : "litigation"
+      },
+      { "Score" : "-2",
+        "Word" : "litigious"
+      },
+      { "Score" : "2",
+        "Word" : "lively"
+      },
+      { "Score" : "-2",
+        "Word" : "livid"
+      },
+      { "Score" : "4",
+        "Word" : "lmao"
+      },
+      { "Score" : "4",
+        "Word" : "lmfao"
+      },
+      { "Score" : "-3",
+        "Word" : "loathe"
+      },
+      { "Score" : "-3",
+        "Word" : "loathed"
+      },
+      { "Score" : "-3",
+        "Word" : "loathes"
+      },
+      { "Score" : "-3",
+        "Word" : "loathing"
+      },
+      { "Score" : "-2",
+        "Word" : "lobby"
+      },
+      { "Score" : "-2",
+        "Word" : "lobbying"
+      },
+      { "Score" : "3",
+        "Word" : "lol"
+      },
+      { "Score" : "-2",
+        "Word" : "lonely"
+      },
+      { "Score" : "-2",
+        "Word" : "lonesome"
+      },
+      { "Score" : "-1",
+        "Word" : "longing"
+      },
+      { "Score" : "-1",
+        "Word" : "loom"
+      },
+      { "Score" : "-1",
+        "Word" : "loomed"
+      },
+      { "Score" : "-1",
+        "Word" : "looming"
+      },
+      { "Score" : "-1",
+        "Word" : "looms"
+      },
+      { "Score" : "-3",
+        "Word" : "loose"
+      },
+      { "Score" : "-3",
+        "Word" : "looses"
+      },
+      { "Score" : "-3",
+        "Word" : "loser"
+      },
+      { "Score" : "-3",
+        "Word" : "losing"
+      },
+      { "Score" : "-3",
+        "Word" : "loss"
+      },
+      { "Score" : "-3",
+        "Word" : "lost"
+      },
+      { "Score" : "3",
+        "Word" : "lovable"
+      },
+      { "Score" : "3",
+        "Word" : "love"
+      },
+      { "Score" : "3",
+        "Word" : "loved"
+      },
+      { "Score" : "3",
+        "Word" : "lovelies"
+      },
+      { "Score" : "3",
+        "Word" : "lovely"
+      },
+      { "Score" : "2",
+        "Word" : "loving"
+      },
+      { "Score" : "-1",
+        "Word" : "lowest"
+      },
+      { "Score" : "3",
+        "Word" : "loyal"
+      },
+      { "Score" : "3",
+        "Word" : "loyalty"
+      },
+      { "Score" : "3",
+        "Word" : "luck"
+      },
+      { "Score" : "3",
+        "Word" : "luckily"
+      },
+      { "Score" : "3",
+        "Word" : "lucky"
+      },
+      { "Score" : "-2",
+        "Word" : "lugubrious"
+      },
+      { "Score" : "-3",
+        "Word" : "lunatic"
+      },
+      { "Score" : "-3",
+        "Word" : "lunatics"
+      },
+      { "Score" : "-1",
+        "Word" : "lurk"
+      },
+      { "Score" : "-1",
+        "Word" : "lurking"
+      },
+      { "Score" : "-1",
+        "Word" : "lurks"
+      },
+      { "Score" : "-3",
+        "Word" : "mad"
+      },
+      { "Score" : "-3",
+        "Word" : "maddening"
+      },
+      { "Score" : "-1",
+        "Word" : "made-up"
+      },
+      { "Score" : "-3",
+        "Word" : "madness"
+      },
+      { "Score" : "-1",
+        "Word" : "mandatory"
+      },
+      { "Score" : "-1",
+        "Word" : "manipulated"
+      },
+      { "Score" : "-1",
+        "Word" : "manipulating"
+      },
+      { "Score" : "-1",
+        "Word" : "manipulation"
+      },
+      { "Score" : "3",
+        "Word" : "marvel"
+      },
+      { "Score" : "3",
+        "Word" : "marvelous"
+      },
+      { "Score" : "3",
+        "Word" : "marvels"
+      },
+      { "Score" : "4",
+        "Word" : "masterpiece"
+      },
+      { "Score" : "4",
+        "Word" : "masterpieces"
+      },
+      { "Score" : "1",
+        "Word" : "matter"
+      },
+      { "Score" : "1",
+        "Word" : "matters"
+      },
+      { "Score" : "2",
+        "Word" : "mature"
+      },
+      { "Score" : "2",
+        "Word" : "meaningful"
+      },
+      { "Score" : "-2",
+        "Word" : "meaningless"
+      },
+      { "Score" : "3",
+        "Word" : "medal"
+      },
+      { "Score" : "-3",
+        "Word" : "mediocrity"
+      },
+      { "Score" : "1",
+        "Word" : "meditative"
+      },
+      { "Score" : "-2",
+        "Word" : "melancholy"
+      },
+      { "Score" : "-2",
+        "Word" : "menace"
+      },
+      { "Score" : "-2",
+        "Word" : "menaced"
+      },
+      { "Score" : "2",
+        "Word" : "mercy"
+      },
+      { "Score" : "3",
+        "Word" : "merry"
+      },
+      { "Score" : "-2",
+        "Word" : "mess"
+      },
+      { "Score" : "-2",
+        "Word" : "messed"
+      },
+      { "Score" : "-2",
+        "Word" : "messing up"
+      },
+      { "Score" : "2",
+        "Word" : "methodical"
+      },
+      { "Score" : "-2",
+        "Word" : "mindless"
+      },
+      { "Score" : "4",
+        "Word" : "miracle"
+      },
+      { "Score" : "3",
+        "Word" : "mirth"
+      },
+      { "Score" : "3",
+        "Word" : "mirthful"
+      },
+      { "Score" : "3",
+        "Word" : "mirthfully"
+      },
+      { "Score" : "-2",
+        "Word" : "misbehave"
+      },
+      { "Score" : "-2",
+        "Word" : "misbehaved"
+      },
+      { "Score" : "-2",
+        "Word" : "misbehaves"
+      },
+      { "Score" : "-2",
+        "Word" : "misbehaving"
+      },
+      { "Score" : "-1",
+        "Word" : "mischief"
+      },
+      { "Score" : "-1",
+        "Word" : "mischiefs"
+      },
+      { "Score" : "-3",
+        "Word" : "miserable"
+      },
+      { "Score" : "-2",
+        "Word" : "misery"
+      },
+      { "Score" : "-2",
+        "Word" : "misgiving"
+      },
+      { "Score" : "-2",
+        "Word" : "misinformation"
+      },
+      { "Score" : "-2",
+        "Word" : "misinformed"
+      },
+      { "Score" : "-2",
+        "Word" : "misinterpreted"
+      },
+      { "Score" : "-3",
+        "Word" : "misleading"
+      },
+      { "Score" : "-1",
+        "Word" : "misread"
+      },
+      { "Score" : "-2",
+        "Word" : "misreporting"
+      },
+      { "Score" : "-2",
+        "Word" : "misrepresentation"
+      },
+      { "Score" : "-2",
+        "Word" : "miss"
+      },
+      { "Score" : "-2",
+        "Word" : "missed"
+      },
+      { "Score" : "-2",
+        "Word" : "missing"
+      },
+      { "Score" : "-2",
+        "Word" : "mistake"
+      },
+      { "Score" : "-2",
+        "Word" : "mistaken"
+      },
+      { "Score" : "-2",
+        "Word" : "mistakes"
+      },
+      { "Score" : "-2",
+        "Word" : "mistaking"
+      },
+      { "Score" : "-2",
+        "Word" : "misunderstand"
+      },
+      { "Score" : "-2",
+        "Word" : "misunderstanding"
+      },
+      { "Score" : "-2",
+        "Word" : "misunderstands"
+      },
+      { "Score" : "-2",
+        "Word" : "misunderstood"
+      },
+      { "Score" : "-2",
+        "Word" : "moan"
+      },
+      { "Score" : "-2",
+        "Word" : "moaned"
+      },
+      { "Score" : "-2",
+        "Word" : "moaning"
+      },
+      { "Score" : "-2",
+        "Word" : "moans"
+      },
+      { "Score" : "-2",
+        "Word" : "mock"
+      },
+      { "Score" : "-2",
+        "Word" : "mocked"
+      },
+      { "Score" : "-2",
+        "Word" : "mocking"
+      },
+      { "Score" : "-2",
+        "Word" : "mocks"
+      },
+      { "Score" : "-2",
+        "Word" : "mongering"
+      },
+      { "Score" : "-2",
+        "Word" : "monopolize"
+      },
+      { "Score" : "-2",
+        "Word" : "monopolized"
+      },
+      { "Score" : "-2",
+        "Word" : "monopolizes"
+      },
+      { "Score" : "-2",
+        "Word" : "monopolizing"
+      },
+      { "Score" : "-1",
+        "Word" : "moody"
+      },
+      { "Score" : "-1",
+        "Word" : "mope"
+      },
+      { "Score" : "-1",
+        "Word" : "moping"
+      },
+      { "Score" : "-3",
+        "Word" : "moron"
+      },
+      { "Score" : "-5",
+        "Word" : "motherfucker"
+      },
+      { "Score" : "-5",
+        "Word" : "motherfucking"
+      },
+      { "Score" : "1",
+        "Word" : "motivate"
+      },
+      { "Score" : "2",
+        "Word" : "motivated"
+      },
+      { "Score" : "2",
+        "Word" : "motivating"
+      },
+      { "Score" : "1",
+        "Word" : "motivation"
+      },
+      { "Score" : "-2",
+        "Word" : "mourn"
+      },
+      { "Score" : "-2",
+        "Word" : "mourned"
+      },
+      { "Score" : "-2",
+        "Word" : "mournful"
+      },
+      { "Score" : "-2",
+        "Word" : "mourning"
+      },
+      { "Score" : "-2",
+        "Word" : "mourns"
+      },
+      { "Score" : "-2",
+        "Word" : "mumpish"
+      },
+      { "Score" : "-2",
+        "Word" : "murder"
+      },
+      { "Score" : "-2",
+        "Word" : "murderer"
+      },
+      { "Score" : "-3",
+        "Word" : "murdering"
+      },
+      { "Score" : "-3",
+        "Word" : "murderous"
+      },
+      { "Score" : "-2",
+        "Word" : "murders"
+      },
+      { "Score" : "-1",
+        "Word" : "myth"
+      },
+      { "Score" : "-2",
+        "Word" : "n00b"
+      },
+      { "Score" : "-2",
+        "Word" : "naive"
+      },
+      { "Score" : "-3",
+        "Word" : "nasty"
+      },
+      { "Score" : "1",
+        "Word" : "natural"
+      },
+      { "Score" : "-2",
+        "Word" : "needy"
+      },
+      { "Score" : "-2",
+        "Word" : "negative"
+      },
+      { "Score" : "-2",
+        "Word" : "negativity"
+      },
+      { "Score" : "-2",
+        "Word" : "neglect"
+      },
+      { "Score" : "-2",
+        "Word" : "neglected"
+      },
+      { "Score" : "-2",
+        "Word" : "neglecting"
+      },
+      { "Score" : "-2",
+        "Word" : "neglects"
+      },
+      { "Score" : "-1",
+        "Word" : "nerves"
+      },
+      { "Score" : "-2",
+        "Word" : "nervous"
+      },
+      { "Score" : "-2",
+        "Word" : "nervously"
+      },
+      { "Score" : "3",
+        "Word" : "nice"
+      },
+      { "Score" : "2",
+        "Word" : "nifty"
+      },
+      { "Score" : "-5",
+        "Word" : "niggas"
+      },
+      { "Score" : "-5",
+        "Word" : "nigger"
+      },
+      { "Score" : "-1",
+        "Word" : "no"
+      },
+      { "Score" : "-3",
+        "Word" : "no fun"
+      },
+      { "Score" : "2",
+        "Word" : "noble"
+      },
+      { "Score" : "-1",
+        "Word" : "noisy"
+      },
+      { "Score" : "-2",
+        "Word" : "nonsense"
+      },
+      { "Score" : "-2",
+        "Word" : "noob"
+      },
+      { "Score" : "-2",
+        "Word" : "nosey"
+      },
+      { "Score" : "-2",
+        "Word" : "not good"
+      },
+      { "Score" : "-3",
+        "Word" : "not working"
+      },
+      { "Score" : "-2",
+        "Word" : "notorious"
+      },
+      { "Score" : "2",
+        "Word" : "novel"
+      },
+      { "Score" : "-1",
+        "Word" : "numb"
+      },
+      { "Score" : "-3",
+        "Word" : "nuts"
+      },
+      { "Score" : "-2",
+        "Word" : "obliterate"
+      },
+      { "Score" : "-2",
+        "Word" : "obliterated"
+      },
+      { "Score" : "-3",
+        "Word" : "obnoxious"
+      },
+      { "Score" : "-2",
+        "Word" : "obscene"
+      },
+      { "Score" : "2",
+        "Word" : "obsessed"
+      },
+      { "Score" : "-2",
+        "Word" : "obsolete"
+      },
+      { "Score" : "-2",
+        "Word" : "obstacle"
+      },
+      { "Score" : "-2",
+        "Word" : "obstacles"
+      },
+      { "Score" : "-2",
+        "Word" : "obstinate"
+      },
+      { "Score" : "-2",
+        "Word" : "odd"
+      },
+      { "Score" : "-2",
+        "Word" : "offend"
+      },
+      { "Score" : "-2",
+        "Word" : "offended"
+      },
+      { "Score" : "-2",
+        "Word" : "offender"
+      },
+      { "Score" : "-2",
+        "Word" : "offending"
+      },
+      { "Score" : "-2",
+        "Word" : "offends"
+      },
+      { "Score" : "-1",
+        "Word" : "offline"
+      },
+      { "Score" : "2",
+        "Word" : "oks"
+      },
+      { "Score" : "3",
+        "Word" : "ominous"
+      },
+      { "Score" : "3",
+        "Word" : "once-in-a-lifetime"
+      },
+      { "Score" : "2",
+        "Word" : "opportunities"
+      },
+      { "Score" : "2",
+        "Word" : "opportunity"
+      },
+      { "Score" : "-2",
+        "Word" : "oppressed"
+      },
+      { "Score" : "-2",
+        "Word" : "oppressive"
+      },
+      { "Score" : "2",
+        "Word" : "optimism"
+      },
+      { "Score" : "2",
+        "Word" : "optimistic"
+      },
+      { "Score" : "-2",
+        "Word" : "optionless"
+      },
+      { "Score" : "-2",
+        "Word" : "outcry"
+      },
+      { "Score" : "-2",
+        "Word" : "outmaneuvered"
+      },
+      { "Score" : "-3",
+        "Word" : "outrage"
+      },
+      { "Score" : "-3",
+        "Word" : "outraged"
+      },
+      { "Score" : "2",
+        "Word" : "outreach"
+      },
+      { "Score" : "5",
+        "Word" : "outstanding"
+      },
+      { "Score" : "4",
+        "Word" : "overjoyed"
+      },
+      { "Score" : "-1",
+        "Word" : "overload"
+      },
+      { "Score" : "-1",
+        "Word" : "overlooked"
+      },
+      { "Score" : "-2",
+        "Word" : "overreact"
+      },
+      { "Score" : "-2",
+        "Word" : "overreacted"
+      },
+      { "Score" : "-2",
+        "Word" : "overreaction"
+      },
+      { "Score" : "-2",
+        "Word" : "overreacts"
+      },
+      { "Score" : "-2",
+        "Word" : "oversell"
+      },
+      { "Score" : "-2",
+        "Word" : "overselling"
+      },
+      { "Score" : "-2",
+        "Word" : "oversells"
+      },
+      { "Score" : "-2",
+        "Word" : "oversimplification"
+      },
+      { "Score" : "-2",
+        "Word" : "oversimplified"
+      },
+      { "Score" : "-2",
+        "Word" : "oversimplifies"
+      },
+      { "Score" : "-2",
+        "Word" : "oversimplify"
+      },
+      { "Score" : "-2",
+        "Word" : "overstatement"
+      },
+      { "Score" : "-2",
+        "Word" : "overstatements"
+      },
+      { "Score" : "-1",
+        "Word" : "overweight"
+      },
+      { "Score" : "-1",
+        "Word" : "oxymoron"
+      },
+      { "Score" : "-2",
+        "Word" : "pain"
+      },
+      { "Score" : "-2",
+        "Word" : "pained"
+      },
+      { "Score" : "-3",
+        "Word" : "panic"
+      },
+      { "Score" : "-3",
+        "Word" : "panicked"
+      },
+      { "Score" : "-3",
+        "Word" : "panics"
+      },
+      { "Score" : "3",
+        "Word" : "paradise"
+      },
+      { "Score" : "-1",
+        "Word" : "paradox"
+      },
+      { "Score" : "2",
+        "Word" : "pardon"
+      },
+      { "Score" : "2",
+        "Word" : "pardoned"
+      },
+      { "Score" : "2",
+        "Word" : "pardoning"
+      },
+      { "Score" : "2",
+        "Word" : "pardons"
+      },
+      { "Score" : "-1",
+        "Word" : "parley"
+      },
+      { "Score" : "2",
+        "Word" : "passionate"
+      },
+      { "Score" : "-1",
+        "Word" : "passive"
+      },
+      { "Score" : "-1",
+        "Word" : "passively"
+      },
+      { "Score" : "-2",
+        "Word" : "pathetic"
+      },
+      { "Score" : "-1",
+        "Word" : "pay"
+      },
+      { "Score" : "2",
+        "Word" : "peace"
+      },
+      { "Score" : "2",
+        "Word" : "peaceful"
+      },
+      { "Score" : "2",
+        "Word" : "peacefully"
+      },
+      { "Score" : "-2",
+        "Word" : "penalty"
+      },
+      { "Score" : "-1",
+        "Word" : "pensive"
+      },
+      { "Score" : "3",
+        "Word" : "perfect"
+      },
+      { "Score" : "2",
+        "Word" : "perfected"
+      },
+      { "Score" : "3",
+        "Word" : "perfectly"
+      },
+      { "Score" : "2",
+        "Word" : "perfects"
+      },
+      { "Score" : "-2",
+        "Word" : "peril"
+      },
+      { "Score" : "-3",
+        "Word" : "perjury"
+      },
+      { "Score" : "-2",
+        "Word" : "perpetrator"
+      },
+      { "Score" : "-2",
+        "Word" : "perpetrators"
+      },
+      { "Score" : "-2",
+        "Word" : "perplexed"
+      },
+      { "Score" : "-2",
+        "Word" : "persecute"
+      },
+      { "Score" : "-2",
+        "Word" : "persecuted"
+      },
+      { "Score" : "-2",
+        "Word" : "persecutes"
+      },
+      { "Score" : "-2",
+        "Word" : "persecuting"
+      },
+      { "Score" : "-2",
+        "Word" : "perturbed"
+      },
+      { "Score" : "-2",
+        "Word" : "pesky"
+      },
+      { "Score" : "-2",
+        "Word" : "pessimism"
+      },
+      { "Score" : "-2",
+        "Word" : "pessimistic"
+      },
+      { "Score" : "-2",
+        "Word" : "petrified"
+      },
+      { "Score" : "-2",
+        "Word" : "phobic"
+      },
+      { "Score" : "2",
+        "Word" : "picturesque"
+      },
+      { "Score" : "-1",
+        "Word" : "pileup"
+      },
+      { "Score" : "-2",
+        "Word" : "pique"
+      },
+      { "Score" : "-2",
+        "Word" : "piqued"
+      },
+      { "Score" : "-4",
+        "Word" : "piss"
+      },
+      { "Score" : "-4",
+        "Word" : "pissed"
+      },
+      { "Score" : "-3",
+        "Word" : "pissing"
+      },
+      { "Score" : "-2",
+        "Word" : "piteous"
+      },
+      { "Score" : "-1",
+        "Word" : "pitied"
+      },
+      { "Score" : "-2",
+        "Word" : "pity"
+      },
+      { "Score" : "2",
+        "Word" : "playful"
+      },
+      { "Score" : "3",
+        "Word" : "pleasant"
+      },
+      { "Score" : "1",
+        "Word" : "please"
+      },
+      { "Score" : "3",
+        "Word" : "pleased"
+      },
+      { "Score" : "3",
+        "Word" : "pleasure"
+      },
+      { "Score" : "-2",
+        "Word" : "poised"
+      },
+      { "Score" : "-2",
+        "Word" : "poison"
+      },
+      { "Score" : "-2",
+        "Word" : "poisoned"
+      },
+      { "Score" : "-2",
+        "Word" : "poisons"
+      },
+      { "Score" : "-2",
+        "Word" : "pollute"
+      },
+      { "Score" : "-2",
+        "Word" : "polluted"
+      },
+      { "Score" : "-2",
+        "Word" : "polluter"
+      },
+      { "Score" : "-2",
+        "Word" : "polluters"
+      },
+      { "Score" : "-2",
+        "Word" : "pollutes"
+      },
+      { "Score" : "-2",
+        "Word" : "poor"
+      },
+      { "Score" : "-2",
+        "Word" : "poorer"
+      },
+      { "Score" : "-2",
+        "Word" : "poorest"
+      },
+      { "Score" : "3",
+        "Word" : "popular"
+      },
+      { "Score" : "2",
+        "Word" : "positive"
+      },
+      { "Score" : "2",
+        "Word" : "positively"
+      },
+      { "Score" : "-2",
+        "Word" : "possessive"
+      },
+      { "Score" : "-1",
+        "Word" : "postpone"
+      },
+      { "Score" : "-1",
+        "Word" : "postponed"
+      },
+      { "Score" : "-1",
+        "Word" : "postpones"
+      },
+      { "Score" : "-1",
+        "Word" : "postponing"
+      },
+      { "Score" : "-1",
+        "Word" : "poverty"
+      },
+      { "Score" : "2",
+        "Word" : "powerful"
+      },
+      { "Score" : "-2",
+        "Word" : "powerless"
+      },
+      { "Score" : "3",
+        "Word" : "praise"
+      },
+      { "Score" : "3",
+        "Word" : "praised"
+      },
+      { "Score" : "3",
+        "Word" : "praises"
+      },
+      { "Score" : "3",
+        "Word" : "praising"
+      },
+      { "Score" : "1",
+        "Word" : "pray"
+      },
+      { "Score" : "1",
+        "Word" : "praying"
+      },
+      { "Score" : "1",
+        "Word" : "prays"
+      },
+      { "Score" : "-2",
+        "Word" : "prblm"
+      },
+      { "Score" : "-2",
+        "Word" : "prblms"
+      },
+      { "Score" : "1",
+        "Word" : "prepared"
+      },
+      { "Score" : "-1",
+        "Word" : "pressure"
+      },
+      { "Score" : "-2",
+        "Word" : "pressured"
+      },
+      { "Score" : "-1",
+        "Word" : "pretend"
+      },
+      { "Score" : "-1",
+        "Word" : "pretending"
+      },
+      { "Score" : "-1",
+        "Word" : "pretends"
+      },
+      { "Score" : "1",
+        "Word" : "pretty"
+      },
+      { "Score" : "-1",
+        "Word" : "prevent"
+      },
+      { "Score" : "-1",
+        "Word" : "prevented"
+      },
+      { "Score" : "-1",
+        "Word" : "preventing"
+      },
+      { "Score" : "-1",
+        "Word" : "prevents"
+      },
+      { "Score" : "-5",
+        "Word" : "prick"
+      },
+      { "Score" : "-2",
+        "Word" : "prison"
+      },
+      { "Score" : "-2",
+        "Word" : "prisoner"
+      },
+      { "Score" : "-2",
+        "Word" : "prisoners"
+      },
+      { "Score" : "2",
+        "Word" : "privileged"
+      },
+      { "Score" : "2",
+        "Word" : "proactive"
+      },
+      { "Score" : "-2",
+        "Word" : "problem"
+      },
+      { "Score" : "-2",
+        "Word" : "problems"
+      },
+      { "Score" : "-2",
+        "Word" : "profiteer"
+      },
+      { "Score" : "2",
+        "Word" : "progress"
+      },
+      { "Score" : "2",
+        "Word" : "prominent"
+      },
+      { "Score" : "1",
+        "Word" : "promise"
+      },
+      { "Score" : "1",
+        "Word" : "promised"
+      },
+      { "Score" : "1",
+        "Word" : "promises"
+      },
+      { "Score" : "1",
+        "Word" : "promote"
+      },
+      { "Score" : "1",
+        "Word" : "promoted"
+      },
+      { "Score" : "1",
+        "Word" : "promotes"
+      },
+      { "Score" : "1",
+        "Word" : "promoting"
+      },
+      { "Score" : "-2",
+        "Word" : "propaganda"
+      },
+      { "Score" : "-1",
+        "Word" : "prosecute"
+      },
+      { "Score" : "-2",
+        "Word" : "prosecuted"
+      },
+      { "Score" : "-1",
+        "Word" : "prosecutes"
+      },
+      { "Score" : "-1",
+        "Word" : "prosecution"
+      },
+      { "Score" : "1",
+        "Word" : "prospect"
+      },
+      { "Score" : "1",
+        "Word" : "prospects"
+      },
+      { "Score" : "3",
+        "Word" : "prosperous"
+      },
+      { "Score" : "1",
+        "Word" : "protect"
+      },
+      { "Score" : "1",
+        "Word" : "protected"
+      },
+      { "Score" : "1",
+        "Word" : "protects"
+      },
+      { "Score" : "-2",
+        "Word" : "protest"
+      },
+      { "Score" : "-2",
+        "Word" : "protesters"
+      },
+      { "Score" : "-2",
+        "Word" : "protesting"
+      },
+      { "Score" : "-2",
+        "Word" : "protests"
+      },
+      { "Score" : "2",
+        "Word" : "proud"
+      },
+      { "Score" : "2",
+        "Word" : "proudly"
+      },
+      { "Score" : "-1",
+        "Word" : "provoke"
+      },
+      { "Score" : "-1",
+        "Word" : "provoked"
+      },
+      { "Score" : "-1",
+        "Word" : "provokes"
+      },
+      { "Score" : "-1",
+        "Word" : "provoking"
+      },
+      { "Score" : "-3",
+        "Word" : "pseudoscience"
+      },
+      { "Score" : "-2",
+        "Word" : "punish"
+      },
+      { "Score" : "-2",
+        "Word" : "punished"
+      },
+      { "Score" : "-2",
+        "Word" : "punishes"
+      },
+      { "Score" : "-2",
+        "Word" : "punitive"
+      },
+      { "Score" : "-1",
+        "Word" : "pushy"
+      },
+      { "Score" : "-2",
+        "Word" : "puzzled"
+      },
+      { "Score" : "-2",
+        "Word" : "quaking"
+      },
+      { "Score" : "-2",
+        "Word" : "questionable"
+      },
+      { "Score" : "-1",
+        "Word" : "questioned"
+      },
+      { "Score" : "-1",
+        "Word" : "questioning"
+      },
+      { "Score" : "-3",
+        "Word" : "racism"
+      },
+      { "Score" : "-3",
+        "Word" : "racist"
+      },
+      { "Score" : "-3",
+        "Word" : "racists"
+      },
+      { "Score" : "-2",
+        "Word" : "rage"
+      },
+      { "Score" : "-2",
+        "Word" : "rageful"
+      },
+      { "Score" : "-1",
+        "Word" : "rainy"
+      },
+      { "Score" : "-3",
+        "Word" : "rant"
+      },
+      { "Score" : "-3",
+        "Word" : "ranter"
+      },
+      { "Score" : "-3",
+        "Word" : "ranters"
+      },
+      { "Score" : "-3",
+        "Word" : "rants"
+      },
+      { "Score" : "-4",
+        "Word" : "rape"
+      },
+      { "Score" : "-4",
+        "Word" : "rapist"
+      },
+      { "Score" : "2",
+        "Word" : "rapture"
+      },
+      { "Score" : "2",
+        "Word" : "raptured"
+      },
+      { "Score" : "2",
+        "Word" : "raptures"
+      },
+      { "Score" : "4",
+        "Word" : "rapturous"
+      },
+      { "Score" : "-2",
+        "Word" : "rash"
+      },
+      { "Score" : "2",
+        "Word" : "ratified"
+      },
+      { "Score" : "1",
+        "Word" : "reach"
+      },
+      { "Score" : "1",
+        "Word" : "reached"
+      },
+      { "Score" : "1",
+        "Word" : "reaches"
+      },
+      { "Score" : "1",
+        "Word" : "reaching"
+      },
+      { "Score" : "1",
+        "Word" : "reassure"
+      },
+      { "Score" : "1",
+        "Word" : "reassured"
+      },
+      { "Score" : "1",
+        "Word" : "reassures"
+      },
+      { "Score" : "2",
+        "Word" : "reassuring"
+      },
+      { "Score" : "-2",
+        "Word" : "rebellion"
+      },
+      { "Score" : "-2",
+        "Word" : "recession"
+      },
+      { "Score" : "-2",
+        "Word" : "reckless"
+      },
+      { "Score" : "2",
+        "Word" : "recommend"
+      },
+      { "Score" : "2",
+        "Word" : "recommended"
+      },
+      { "Score" : "2",
+        "Word" : "recommends"
+      },
+      { "Score" : "2",
+        "Word" : "redeemed"
+      },
+      { "Score" : "-2",
+        "Word" : "refuse"
+      },
+      { "Score" : "-2",
+        "Word" : "refused"
+      },
+      { "Score" : "-2",
+        "Word" : "refusing"
+      },
+      { "Score" : "-2",
+        "Word" : "regret"
+      },
+      { "Score" : "-2",
+        "Word" : "regretful"
+      },
+      { "Score" : "-2",
+        "Word" : "regrets"
+      },
+      { "Score" : "-2",
+        "Word" : "regretted"
+      },
+      { "Score" : "-2",
+        "Word" : "regretting"
+      },
+      { "Score" : "-1",
+        "Word" : "reject"
+      },
+      { "Score" : "-1",
+        "Word" : "rejected"
+      },
+      { "Score" : "-1",
+        "Word" : "rejecting"
+      },
+      { "Score" : "-1",
+        "Word" : "rejects"
+      },
+      { "Score" : "4",
+        "Word" : "rejoice"
+      },
+      { "Score" : "4",
+        "Word" : "rejoiced"
+      },
+      { "Score" : "4",
+        "Word" : "rejoices"
+      },
+      { "Score" : "4",
+        "Word" : "rejoicing"
+      },
+      { "Score" : "2",
+        "Word" : "relaxed"
+      },
+      { "Score" : "-1",
+        "Word" : "relentless"
+      },
+      { "Score" : "2",
+        "Word" : "reliant"
+      },
+      { "Score" : "1",
+        "Word" : "relieve"
+      },
+      { "Score" : "2",
+        "Word" : "relieved"
+      },
+      { "Score" : "1",
+        "Word" : "relieves"
+      },
+      { "Score" : "2",
+        "Word" : "relieving"
+      },
+      { "Score" : "2",
+        "Word" : "relishing"
+      },
+      { "Score" : "2",
+        "Word" : "remarkable"
+      },
+      { "Score" : "-2",
+        "Word" : "remorse"
+      },
+      { "Score" : "-1",
+        "Word" : "repulse"
+      },
+      { "Score" : "-2",
+        "Word" : "repulsed"
+      },
+      { "Score" : "2",
+        "Word" : "rescue"
+      },
+      { "Score" : "2",
+        "Word" : "rescued"
+      },
+      { "Score" : "2",
+        "Word" : "rescues"
+      },
+      { "Score" : "-2",
+        "Word" : "resentful"
+      },
+      { "Score" : "-1",
+        "Word" : "resign"
+      },
+      { "Score" : "-1",
+        "Word" : "resigned"
+      },
+      { "Score" : "-1",
+        "Word" : "resigning"
+      },
+      { "Score" : "-1",
+        "Word" : "resigns"
+      },
+      { "Score" : "2",
+        "Word" : "resolute"
+      },
+      { "Score" : "2",
+        "Word" : "resolve"
+      },
+      { "Score" : "2",
+        "Word" : "resolved"
+      },
+      { "Score" : "2",
+        "Word" : "resolves"
+      },
+      { "Score" : "2",
+        "Word" : "resolving"
+      },
+      { "Score" : "2",
+        "Word" : "respected"
+      },
+      { "Score" : "2",
+        "Word" : "responsible"
+      },
+      { "Score" : "2",
+        "Word" : "responsive"
+      },
+      { "Score" : "2",
+        "Word" : "restful"
+      },
+      { "Score" : "-2",
+        "Word" : "restless"
+      },
+      { "Score" : "1",
+        "Word" : "restore"
+      },
+      { "Score" : "1",
+        "Word" : "restored"
+      },
+      { "Score" : "1",
+        "Word" : "restores"
+      },
+      { "Score" : "1",
+        "Word" : "restoring"
+      },
+      { "Score" : "-2",
+        "Word" : "restrict"
+      },
+      { "Score" : "-2",
+        "Word" : "restricted"
+      },
+      { "Score" : "-2",
+        "Word" : "restricting"
+      },
+      { "Score" : "-2",
+        "Word" : "restriction"
+      },
+      { "Score" : "-2",
+        "Word" : "restricts"
+      },
+      { "Score" : "-1",
+        "Word" : "retained"
+      },
+      { "Score" : "-2",
+        "Word" : "retard"
+      },
+      { "Score" : "-2",
+        "Word" : "retarded"
+      },
+      { "Score" : "-1",
+        "Word" : "retreat"
+      },
+      { "Score" : "-2",
+        "Word" : "revenge"
+      },
+      { "Score" : "-2",
+        "Word" : "revengeful"
+      },
+      { "Score" : "2",
+        "Word" : "revered"
+      },
+      { "Score" : "2",
+        "Word" : "revive"
+      },
+      { "Score" : "2",
+        "Word" : "revives"
+      },
+      { "Score" : "2",
+        "Word" : "reward"
+      },
+      { "Score" : "2",
+        "Word" : "rewarded"
+      },
+      { "Score" : "2",
+        "Word" : "rewarding"
+      },
+      { "Score" : "2",
+        "Word" : "rewards"
+      },
+      { "Score" : "2",
+        "Word" : "rich"
+      },
+      { "Score" : "-3",
+        "Word" : "ridiculous"
+      },
+      { "Score" : "-1",
+        "Word" : "rig"
+      },
+      { "Score" : "-1",
+        "Word" : "rigged"
+      },
+      { "Score" : "3",
+        "Word" : "right direction"
+      },
+      { "Score" : "3",
+        "Word" : "rigorous"
+      },
+      { "Score" : "3",
+        "Word" : "rigorously"
+      },
+      { "Score" : "-2",
+        "Word" : "riot"
+      },
+      { "Score" : "-2",
+        "Word" : "riots"
+      },
+      { "Score" : "-2",
+        "Word" : "risk"
+      },
+      { "Score" : "-2",
+        "Word" : "risks"
+      },
+      { "Score" : "-2",
+        "Word" : "rob"
+      },
+      { "Score" : "-2",
+        "Word" : "robber"
+      },
+      { "Score" : "-2",
+        "Word" : "robed"
+      },
+      { "Score" : "-2",
+        "Word" : "robing"
+      },
+      { "Score" : "-2",
+        "Word" : "robs"
+      },
+      { "Score" : "2",
+        "Word" : "robust"
+      },
+      { "Score" : "4",
+        "Word" : "rofl"
+      },
+      { "Score" : "4",
+        "Word" : "roflcopter"
+      },
+      { "Score" : "4",
+        "Word" : "roflmao"
+      },
+      { "Score" : "2",
+        "Word" : "romance"
+      },
+      { "Score" : "4",
+        "Word" : "rotfl"
+      },
+      { "Score" : "4",
+        "Word" : "rotflmfao"
+      },
+      { "Score" : "4",
+        "Word" : "rotflol"
+      },
+      { "Score" : "-2",
+        "Word" : "ruin"
+      },
+      { "Score" : "-2",
+        "Word" : "ruined"
+      },
+      { "Score" : "-2",
+        "Word" : "ruining"
+      },
+      { "Score" : "-2",
+        "Word" : "ruins"
+      },
+      { "Score" : "-2",
+        "Word" : "sabotage"
+      },
+      { "Score" : "-2",
+        "Word" : "sad"
+      },
+      { "Score" : "-2",
+        "Word" : "sadden"
+      },
+      { "Score" : "-2",
+        "Word" : "saddened"
+      },
+      { "Score" : "-2",
+        "Word" : "sadly"
+      },
+      { "Score" : "1",
+        "Word" : "safe"
+      },
+      { "Score" : "1",
+        "Word" : "safely"
+      },
+      { "Score" : "1",
+        "Word" : "safety"
+      },
+      { "Score" : "1",
+        "Word" : "salient"
+      },
+      { "Score" : "-1",
+        "Word" : "sappy"
+      },
+      { "Score" : "-2",
+        "Word" : "sarcastic"
+      },
+      { "Score" : "2",
+        "Word" : "satisfied"
+      },
+      { "Score" : "2",
+        "Word" : "save"
+      },
+      { "Score" : "2",
+        "Word" : "saved"
+      },
+      { "Score" : "-2",
+        "Word" : "scam"
+      },
+      { "Score" : "-2",
+        "Word" : "scams"
+      },
+      { "Score" : "-3",
+        "Word" : "scandal"
+      },
+      { "Score" : "-3",
+        "Word" : "scandalous"
+      },
+      { "Score" : "-3",
+        "Word" : "scandals"
+      },
+      { "Score" : "-2",
+        "Word" : "scapegoat"
+      },
+      { "Score" : "-2",
+        "Word" : "scapegoats"
+      },
+      { "Score" : "-2",
+        "Word" : "scare"
+      },
+      { "Score" : "-2",
+        "Word" : "scared"
+      },
+      { "Score" : "-2",
+        "Word" : "scary"
+      },
+      { "Score" : "-2",
+        "Word" : "sceptical"
+      },
+      { "Score" : "-2",
+        "Word" : "scold"
+      },
+      { "Score" : "3",
+        "Word" : "scoop"
+      },
+      { "Score" : "-2",
+        "Word" : "scorn"
+      },
+      { "Score" : "-2",
+        "Word" : "scornful"
+      },
+      { "Score" : "-2",
+        "Word" : "scream"
+      },
+      { "Score" : "-2",
+        "Word" : "screamed"
+      },
+      { "Score" : "-2",
+        "Word" : "screaming"
+      },
+      { "Score" : "-2",
+        "Word" : "screams"
+      },
+      { "Score" : "-2",
+        "Word" : "screwed"
+      },
+      { "Score" : "-3",
+        "Word" : "screwed up"
+      },
+      { "Score" : "-4",
+        "Word" : "scumbag"
+      },
+      { "Score" : "2",
+        "Word" : "secure"
+      },
+      { "Score" : "2",
+        "Word" : "secured"
+      },
+      { "Score" : "2",
+        "Word" : "secures"
+      },
+      { "Score" : "-2",
+        "Word" : "sedition"
+      },
+      { "Score" : "-2",
+        "Word" : "seditious"
+      },
+      { "Score" : "-1",
+        "Word" : "seduced"
+      },
+      { "Score" : "2",
+        "Word" : "self-confident"
+      },
+      { "Score" : "-2",
+        "Word" : "self-deluded"
+      },
+      { "Score" : "-3",
+        "Word" : "selfish"
+      },
+      { "Score" : "-3",
+        "Word" : "selfishness"
+      },
+      { "Score" : "-2",
+        "Word" : "sentence"
+      },
+      { "Score" : "-2",
+        "Word" : "sentenced"
+      },
+      { "Score" : "-2",
+        "Word" : "sentences"
+      },
+      { "Score" : "-2",
+        "Word" : "sentencing"
+      },
+      { "Score" : "2",
+        "Word" : "serene"
+      },
+      { "Score" : "-2",
+        "Word" : "severe"
+      },
+      { "Score" : "3",
+        "Word" : "sexy"
+      },
+      { "Score" : "-2",
+        "Word" : "shaky"
+      },
+      { "Score" : "-2",
+        "Word" : "shame"
+      },
+      { "Score" : "-2",
+        "Word" : "shamed"
+      },
+      { "Score" : "-2",
+        "Word" : "shameful"
+      },
+      { "Score" : "1",
+        "Word" : "share"
+      },
+      { "Score" : "1",
+        "Word" : "shared"
+      },
+      { "Score" : "1",
+        "Word" : "shares"
+      },
+      { "Score" : "-2",
+        "Word" : "shattered"
+      },
+      { "Score" : "-4",
+        "Word" : "shit"
+      },
+      { "Score" : "-4",
+        "Word" : "shithead"
+      },
+      { "Score" : "-3",
+        "Word" : "shitty"
+      },
+      { "Score" : "-2",
+        "Word" : "shock"
+      },
+      { "Score" : "-2",
+        "Word" : "shocked"
+      },
+      { "Score" : "-2",
+        "Word" : "shocking"
+      },
+      { "Score" : "-2",
+        "Word" : "shocks"
+      },
+      { "Score" : "-1",
+        "Word" : "shoot"
+      },
+      { "Score" : "-2",
+        "Word" : "short-sighted"
+      },
+      { "Score" : "-2",
+        "Word" : "short-sightedness"
+      },
+      { "Score" : "-2",
+        "Word" : "shortage"
+      },
+      { "Score" : "-2",
+        "Word" : "shortages"
+      },
+      { "Score" : "-4",
+        "Word" : "shrew"
+      },
+      { "Score" : "-1",
+        "Word" : "shy"
+      },
+      { "Score" : "-2",
+        "Word" : "sick"
+      },
+      { "Score" : "-2",
+        "Word" : "sigh"
+      },
+      { "Score" : "1",
+        "Word" : "significance"
+      },
+      { "Score" : "1",
+        "Word" : "significant"
+      },
+      { "Score" : "-1",
+        "Word" : "silencing"
+      },
+      { "Score" : "-1",
+        "Word" : "silly"
+      },
+      { "Score" : "2",
+        "Word" : "sincere"
+      },
+      { "Score" : "2",
+        "Word" : "sincerely"
+      },
+      { "Score" : "2",
+        "Word" : "sincerest"
+      },
+      { "Score" : "2",
+        "Word" : "sincerity"
+      },
+      { "Score" : "-3",
+        "Word" : "sinful"
+      },
+      { "Score" : "-2",
+        "Word" : "singleminded"
+      },
+      { "Score" : "-2",
+        "Word" : "skeptic"
+      },
+      { "Score" : "-2",
+        "Word" : "skeptical"
+      },
+      { "Score" : "-2",
+        "Word" : "skepticism"
+      },
+      { "Score" : "-2",
+        "Word" : "skeptics"
+      },
+      { "Score" : "-2",
+        "Word" : "slam"
+      },
+      { "Score" : "-2",
+        "Word" : "slash"
+      },
+      { "Score" : "-2",
+        "Word" : "slashed"
+      },
+      { "Score" : "-2",
+        "Word" : "slashes"
+      },
+      { "Score" : "-2",
+        "Word" : "slashing"
+      },
+      { "Score" : "-3",
+        "Word" : "slavery"
+      },
+      { "Score" : "-2",
+        "Word" : "sleeplessness"
+      },
+      { "Score" : "2",
+        "Word" : "slick"
+      },
+      { "Score" : "2",
+        "Word" : "slicker"
+      },
+      { "Score" : "2",
+        "Word" : "slickest"
+      },
+      { "Score" : "-2",
+        "Word" : "sluggish"
+      },
+      { "Score" : "-5",
+        "Word" : "slut"
+      },
+      { "Score" : "1",
+        "Word" : "smart"
+      },
+      { "Score" : "2",
+        "Word" : "smarter"
+      },
+      { "Score" : "2",
+        "Word" : "smartest"
+      },
+      { "Score" : "-2",
+        "Word" : "smear"
+      },
+      { "Score" : "2",
+        "Word" : "smile"
+      },
+      { "Score" : "2",
+        "Word" : "smiled"
+      },
+      { "Score" : "2",
+        "Word" : "smiles"
+      },
+      { "Score" : "2",
+        "Word" : "smiling"
+      },
+      { "Score" : "-2",
+        "Word" : "smog"
+      },
+      { "Score" : "-1",
+        "Word" : "sneaky"
+      },
+      { "Score" : "-2",
+        "Word" : "snub"
+      },
+      { "Score" : "-2",
+        "Word" : "snubbed"
+      },
+      { "Score" : "-2",
+        "Word" : "snubbing"
+      },
+      { "Score" : "-2",
+        "Word" : "snubs"
+      },
+      { "Score" : "1",
+        "Word" : "sobering"
+      },
+      { "Score" : "-1",
+        "Word" : "solemn"
+      },
+      { "Score" : "2",
+        "Word" : "solid"
+      },
+      { "Score" : "2",
+        "Word" : "solidarity"
+      },
+      { "Score" : "1",
+        "Word" : "solution"
+      },
+      { "Score" : "1",
+        "Word" : "solutions"
+      },
+      { "Score" : "1",
+        "Word" : "solve"
+      },
+      { "Score" : "1",
+        "Word" : "solved"
+      },
+      { "Score" : "1",
+        "Word" : "solves"
+      },
+      { "Score" : "1",
+        "Word" : "solving"
+      },
+      { "Score" : "-2",
+        "Word" : "somber"
+      },
+      { "Score" : "0",
+        "Word" : "some kind"
+      },
+      { "Score" : "-5",
+        "Word" : "son-of-a-bitch"
+      },
+      { "Score" : "3",
+        "Word" : "soothe"
+      },
+      { "Score" : "3",
+        "Word" : "soothed"
+      },
+      { "Score" : "3",
+        "Word" : "soothing"
+      },
+      { "Score" : "2",
+        "Word" : "sophisticated"
+      },
+      { "Score" : "-1",
+        "Word" : "sore"
+      },
+      { "Score" : "-2",
+        "Word" : "sorrow"
+      },
+      { "Score" : "-2",
+        "Word" : "sorrowful"
+      },
+      { "Score" : "-1",
+        "Word" : "sorry"
+      },
+      { "Score" : "-2",
+        "Word" : "spam"
+      },
+      { "Score" : "-3",
+        "Word" : "spammer"
+      },
+      { "Score" : "-3",
+        "Word" : "spammers"
+      },
+      { "Score" : "-2",
+        "Word" : "spamming"
+      },
+      { "Score" : "1",
+        "Word" : "spark"
+      },
+      { "Score" : "3",
+        "Word" : "sparkle"
+      },
+      { "Score" : "3",
+        "Word" : "sparkles"
+      },
+      { "Score" : "3",
+        "Word" : "sparkling"
+      },
+      { "Score" : "-2",
+        "Word" : "speculative"
+      },
+      { "Score" : "1",
+        "Word" : "spirit"
+      },
+      { "Score" : "2",
+        "Word" : "spirited"
+      },
+      { "Score" : "-2",
+        "Word" : "spiritless"
+      },
+      { "Score" : "-2",
+        "Word" : "spiteful"
+      },
+      { "Score" : "3",
+        "Word" : "splendid"
+      },
+      { "Score" : "2",
+        "Word" : "sprightly"
+      },
+      { "Score" : "-1",
+        "Word" : "squelched"
+      },
+      { "Score" : "-2",
+        "Word" : "stab"
+      },
+      { "Score" : "-2",
+        "Word" : "stabbed"
+      },
+      { "Score" : "2",
+        "Word" : "stable"
+      },
+      { "Score" : "-2",
+        "Word" : "stabs"
+      },
+      { "Score" : "-2",
+        "Word" : "stall"
+      },
+      { "Score" : "-2",
+        "Word" : "stalled"
+      },
+      { "Score" : "-2",
+        "Word" : "stalling"
+      },
+      { "Score" : "2",
+        "Word" : "stamina"
+      },
+      { "Score" : "-2",
+        "Word" : "stampede"
+      },
+      { "Score" : "-2",
+        "Word" : "startled"
+      },
+      { "Score" : "-2",
+        "Word" : "starve"
+      },
+      { "Score" : "-2",
+        "Word" : "starved"
+      },
+      { "Score" : "-2",
+        "Word" : "starves"
+      },
+      { "Score" : "-2",
+        "Word" : "starving"
+      },
+      { "Score" : "2",
+        "Word" : "steadfast"
+      },
+      { "Score" : "-2",
+        "Word" : "steal"
+      },
+      { "Score" : "-2",
+        "Word" : "steals"
+      },
+      { "Score" : "-2",
+        "Word" : "stereotype"
+      },
+      { "Score" : "-2",
+        "Word" : "stereotyped"
+      },
+      { "Score" : "-1",
+        "Word" : "stifled"
+      },
+      { "Score" : "1",
+        "Word" : "stimulate"
+      },
+      { "Score" : "1",
+        "Word" : "stimulated"
+      },
+      { "Score" : "1",
+        "Word" : "stimulates"
+      },
+      { "Score" : "2",
+        "Word" : "stimulating"
+      },
+      { "Score" : "-2",
+        "Word" : "stingy"
+      },
+      { "Score" : "-2",
+        "Word" : "stolen"
+      },
+      { "Score" : "-1",
+        "Word" : "stop"
+      },
+      { "Score" : "-1",
+        "Word" : "stopped"
+      },
+      { "Score" : "-1",
+        "Word" : "stopping"
+      },
+      { "Score" : "-1",
+        "Word" : "stops"
+      },
+      { "Score" : "2",
+        "Word" : "stout"
+      },
+      { "Score" : "1",
+        "Word" : "straight"
+      },
+      { "Score" : "-1",
+        "Word" : "strange"
+      },
+      { "Score" : "-1",
+        "Word" : "strangely"
+      },
+      { "Score" : "-2",
+        "Word" : "strangled"
+      },
+      { "Score" : "2",
+        "Word" : "strength"
+      },
+      { "Score" : "2",
+        "Word" : "strengthen"
+      },
+      { "Score" : "2",
+        "Word" : "strengthened"
+      },
+      { "Score" : "2",
+        "Word" : "strengthening"
+      },
+      { "Score" : "2",
+        "Word" : "strengthens"
+      },
+      { "Score" : "-2",
+        "Word" : "stressed"
+      },
+      { "Score" : "-2",
+        "Word" : "stressor"
+      },
+      { "Score" : "-2",
+        "Word" : "stressors"
+      },
+      { "Score" : "-2",
+        "Word" : "stricken"
+      },
+      { "Score" : "-1",
+        "Word" : "strike"
+      },
+      { "Score" : "-2",
+        "Word" : "strikers"
+      },
+      { "Score" : "-1",
+        "Word" : "strikes"
+      },
+      { "Score" : "2",
+        "Word" : "strong"
+      },
+      { "Score" : "2",
+        "Word" : "stronger"
+      },
+      { "Score" : "2",
+        "Word" : "strongest"
+      },
+      { "Score" : "-1",
+        "Word" : "struck"
+      },
+      { "Score" : "-2",
+        "Word" : "struggle"
+      },
+      { "Score" : "-2",
+        "Word" : "struggled"
+      },
+      { "Score" : "-2",
+        "Word" : "struggles"
+      },
+      { "Score" : "-2",
+        "Word" : "struggling"
+      },
+      { "Score" : "-2",
+        "Word" : "stubborn"
+      },
+      { "Score" : "-2",
+        "Word" : "stuck"
+      },
+      { "Score" : "-2",
+        "Word" : "stunned"
+      },
+      { "Score" : "4",
+        "Word" : "stunning"
+      },
+      { "Score" : "-2",
+        "Word" : "stupid"
+      },
+      { "Score" : "-2",
+        "Word" : "stupidly"
+      },
+      { "Score" : "2",
+        "Word" : "suave"
+      },
+      { "Score" : "1",
+        "Word" : "substantial"
+      },
+      { "Score" : "1",
+        "Word" : "substantially"
+      },
+      { "Score" : "-2",
+        "Word" : "subversive"
+      },
+      { "Score" : "2",
+        "Word" : "success"
+      },
+      { "Score" : "3",
+        "Word" : "successful"
+      },
+      { "Score" : "-3",
+        "Word" : "suck"
+      },
+      { "Score" : "-3",
+        "Word" : "sucks"
+      },
+      { "Score" : "-2",
+        "Word" : "suffer"
+      },
+      { "Score" : "-2",
+        "Word" : "suffering"
+      },
+      { "Score" : "-2",
+        "Word" : "suffers"
+      },
+      { "Score" : "-2",
+        "Word" : "suicidal"
+      },
+      { "Score" : "-2",
+        "Word" : "suicide"
+      },
+      { "Score" : "-2",
+        "Word" : "suing"
+      },
+      { "Score" : "-2",
+        "Word" : "sulking"
+      },
+      { "Score" : "-2",
+        "Word" : "sulky"
+      },
+      { "Score" : "-2",
+        "Word" : "sullen"
+      },
+      { "Score" : "2",
+        "Word" : "sunshine"
+      },
+      { "Score" : "3",
+        "Word" : "super"
+      },
+      { "Score" : "5",
+        "Word" : "superb"
+      },
+      { "Score" : "2",
+        "Word" : "superior"
+      },
+      { "Score" : "2",
+        "Word" : "support"
+      },
+      { "Score" : "2",
+        "Word" : "supported"
+      },
+      { "Score" : "1",
+        "Word" : "supporter"
+      },
+      { "Score" : "1",
+        "Word" : "supporters"
+      },
+      { "Score" : "1",
+        "Word" : "supporting"
+      },
+      { "Score" : "2",
+        "Word" : "supportive"
+      },
+      { "Score" : "2",
+        "Word" : "supports"
+      },
+      { "Score" : "2",
+        "Word" : "survived"
+      },
+      { "Score" : "2",
+        "Word" : "surviving"
+      },
+      { "Score" : "2",
+        "Word" : "survivor"
+      },
+      { "Score" : "-1",
+        "Word" : "suspect"
+      },
+      { "Score" : "-1",
+        "Word" : "suspected"
+      },
+      { "Score" : "-1",
+        "Word" : "suspecting"
+      },
+      { "Score" : "-1",
+        "Word" : "suspects"
+      },
+      { "Score" : "-1",
+        "Word" : "suspend"
+      },
+      { "Score" : "-1",
+        "Word" : "suspended"
+      },
+      { "Score" : "-2",
+        "Word" : "suspicious"
+      },
+      { "Score" : "-2",
+        "Word" : "swear"
+      },
+      { "Score" : "-2",
+        "Word" : "swearing"
+      },
+      { "Score" : "-2",
+        "Word" : "swears"
+      },
+      { "Score" : "2",
+        "Word" : "sweet"
+      },
+      { "Score" : "2",
+        "Word" : "swift"
+      },
+      { "Score" : "2",
+        "Word" : "swiftly"
+      },
+      { "Score" : "-3",
+        "Word" : "swindle"
+      },
+      { "Score" : "-3",
+        "Word" : "swindles"
+      },
+      { "Score" : "-3",
+        "Word" : "swindling"
+      },
+      { "Score" : "2",
+        "Word" : "sympathetic"
+      },
+      { "Score" : "2",
+        "Word" : "sympathy"
+      },
+      { "Score" : "-2",
+        "Word" : "tard"
+      },
+      { "Score" : "-2",
+        "Word" : "tears"
+      },
+      { "Score" : "2",
+        "Word" : "tender"
+      },
+      { "Score" : "-2",
+        "Word" : "tense"
+      },
+      { "Score" : "-1",
+        "Word" : "tension"
+      },
+      { "Score" : "-3",
+        "Word" : "terrible"
+      },
+      { "Score" : "4",
+        "Word" : "terrific"
+      },
+      { "Score" : "-3",
+        "Word" : "terrified"
+      },
+      { "Score" : "-3",
+        "Word" : "terror"
+      },
+      { "Score" : "-3",
+        "Word" : "terrorize"
+      },
+      { "Score" : "-3",
+        "Word" : "terrorized"
+      },
+      { "Score" : "-3",
+        "Word" : "terrorizes"
+      },
+      { "Score" : "2",
+        "Word" : "thank"
+      },
+      { "Score" : "2",
+        "Word" : "thankful"
+      },
+      { "Score" : "2",
+        "Word" : "thanks"
+      },
+      { "Score" : "-2",
+        "Word" : "thorny"
+      },
+      { "Score" : "2",
+        "Word" : "thoughtful"
+      },
+      { "Score" : "-2",
+        "Word" : "thoughtless"
+      },
+      { "Score" : "-2",
+        "Word" : "threat"
+      },
+      { "Score" : "-2",
+        "Word" : "threaten"
+      },
+      { "Score" : "-2",
+        "Word" : "threatened"
+      },
+      { "Score" : "-2",
+        "Word" : "threatening"
+      },
+      { "Score" : "-2",
+        "Word" : "threatens"
+      },
+      { "Score" : "-2",
+        "Word" : "threats"
+      },
+      { "Score" : "5",
+        "Word" : "thrilled"
+      },
+      { "Score" : "-2",
+        "Word" : "thwart"
+      },
+      { "Score" : "-2",
+        "Word" : "thwarted"
+      },
+      { "Score" : "-2",
+        "Word" : "thwarting"
+      },
+      { "Score" : "-2",
+        "Word" : "thwarts"
+      },
+      { "Score" : "-2",
+        "Word" : "timid"
+      },
+      { "Score" : "-2",
+        "Word" : "timorous"
+      },
+      { "Score" : "-2",
+        "Word" : "tired"
+      },
+      { "Score" : "-2",
+        "Word" : "tits"
+      },
+      { "Score" : "2",
+        "Word" : "tolerant"
+      },
+      { "Score" : "-2",
+        "Word" : "toothless"
+      },
+      { "Score" : "2",
+        "Word" : "top"
+      },
+      { "Score" : "2",
+        "Word" : "tops"
+      },
+      { "Score" : "-2",
+        "Word" : "torn"
+      },
+      { "Score" : "-4",
+        "Word" : "torture"
+      },
+      { "Score" : "-4",
+        "Word" : "tortured"
+      },
+      { "Score" : "-4",
+        "Word" : "tortures"
+      },
+      { "Score" : "-4",
+        "Word" : "torturing"
+      },
+      { "Score" : "-2",
+        "Word" : "totalitarian"
+      },
+      { "Score" : "-2",
+        "Word" : "totalitarianism"
+      },
+      { "Score" : "-2",
+        "Word" : "tout"
+      },
+      { "Score" : "-2",
+        "Word" : "touted"
+      },
+      { "Score" : "-2",
+        "Word" : "touting"
+      },
+      { "Score" : "-2",
+        "Word" : "touts"
+      },
+      { "Score" : "-2",
+        "Word" : "tragedy"
+      },
+      { "Score" : "-2",
+        "Word" : "tragic"
+      },
+      { "Score" : "2",
+        "Word" : "tranquil"
+      },
+      { "Score" : "-1",
+        "Word" : "trap"
+      },
+      { "Score" : "-2",
+        "Word" : "trapped"
+      },
+      { "Score" : "-3",
+        "Word" : "trauma"
+      },
+      { "Score" : "-3",
+        "Word" : "traumatic"
+      },
+      { "Score" : "-2",
+        "Word" : "travesty"
+      },
+      { "Score" : "-3",
+        "Word" : "treason"
+      },
+      { "Score" : "-3",
+        "Word" : "treasonous"
+      },
+      { "Score" : "2",
+        "Word" : "treasure"
+      },
+      { "Score" : "2",
+        "Word" : "treasures"
+      },
+      { "Score" : "-2",
+        "Word" : "trembling"
+      },
+      { "Score" : "-2",
+        "Word" : "tremulous"
+      },
+      { "Score" : "-2",
+        "Word" : "tricked"
+      },
+      { "Score" : "-2",
+        "Word" : "trickery"
+      },
+      { "Score" : "4",
+        "Word" : "triumph"
+      },
+      { "Score" : "4",
+        "Word" : "triumphant"
+      },
+      { "Score" : "-2",
+        "Word" : "trouble"
+      },
+      { "Score" : "-2",
+        "Word" : "troubled"
+      },
+      { "Score" : "-2",
+        "Word" : "troubles"
+      },
+      { "Score" : "2",
+        "Word" : "TRUE"
+      },
+      { "Score" : "1",
+        "Word" : "trust"
+      },
+      { "Score" : "2",
+        "Word" : "trusted"
+      },
+      { "Score" : "-2",
+        "Word" : "tumor"
+      },
+      { "Score" : "-5",
+        "Word" : "twat"
+      },
+      { "Score" : "-3",
+        "Word" : "ugly"
+      },
+      { "Score" : "-2",
+        "Word" : "unacceptable"
+      },
+      { "Score" : "-2",
+        "Word" : "unappreciated"
+      },
+      { "Score" : "-2",
+        "Word" : "unapproved"
+      },
+      { "Score" : "-2",
+        "Word" : "unaware"
+      },
+      { "Score" : "-1",
+        "Word" : "unbelievable"
+      },
+      { "Score" : "-1",
+        "Word" : "unbelieving"
+      },
+      { "Score" : "2",
+        "Word" : "unbiased"
+      },
+      { "Score" : "-1",
+        "Word" : "uncertain"
+      },
+      { "Score" : "-1",
+        "Word" : "unclear"
+      },
+      { "Score" : "-2",
+        "Word" : "uncomfortable"
+      },
+      { "Score" : "-2",
+        "Word" : "unconcerned"
+      },
+      { "Score" : "-1",
+        "Word" : "unconfirmed"
+      },
+      { "Score" : "-1",
+        "Word" : "unconvinced"
+      },
+      { "Score" : "-1",
+        "Word" : "uncredited"
+      },
+      { "Score" : "-1",
+        "Word" : "undecided"
+      },
+      { "Score" : "-1",
+        "Word" : "underestimate"
+      },
+      { "Score" : "-1",
+        "Word" : "underestimated"
+      },
+      { "Score" : "-1",
+        "Word" : "underestimates"
+      },
+      { "Score" : "-1",
+        "Word" : "underestimating"
+      },
+      { "Score" : "-2",
+        "Word" : "undermine"
+      },
+      { "Score" : "-2",
+        "Word" : "undermined"
+      },
+      { "Score" : "-2",
+        "Word" : "undermines"
+      },
+      { "Score" : "-2",
+        "Word" : "undermining"
+      },
+      { "Score" : "-2",
+        "Word" : "undeserving"
+      },
+      { "Score" : "-2",
+        "Word" : "undesirable"
+      },
+      { "Score" : "-2",
+        "Word" : "uneasy"
+      },
+      { "Score" : "-2",
+        "Word" : "unemployment"
+      },
+      { "Score" : "-1",
+        "Word" : "unequal"
+      },
+      { "Score" : "2",
+        "Word" : "unequaled"
+      },
+      { "Score" : "-2",
+        "Word" : "unethical"
+      },
+      { "Score" : "-2",
+        "Word" : "unfair"
+      },
+      { "Score" : "-2",
+        "Word" : "unfocused"
+      },
+      { "Score" : "-2",
+        "Word" : "unfulfilled"
+      },
+      { "Score" : "-2",
+        "Word" : "unhappy"
+      },
+      { "Score" : "-2",
+        "Word" : "unhealthy"
+      },
+      { "Score" : "1",
+        "Word" : "unified"
+      },
+      { "Score" : "-2",
+        "Word" : "unimpressed"
+      },
+      { "Score" : "-2",
+        "Word" : "unintelligent"
+      },
+      { "Score" : "1",
+        "Word" : "united"
+      },
+      { "Score" : "-2",
+        "Word" : "unjust"
+      },
+      { "Score" : "-2",
+        "Word" : "unlovable"
+      },
+      { "Score" : "-2",
+        "Word" : "unloved"
+      },
+      { "Score" : "1",
+        "Word" : "unmatched"
+      },
+      { "Score" : "-2",
+        "Word" : "unmotivated"
+      },
+      { "Score" : "-2",
+        "Word" : "unprofessional"
+      },
+      { "Score" : "-2",
+        "Word" : "unresearched"
+      },
+      { "Score" : "-2",
+        "Word" : "unsatisfied"
+      },
+      { "Score" : "-2",
+        "Word" : "unsecured"
+      },
+      { "Score" : "-1",
+        "Word" : "unsettled"
+      },
+      { "Score" : "-2",
+        "Word" : "unsophisticated"
+      },
+      { "Score" : "-2",
+        "Word" : "unstable"
+      },
+      { "Score" : "2",
+        "Word" : "unstoppable"
+      },
+      { "Score" : "-2",
+        "Word" : "unsupported"
+      },
+      { "Score" : "-1",
+        "Word" : "unsure"
+      },
+      { "Score" : "2",
+        "Word" : "untarnished"
+      },
+      { "Score" : "-2",
+        "Word" : "unwanted"
+      },
+      { "Score" : "-2",
+        "Word" : "unworthy"
+      },
+      { "Score" : "-2",
+        "Word" : "upset"
+      },
+      { "Score" : "-2",
+        "Word" : "upsets"
+      },
+      { "Score" : "-2",
+        "Word" : "upsetting"
+      },
+      { "Score" : "-2",
+        "Word" : "uptight"
+      },
+      { "Score" : "-1",
+        "Word" : "urgent"
+      },
+      { "Score" : "2",
+        "Word" : "useful"
+      },
+      { "Score" : "2",
+        "Word" : "usefulness"
+      },
+      { "Score" : "-2",
+        "Word" : "useless"
+      },
+      { "Score" : "-2",
+        "Word" : "uselessness"
+      },
+      { "Score" : "-2",
+        "Word" : "vague"
+      },
+      { "Score" : "1",
+        "Word" : "validate"
+      },
+      { "Score" : "1",
+        "Word" : "validated"
+      },
+      { "Score" : "1",
+        "Word" : "validates"
+      },
+      { "Score" : "1",
+        "Word" : "validating"
+      },
+      { "Score" : "-1",
+        "Word" : "verdict"
+      },
+      { "Score" : "-1",
+        "Word" : "verdicts"
+      },
+      { "Score" : "1",
+        "Word" : "vested"
+      },
+      { "Score" : "-2",
+        "Word" : "vexation"
+      },
+      { "Score" : "-2",
+        "Word" : "vexing"
+      },
+      { "Score" : "3",
+        "Word" : "vibrant"
+      },
+      { "Score" : "-2",
+        "Word" : "vicious"
+      },
+      { "Score" : "-3",
+        "Word" : "victim"
+      },
+      { "Score" : "-3",
+        "Word" : "victimize"
+      },
+      { "Score" : "-3",
+        "Word" : "victimized"
+      },
+      { "Score" : "-3",
+        "Word" : "victimizes"
+      },
+      { "Score" : "-3",
+        "Word" : "victimizing"
+      },
+      { "Score" : "-3",
+        "Word" : "victims"
+      },
+      { "Score" : "3",
+        "Word" : "vigilant"
+      },
+      { "Score" : "-3",
+        "Word" : "vile"
+      },
+      { "Score" : "2",
+        "Word" : "vindicate"
+      },
+      { "Score" : "2",
+        "Word" : "vindicated"
+      },
+      { "Score" : "2",
+        "Word" : "vindicates"
+      },
+      { "Score" : "2",
+        "Word" : "vindicating"
+      },
+      { "Score" : "-2",
+        "Word" : "violate"
+      },
+      { "Score" : "-2",
+        "Word" : "violated"
+      },
+      { "Score" : "-2",
+        "Word" : "violates"
+      },
+      { "Score" : "-2",
+        "Word" : "violating"
+      },
+      { "Score" : "-3",
+        "Word" : "violence"
+      },
+      { "Score" : "-3",
+        "Word" : "violent"
+      },
+      { "Score" : "2",
+        "Word" : "virtuous"
+      },
+      { "Score" : "-2",
+        "Word" : "virulent"
+      },
+      { "Score" : "1",
+        "Word" : "vision"
+      },
+      { "Score" : "3",
+        "Word" : "visionary"
+      },
+      { "Score" : "1",
+        "Word" : "visioning"
+      },
+      { "Score" : "1",
+        "Word" : "visions"
+      },
+      { "Score" : "3",
+        "Word" : "vitality"
+      },
+      { "Score" : "1",
+        "Word" : "vitamin"
+      },
+      { "Score" : "-3",
+        "Word" : "vitriolic"
+      },
+      { "Score" : "3",
+        "Word" : "vivacious"
+      },
+      { "Score" : "-1",
+        "Word" : "vociferous"
+      },
+      { "Score" : "-2",
+        "Word" : "vulnerability"
+      },
+      { "Score" : "-2",
+        "Word" : "vulnerable"
+      },
+      { "Score" : "-2",
+        "Word" : "walkout"
+      },
+      { "Score" : "-2",
+        "Word" : "walkouts"
+      },
+      { "Score" : "-3",
+        "Word" : "wanker"
+      },
+      { "Score" : "1",
+        "Word" : "want"
+      },
+      { "Score" : "-2",
+        "Word" : "war"
+      },
+      { "Score" : "-2",
+        "Word" : "warfare"
+      },
+      { "Score" : "1",
+        "Word" : "warm"
+      },
+      { "Score" : "2",
+        "Word" : "warmth"
+      },
+      { "Score" : "-2",
+        "Word" : "warn"
+      },
+      { "Score" : "-2",
+        "Word" : "warned"
+      },
+      { "Score" : "-3",
+        "Word" : "warning"
+      },
+      { "Score" : "-3",
+        "Word" : "warnings"
+      },
+      { "Score" : "-2",
+        "Word" : "warns"
+      },
+      { "Score" : "-1",
+        "Word" : "waste"
+      },
+      { "Score" : "-2",
+        "Word" : "wasted"
+      },
+      { "Score" : "-2",
+        "Word" : "wasting"
+      },
+      { "Score" : "-1",
+        "Word" : "wavering"
+      },
+      { "Score" : "-2",
+        "Word" : "weak"
+      },
+      { "Score" : "-2",
+        "Word" : "weakness"
+      },
+      { "Score" : "3",
+        "Word" : "wealth"
+      },
+      { "Score" : "2",
+        "Word" : "wealthy"
+      },
+      { "Score" : "-2",
+        "Word" : "weary"
+      },
+      { "Score" : "-2",
+        "Word" : "weep"
+      },
+      { "Score" : "-2",
+        "Word" : "weeping"
+      },
+      { "Score" : "-2",
+        "Word" : "weird"
+      },
+      { "Score" : "2",
+        "Word" : "welcome"
+      },
+      { "Score" : "2",
+        "Word" : "welcomed"
+      },
+      { "Score" : "2",
+        "Word" : "welcomes"
+      },
+      { "Score" : "1",
+        "Word" : "whimsical"
+      },
+      { "Score" : "-3",
+        "Word" : "whitewash"
+      },
+      { "Score" : "-4",
+        "Word" : "whore"
+      },
+      { "Score" : "-2",
+        "Word" : "wicked"
+      },
+      { "Score" : "-1",
+        "Word" : "widowed"
+      },
+      { "Score" : "2",
+        "Word" : "willingness"
+      },
+      { "Score" : "4",
+        "Word" : "win"
+      },
+      { "Score" : "4",
+        "Word" : "winner"
+      },
+      { "Score" : "4",
+        "Word" : "winning"
+      },
+      { "Score" : "4",
+        "Word" : "wins"
+      },
+      { "Score" : "3",
+        "Word" : "winwin"
+      },
+      { "Score" : "1",
+        "Word" : "wish"
+      },
+      { "Score" : "1",
+        "Word" : "wishes"
+      },
+      { "Score" : "1",
+        "Word" : "wishing"
+      },
+      { "Score" : "-3",
+        "Word" : "withdrawal"
+      },
+      { "Score" : "-2",
+        "Word" : "woebegone"
+      },
+      { "Score" : "-3",
+        "Word" : "woeful"
+      },
+      { "Score" : "3",
+        "Word" : "won"
+      },
+      { "Score" : "4",
+        "Word" : "wonderful"
+      },
+      { "Score" : "3",
+        "Word" : "woo"
+      },
+      { "Score" : "3",
+        "Word" : "woohoo"
+      },
+      { "Score" : "4",
+        "Word" : "wooo"
+      },
+      { "Score" : "4",
+        "Word" : "woow"
+      },
+      { "Score" : "-1",
+        "Word" : "worn"
+      },
+      { "Score" : "-3",
+        "Word" : "worried"
+      },
+      { "Score" : "-3",
+        "Word" : "worry"
+      },
+      { "Score" : "-3",
+        "Word" : "worrying"
+      },
+      { "Score" : "-3",
+        "Word" : "worse"
+      },
+      { "Score" : "-3",
+        "Word" : "worsen"
+      },
+      { "Score" : "-3",
+        "Word" : "worsened"
+      },
+      { "Score" : "-3",
+        "Word" : "worsening"
+      },
+      { "Score" : "-3",
+        "Word" : "worsens"
+      },
+      { "Score" : "3",
+        "Word" : "worshiped"
+      },
+      { "Score" : "-3",
+        "Word" : "worst"
+      },
+      { "Score" : "2",
+        "Word" : "worth"
+      },
+      { "Score" : "-2",
+        "Word" : "worthless"
+      },
+      { "Score" : "2",
+        "Word" : "worthy"
+      },
+      { "Score" : "4",
+        "Word" : "wow"
+      },
+      { "Score" : "4",
+        "Word" : "wowow"
+      },
+      { "Score" : "4",
+        "Word" : "wowww"
+      },
+      { "Score" : "-3",
+        "Word" : "wrathful"
+      },
+      { "Score" : "-2",
+        "Word" : "wreck"
+      },
+      { "Score" : "-2",
+        "Word" : "wrong"
+      },
+      { "Score" : "-2",
+        "Word" : "wronged"
+      },
+      { "Score" : "-4",
+        "Word" : "wtf"
+      },
+      { "Score" : "1",
+        "Word" : "yeah"
+      },
+      { "Score" : "1",
+        "Word" : "yearning"
+      },
+      { "Score" : "2",
+        "Word" : "yeees"
+      },
+      { "Score" : "1",
+        "Word" : "yes"
+      },
+      { "Score" : "2",
+        "Word" : "youthful"
+      },
+      { "Score" : "-2",
+        "Word" : "yucky"
+      },
+      { "Score" : "3",
+        "Word" : "yummy"
+      },
+      { "Score" : "-2",
+        "Word" : "zealot"
+      },
+      { "Score" : "-2",
+        "Word" : "zealots"
+      },
+      { "Score" : "2",
+        "Word" : "zealous"
+      }
+    ] }
