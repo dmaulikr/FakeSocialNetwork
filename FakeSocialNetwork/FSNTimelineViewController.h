@@ -13,6 +13,8 @@
 #import "UIColor+FSNColor.h"
 #import "FSNTabBarHandler.h"
 #import "FSNComposeViewController.h"
+#import "FSNSentiment.h"
+
 
 @interface FSNTimelineViewController : UITableViewController <FSNPostDelegate>
 

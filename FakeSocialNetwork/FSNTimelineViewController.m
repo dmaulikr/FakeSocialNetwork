@@ -8,12 +8,6 @@
 
 
 #import "FSNTimelineViewController.h"
-#import "FSNPostTableViewCell.h"
-#import "FSNUser.h"
-#import "FSNPost.h"
-#import "UIColor+FSNColor.h"
-#import "FSNTabBarHandler.h"
-#import "FSNSentiment.h"
 
 
 @interface FSNTimelineViewController ()
@@ -74,7 +68,7 @@
     retweet.originalAuthor = renato;
 
     FSNSentiment *sentimentAnalyzer = [[FSNSentiment alloc] init];
-    [sentimentAnalyzer scoreForPost:renatoPost];
+    [sentimentAnalyzer scoreForPost:retweet];
 
     self.posts = [[NSMutableArray alloc] initWithArray:@[retweet, dannyPost, renatoPost, coryPost]];
 }
